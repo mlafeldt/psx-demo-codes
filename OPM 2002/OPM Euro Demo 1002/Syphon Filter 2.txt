@@ -1,0 +1,127 @@
+***SYPHON FILTER 2
+
+RCJC Pad 1
+7012E642 ????
+RCJC Pad 2
+7012E664 ????
+AnAc Pad 1
+7012E640 ????
+AnAc Pad 2
+7012E662 ????
+
+PAL2NTSC
+$30100172 0040
+Y-Fix 1
+$800FB94C 0000
+Y-Fix 2
+$800FBAFA 2400
+Unendlich Panzerung
+$701ABEE8 0096
+$801ABEE6 0258
+$701AC66C 0096
+$801AC66A 0258
+Habe alle Waffen/Gegenstaende
+$B0030002 0000
+$10135B8C FFFF
+**Slow Motion
+*An
+(Druecke L3)
+$7012E642 FFFD
+$800FD3B4 0000
+*Aus
+(Druecke R3)
+$7012E642 FFFB
+$800FD3B4 FFFF
+*Unendlich Munition/Waffen
+Alle (nach Aufnahme)
+$8006E0F2 2402
+9mm (schallgedaempft)
+$30135B9A 00FF
+9mm
+$30135B9E 00FF
+45er
+$30135BA2 00FF
+M-16
+$30135BA6 00FF
+HK-5 (schallgedaempft)
+$30135BAA 00FF
+HK-5
+$30135BAE 00FF
+PK-102
+$30135BB2 00FF
+Schrotflinte
+$30135BB6 00FF
+UAS-12
+$30135BBA 00FF
+G-18
+$30135BBE 00FF
+BIZ-2
+$30135BC2 00FF
+K3G4
+$30135BC6 00FF
+H11
+$30135BCA 00FF
+Scharfschuetzengewehr (schallgedaempft)
+$30135BCE 00FF
+Scharfschuetzengewehr
+$30135BD2 00FF
+Nachtsichtgewehr
+$30135BD6 00FF
+Armbrust
+$30135BDA 00FF
+M-79
+$30135BEA 00FF
+Granaten
+$30135BEE 00FF
+Nervengasgranaten
+$30135BF2 00FF
+C4
+$30135BF6 00FF
+Traenengaswerfer
+$30135C06 00FF
+*Max Munition/Waffen
+9mm (schallgedaempft)
+$80135B98 03E7
+9mm
+$80135B9C 03E7
+45er
+$80135BA0 03E7
+M-16
+$80135BA4 03E7
+HK-5 (schallgedaempft)
+$80135BA8 03E7
+HK-5
+$80135BAC 03E7
+PK-102
+$80135BB0 03E7
+Schrotflinte
+$80135BB4 03E7
+UAS-12
+$80135BB8 03E7
+G-18
+$80135BBC 03E7
+BIZ-2
+$80135BC0 03E7
+K3G4
+$80135BC4 03E7
+H11
+$80135BC8 03E7
+Scharfschuetzengewehr (schallgedaempft)
+$80135BCC 03E7
+Scharfschuetzengewehr
+$80135BD0 03E7
+Nachtsichtgewehr
+$80135BD4 03E7
+Armbrust
+$80135BD8 03E7
+M-79
+$80135BE8 03E7
+Granaten
+$80135BEC 03E7
+Nervengasgranaten
+$80135BF0 03E7
+C4
+$80135BF4 03E7
+Traenengaswerfer
+$80135C04 03E7
+

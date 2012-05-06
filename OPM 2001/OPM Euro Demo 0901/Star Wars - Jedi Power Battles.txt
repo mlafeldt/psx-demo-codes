@@ -1,0 +1,54 @@
+***STAR WARS - JEDI POWER BATTLES
+
+RCJC Pad 1
+700B457E ????
+RCJC Pad 2
+700B45A0 ????
+AnAc Pad 1
+700B457C ????
+AnAc Pad 2
+700B459E ????
+
+PAL2NTSC
+$300786AE 0040
+Y-Fix 1
+$8007171C 0000
+Y-Fix 2
+$800718CA 2400
+Unendlich Credits
+$800B3E10 FFFF
+Max Punkte
+$800B3E18 423F
+$300B3E1A 000F
+Unendlich Lebensenergie
+$300B3E1C 00FE
+Max Lebensenergie
+$300B3E1E 00FE
+Unendlich Macht
+$300B3E24 00FE
+Max Macht
+$300B3E26 00FE
+Unendlich Spezialgegenstaende
+$800B3E2A 03E7
+*Demozeit (Note 1)
+Unendlich
+$8002FBCE 3C00
+Nimmt zu
+$8002FBC8 0001
+**Hypermodus
+*Normal
+(Druecke L1 Pad 2)
+$700B45A0 FBFF
+$3003CBD8 0001
+*Schneller
+(Druecke L2 Pad 2)
+$700B45A0 FEFF
+$3003CBD8 0002
+*Noch schneller
+(Druecke R1 Pad 2)
+$700B45A0 F7FF
+$3003CBD8 0003
+*Viel schneller
+(Druecke R2 Pad 2)
+$700B45A0 FDFF
+$3003CBD8 0004

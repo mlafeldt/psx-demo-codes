@@ -1,0 +1,306 @@
+
+//=========
+
+OPM Euro Demo 09/2001 Deutsch
+
+SCED03472
+## Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@XploderFreaX.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation Code (alle Demos)
+$F000DF12 0201
+
+#1MOTO RACER 2
+
+RCJC Pad 1
+$D00EF73A ????
+RCJC Pad 2
+$D00EF75C ????
+AnAc Pad 1
+$D00EF738 ????
+AnAc Pad 2
+$D00EF75A ????
+
+PAL2NTSC
+$3009FB5A 0040
+$3010CDA6 0040
+$30123802 0040
+Y-Fix
+$800A16B4 0000
+$8010DF70 0000
+$801249CC 0000
+Rundenzeiten 00:00:00
+$3002C6FE 0060
+Unendlich Checkpoint-Zeit
+(Drücke L1 & R1 nach Rennstart)
+$700EF73A F3FF
+$8002C65E 3C00
+#3Pause-Modus
+An
+(Drücke Start)
+$700EF73A FFF7
+$8009F30A 2400
+Aus
+(Drücke Dreieck)
+$700EF73A EFFF
+$8009F30A 1440
+#3Slow Motion 
+An
+(Drücke L3)
+$700EF73A FFFD
+$800A3228 0000
+Aus
+(Drücke R3)
+$700EF73A FFFB
+$800A3228 FFFF
+
+#1OVERBOARD!
+
+RCJC Pad 1
+$D00BF4EA ????
+RCJC Pad 2
+$D00BF852 ????
+AnAc Pad 1
+$D00BF4E8 ????
+AnAc Pad 2
+$D00BF850 ????
+
+PAL2NTSC
+$30084C96 0040
+Y-Fix
+$80087160 0000
+Unendlich Zeit
+$8007EBEE 3C00
+Unendlich Runden
+$30037666 0040
+SuddenDeath-Modus (P1 & P2)
+$30032F82 0020
+#3Munition alle Waffen (Note 1)
+Unendlich
+$8004916E 3C00
+Nimmt zu
+$30049168 0021
+#3Unendlich Energie
+P1
+$800B56BE 3FC0
+P2
+$800B5726 3FC0
+P1 & P2
+$80032F82 2400
+
+#1PANDEMONIUM 2
+
+RCJC Pad 1
+$D00B003A ????
+RCJC Pad 2
+$D0000002 ????
+
+PAL2NTSC
+$30084C12 0040
+Y-Fix
+$8008A500 0000
+Unverwundbar
+$8005994A 3C00
+Unendlich Leben
+$80051756 2402
+Max Münzen
+$800B3560 FFFE
+#3Gegner einfrieren
+An
+(Drücke L1 & L2)
+$700B003A FAFF
+$8001B01A 2400
+Aus
+(Drücke R1 & R2)
+$700B003A F5FF
+$8001B01A 0040
+#3Slow Motion 
+An
+(Drücke L1 Pad 2)
+$70000002 FBFF
+$8008C268 0000
+Aus
+(Drücke L2 Pad 2)
+$70000002 FEFF
+$8008C268 FFFF
+
+#1STAR WARS - JEDI POWER BATTLES
+
+RCJC Pad 1
+$D00B457E ????
+RCJC Pad 2
+$D00B45A0 ????
+AnAc Pad 1
+$D00B457C ????
+AnAc Pad 2
+$D00B459E ????
+
+PAL2NTSC
+$300786AE 0040
+Y-Fix 1
+$8007171C 0000
+Y-Fix 2
+$800718CA 2400
+Unendlich Credits
+$800B3E10 FFFF
+Max Punkte
+$800B3E18 423F
+$300B3E1A 000F
+Unendlich Lebensenergie
+$300B3E1C 00FE
+Max Lebensenergie
+$300B3E1E 00FE
+Unendlich Macht
+$300B3E24 00FE
+Max Macht
+$300B3E26 00FE
+Unendlich Spezialgegenstände
+$800B3E2A 03E7
+#3Demozeit (Note 1)
+Unendlich
+$8002FBCE 3C00
+Nimmt zu
+$8002FBC8 0001
+#3Hypermodus
+Normal
+(Drücke L1 Pad 2)
+$700B45A0 FBFF
+$3003CBD8 0001
+Schneller
+(Drücke L2 Pad 2)
+$700B45A0 FEFF
+$3003CBD8 0002
+Noch schneller
+(Drücke R1 Pad 2)
+$700B45A0 F7FF
+$3003CBD8 0003
+Viel schneller
+(Drücke R2 Pad 2)
+$700B45A0 FDFF
+$3003CBD8 0004
+
+#1THE ITALIAN JOB
+
+RCJC Pad 1 - ItalianJob Modus
+$D0178794 ????
+RCJC Pad 2 - ItalianJob Modus
+$D01787D6 ????
+RCJC Pad 1 - Challenge Modus
+$D0136BAC ????
+RCJC Pad 2 - Challenge Modus
+$D0136BEE ????
+
+PAL2NTSC
+$70027754 0008
+$30027752 0040
+Y-Fix 1
+$7002835C 0010
+$8002835C 0000
+Y-Fix 2
+$70028508 0010
+$8002850A 2400
+#2ItalianJob Modus
+Kein Schaden
+$7005812C 00C4
+$3005812E 0080
+Unendlich Zeit
+$70055F48 0058
+$30055F4A 0040
+Spritztour
+$700F256C 66F4
+$800F256C 0000
+Nitro Boost (Note 2)
+(Drücke R2 & X)
+$70178794 BDFF
+$5005F58C 0004
+$??004224 C0DE
+$90178794 BDFF
+$5005F58C 0004
+$2110A200 DEAD
+Fliegen
+(Halte L1 & X)
+$70178794 BBFF
+$3005F79C 0023
+$90178794 BBFF
+$3005F79C 0021
+Notbremse
+(Drücke Kreis)
+$7005F77A 2400
+$8005F77A 0C01
+$70178794 DFFF
+$8005F77A 2400
+$70178794 DFFF
+$00116134 0000
+#3Spielgeschwindigkeit
+Normal
+(Drücke L1 Pad 2)
+$701787D6 FBFF
+$3008CB10 0002
+Schneller
+(Drücke L2 Pad 2)
+$701787D6 FEFF
+$3008CB10 0000
+Langsamer
+(Drücke R1 Pad 2)
+$701787D6 F7FF
+$3008CB10 0004
+Noch langsamer
+(Drücke R2 Pad 2)
+$701787D6 FDFF
+$3008CB10 000A
+#2Challenge Modus
+Kein Schaden
+$7004ED14 00C4
+$3004ED16 0080
+Unendlich Zeit
+$70068E50 0058
+$30068E52 0040
+Brauche nur 1 Fahne
+$70068A7A 2442
+$30068A78 0015
+Nitro Boost (Note 2)
+(Drücke R2 & X)
+$70136BAC BDFF
+$50056144 0004
+$??004224 C0DE
+$90136BAC BDFF
+$50056144 0004
+$2110A200 DEAD
+Fliegen
+(Halte L1 & X)
+$70136BAC BBFF
+$30056328 0023
+$90136BAC BBFF
+$30056328 0021
+Notbremse
+(Drücke Kreis)
+$70056332 2400
+$80056332 0C01
+$70136BAC DFFF
+$80056332 2400
+$70136BAC DFFF
+$000C6B5C 0000
+#3Spielgeschwindigkeit
+Normal
+(Drücke L1 Pad 2)
+$70136BEE FBFF
+$300898A4 0002
+Schneller
+(Drücke L2 Pad 2)
+$70136BEE FEFF
+$300898A4 0000
+Langsamer
+(Drücke R1 Pad 2)
+$70136BEE F7FF
+$300898A4 0004
+Noch langsamer
+(Drücke R2 Pad 2)
+$70136BEE FDFF
+$300898A4 000A
+
+Note 1 : Nur einen der Codes benutzen.
+Note 2 : Durch die entsprechenden Werte kann man im Prinzip so schnell fahren, wie man will. Man sollte es aber nicht übertreiben, da das Fahrzeug bei zu hoher Geschwindigkeit unkontrollierbar wird. Versuche daher die folgenden Werte : 02 - Schneller; 03 - Noch schneller; 04 - Viel schneller; 05 - ... usw.
+Zum Lenken den Analog-Modus benutzen.
+
+//=========

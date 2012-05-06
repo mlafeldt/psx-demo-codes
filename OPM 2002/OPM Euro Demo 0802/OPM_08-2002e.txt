@@ -1,0 +1,459 @@
+
+//=========
+
+"OPM Euro Demo 08/2002 Deutsch SCED03894"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***A BUG'S LIFE
+
+RCJC Pad 1
+700B5F52 ????
+RCJC Pad 2
+700B5F7A ????
+AnAc Pad 1
+700B5F50 ????
+AnAc Pad 2
+700B5F78 ????
+
+PAL2NTSC
+$342351FB 3D53
+Y-Fix 1
+$84238660 F23E
+Hypermodus
+$8423599B 112B
+Unverwundbar
+$342F5D93 3D0E
+Unendlich Gesundheit
+$342F5D95 3D31
+Unendlich Leben
+$342F5D81 4D28
+Max Getreidekoerner
+$342F5D80 4E41
+Habe FLIK komplettiert
+$342F5D83 4D10
+*Habe Rote Beere
+(Druecke Start Pad 2)
+$742EA490 19FE
+$342F5D96 3E34
+*Habe Blaue Beere
+(Druecke Dreieck Pad 2)
+$742EA490 0906
+$342F5D96 3E35
+*Habe Gruene Beere
+(Druecke Kreis Pad 2)
+$742EA490 39F6
+$342F5D96 3E36
+*Habe Goldene Beere
+(Druecke X Pad 2)
+$742EA490 59F6
+$342F5D96 3E37
+*Habe Violette Beere
+(Druecke Viereck Pad 2)
+$742EA490 99F6
+$342F5D96 3E30
+
+***COLONY WARS VENGEANCE
+
+RCJC Pad 1
+7005D6C2 ????
+RCJC Pad 2
+7005D6E2 ????
+AnAc Pad 1
+7005D6C0 ????
+AnAc Pad 2
+7005D6E0 ????
+
+PAL2NTSC
+$342DAD49 CB75
+Y-Fix 1
+$84222311 5FEB
+Unendlich Schild
+$3420931F FD09
+Unendlich Panzerung
+$3420931B FD15
+Unendlich Raketen
+$7428879D A52D
+$8428878B F920
+$7428879D A52D
+$84288789 DD21
+*Anti-Shield Laser
+Keine Ueberhitzung
+$8437C07C 78B0
+Schnellfeuer
+$8437C000 68D4
+*Laser
+Keine Ueberhitzung
+$8437C1D5 7909
+Schnellfeuer
+$8437C1D9 790D
+**Slow Motion
+*An
+(Druecke L1 Pad 2)
+$74202D05 BCFD
+$84220C16 7A06
+*Aus
+(Druecke L2 Pad 2)
+$74202D05 B9FE
+$84220C16 85E8
+
+***CROC - LEGEND OF THE GOBBOS
+
+RCJC Pad 1
+70083F52 ????
+RCJC Pad 2
+7008407A ????
+AnAc Pad 1
+70083F50 ????
+AnAc Pad 2
+70084078 ????
+
+PAL2NTSC
+$3423D8F6 B43E
+Y-Fix 1
+$84200840 64D8
+Max Diamanten
+$84223256 636E
+Max Gobbos
+$3422325E 6099
+Alle Kristalle gefunden
+$34223131 5D12
+*Moon Jump
+(Druecke L3 & X)
+$742DC5B9 7C43
+$8426B45E DC16
+$742DC5B9 3C41
+$8426B45E DE14
+*Leben (Note 1)
+Unendlich
+$8426BD7B F125
+Nehmen zu
+$8426BD79 D528
+**Hyper Modus
+*An
+(Druecke L3 & R1)
+$742DC5B9 3443
+$342454D0 3CEE
+*Aus
+(Druecke L3 & L1)
+$742DC5B9 3843
+$342454D0 3CED
+
+***DESTRUCTION DERBY RAW
+
+PAL2NTSC
+$74268B59 F342
+$84268B59 F343
+$742FAC48 CC39
+$842FAC48 CC38
+$742F8E64 EE43
+$842F8E64 EE42
+$742E36CA 7801
+$842E36CA 7800
+Alle Wagen anwaehlbar
+$7426196F 9587
+$8426196F 91C7
+$742613FF 6B1D
+$842613FF 5F4D
+Max Beschleunigung
+$3429A2C3 D5AD
+$3429A2C0 D4A2
+Max Drehzahl
+$3429A2C1 D5A3
+$3429A2DE E4C8
+Max Bodenhaftung
+$3429A2DF E5C9
+$3429A2DC E4CE
+Max Bremsen
+$3429A2DD E5CF
+$3429A2DA E4D4
+Max Widerstandsfaehigkeit
+$3429A2DB E5D5
+$3429A2D8 E4CA
+Alle Eigenschaften auf Max
+$3429A2C3 D5AD
+$B420FBD5 953B
+$1429A2C0 B0A2
+
+**Einspieler-Modus
+
+RCJC Pad 1
+700E46A2 ????
+AnAc Pad 1
+700E46A0 ????
+
+Unzerstoerbar
+$742F12E2 92D6
+$842F12E0 9242
+$742F12E2 92D6
+$B426FBD3 9339
+$142BC1AD B5C1
+Max Punkte
+$8429D3DB E27D
+Immer erster
+$3429D37B C510
+
+**Mehrspieler-Modus
+
+RCJC Pad 1
+700E316E ????
+RCJC Pad 2
+700E3176 ????
+AnAc Pad 1
+700E316C ????
+AnAc Pad 2
+700E3174 ????
+
+*P1
+Unzerstoerbar
+$742F30F6 60A0
+$842F30F4 6038
+$742F30F6 60A0
+$B426FBD3 9339
+$142BDCDC C06C
+Max Punkte
+$8429E987 ACCF
+*P2
+Unzerstoerbar
+$742F290F 4961
+$842F290D 49F9
+$742F290F 4961
+$B426FBD3 9339
+$142BDCEC D07C
+Max Punkte
+$8429EEA2 B7AA
+
+***DEVIL DICE
+
+RCJC Pad 1
+70194D92 ????
+RCJC Pad 2
+70194DBA ????
+AnAc Pad 1
+70194D90 ????
+AnAc Pad 2
+70194DB8 ????
+
+PAL2NTSC
+$343764D6 1CEA
+Y-Fix 1
+$8435EA5A 90A0
+**Trial-Modus
+Max Punkte
+$843DAEEE 0E27
+$843DAEEC 4C19
+*Zeit (Note 1)
+Unendlich
+$842FCD75 BDF5
+Nimmt zu
+$842FCD75 BDF4
+**Puzzle-Modus
+*Schritte (Note 1)
+Unendlich
+$842B25F5 691D
+Nehmen zu
+$842B25F5 691C
+
+***G-POLICE 1
+
+RCJC Pad 1
+70007572 ????
+RCJC Pad 2
+7000759A ????
+AnAc Pad 1
+70007570 ????
+AnAc Pad 2
+70007598 ????
+
+PAL2NTSC
+$342E2260 54E2
+Y-Fix 1
+$842E05BD 8575
+*Unendlich Schild
+(Analog-Modus ein Pad 2)
+$74258F7B 8636
+$843BF93D 6EB3
+Unendlich Munition alle Waffen
+$84218E8A E87F
+$84218E88 DC39
+
+***PONG
+
+RCJC Pad 1
+701FE512 ????
+RCJC Pad 2
+701FE53A ????
+AnAc Pad 1
+701FE510 ????
+AnAc Pad 2
+701FE538 ????
+
+PAL2NTSC
+$342F621E 22EC
+Y-Fix 1
+$842F49C5 2921
+Kein Timeout
+$84283517 67DB
+$84282BCF 4D35
+Anzahl der Punkte P1
+$301F7F74 00??
+Anzahl der Punkte P2
+$301F80CC 00??
+*Stage-Modifizierer (Note 1)
+Penguin Pranks
+$34282B6B 4D99
+Soccer
+$34282B6B 4D98
+Log Jam
+$34282B6B 4D9B
+Balloons
+$34282B6B 4D9A
+Polar Pivot
+$34282B6B 4D9C
+Jungle Spikes
+$34282B6B 4D9F
+**Hypermodus
+*An
+(Druecke L3)
+$743AEEDC 5BC6
+$842F6BFF 3FC5
+*Aus
+(Druecke R3)
+$743AEEDC 5BC0
+$842F6BFF 0B95
+
+***R-TYPE DELTA
+
+RCJC Pad 1
+7018095A ????
+RCJC Pad 2
+7018097C ????
+AnAc Pad 1
+70180958 ????
+AnAc Pad 2
+7018097A ????
+
+PAL2NTSC
+$7437D2AC 6A76
+$3437D2AA 6A38
+Y-Fix 1
+$74362ED6 D874
+$84362ED6 D864
+Y-Fix 2
+$74362D01 C521
+$84362D03 E12F
+Unendlich Credits
+$34244AA8 223F
+Unendlich Leben
+$34244AAA 223D
+Schnelle Punktzunahme
+$8432EE4A 732E
+Max Punkte
+$8432EE4A 1AAF
+$8432EE48 8C26
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$743D03B7 3A39
+$8437DA2A 7240
+$743D03B7 3A39
+$8436347E BE36
+*Hyper
+(Druecke R1 Pad 2)
+$743D03B7 3639
+$8437DA2A 46F0
+$743D03B7 3639
+$8436347E 41B8
+*Normal
+(Druecke R2 Pad 2)
+$743D03B7 3C39
+$8437DA2A 7240
+$743D03B7 3C39
+$8436347E 41B8
+
+***STUART LITTLE 2
+
+RCJC Pad 1
+700CEC7E ????
+RCJC Pad 2
+700CECEE ????
+AnAc Pad 1
+700CEC7C ????
+AnAc Pad 2
+700CECEC ????
+
+PAL2NTSC
+$342FCE7A BEA4
+Y-Fix 1
+$842FFC88 AC78
+Hypermodus
+$042FD529 D541
+Unendlich Leben
+$34290A8F 6DF6
+Unendlich Herzen
+$34290A8C 6C9A
+Max Herzanzahl
+$34290A8D 6D9B
+Unverwundbar
+$34290A8A 6C68
+Unendlich Zeit
+$0427DD11 B521
+Unendlich Baelle
+$84208F79 DD29
+*Sudden Death
+(Druecke L3)
+$742916A0 6766
+$34290A8E 6C95
+*Fliegen
+(Halte Dreieck)
+$742916A0 7774
+$342240FE 3ED1
+$742916A0 6764
+$342240FE 3ED3
+
+***VICTORY BOXING 2
+
+RCJC Pad 1
+7005AB62 ????
+RCJC Pad 2
+7005AB84 ????
+AnAc Pad 1
+7005AB60 ????
+AnAc Pad 2
+7005AB82 ????
+
+PAL2NTSC
+$34278973 F15B
+Y-Fix 1
+$8427743C 1CB4
+Y-Fix 2
+$84276A7A 3640
+Hypermodus
+$84279193 DDE3
+*Setze Zeit auf 3:00
+(Druecke R3)
+$742050BA C3AC
+$84221523 914B
+*Setze Zeit auf 0
+(Druecke L3)
+$742050BA C3AA
+$84221523 91FF
+**P1
+Unendlich Kraft
+$84205B7B 1442
+Unendlich Energie
+$84205B79 1440
+Keine Knock Outs
+$34205B67 456D
+**CPU
+Keine Kraft
+$84205E84 4A1E
+Keine Energie
+$84205E86 4A1C
+5 Knock Outs
+$34205EB8 3A47
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

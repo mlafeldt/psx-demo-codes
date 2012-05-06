@@ -1,0 +1,43 @@
+***DRIVER 2
+
+RCJC Pad 1
+700A3B52 ????
+RCJC Pad 2
+700A3B74 ????
+AnAc Pad 1
+700A3B50 ????
+AnAc Pad 2
+700A3B72 ????
+
+PAL2NTSC
+$3007BC42 0040
+Y-Fix 1
+$80077E80 0000
+Ueberspringe Videosequenz
+$801A6808 0000
+Kein Schaden
+$80096636 0000
+Spritztour (**)
+$80069308 0000
+$80069314 0000
+$8006931C 0000
+**Durch Autos fahren
+*An
+(Druecke R3 & Oben)
+$700A3B52 FFEB
+$80019DA6 2400
+*Aus
+(Druecke R3 & Unten)
+$700A3B52 FFBB
+$80019DA6 0C00
+**Passanten einfrieren
+*An
+(Druecke R3 & Links)
+$700A3B52 FF7B
+$8001FD9A 2400
+*Aus
+(Druecke R3 & Rechts)
+$700A3B52 FFDB
+$8001FD9A 0C01
+
+(**) Code von gothi

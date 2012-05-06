@@ -1,0 +1,75 @@
+
+
+//========
+
+"OPM Euro Demo 07/00 Deutsch"
+
+SCED02660
+
+
+**Streetfighter EX2 Plus Codes
+JC P1
+701F294C ????
+JC P2
+701F294E ????
+PAL2NTSC
+$701E206C0001
+$801E206C0000
+Y-Fix
+$801C00CC0000
+UE Menuezeit
+$800B003606F0
+UE Kampfzeit
+$301E3DB40063
+Vermindere Kampfzeit
+(Druecke L1 & L2 & R1 & R2)
+$701F294C000F
+$301E3DB40001
+*P1
+UE Energie 
+$301E6EB400C8
+SuddenDeath
+$301E6EB40000
+UE SuperCombo-Energie
+$301E6EB50096
+Keine SuperCombo-Energie
+$301E6EB50000
+Max Punkte
+$801E6CCC967F
+$801E6CCE0098
+*Immer Excel (Note 1)
+An
+(Druecke Start & L2)
+$701F294C0801
+$801E6EEEFFFF
+Aus
+(Druecke Start & L1)
+$701F294C0804
+$801E6EEE0000
+*P2
+UE Energie
+$301E873000C8
+SuddenDeath
+$301E87300000
+UE SuperCombo-Energie
+$301E87310096
+Keine SuperCombo-Energie
+$301E87310000
+*Immer Excel (Note 1)
+An
+(Druecke Start & L2)
+$701F294E0801
+$801E876AFFFF
+Aus
+(Druecke Start & L1)
+$701F294E0804
+$801E876A0000
+
+
+Note 1: In normaler Welt aktivieren, um Excel-
+Faehigkeiten auch dort anwenden zu koennen.
+In Excel-Phase aktivieren, um unendlich Excel-
+Zeit zu erlangen.
+
+
+//========

@@ -1,0 +1,74 @@
+***CRASH BASH
+
+RCJC Pad 1
+700613B2 ????
+RCJC Pad 2
+700613E6 ????
+AnAc Pad 1
+700613B0 ????
+AnAc Pad 2
+700613E4 ????
+
+PAL2NTSC
+$30033CB6 0040
+Y-Fix 1
+$80030720 0000
+Y-Fix 2
+$800308CE 2400
+*Setze Zeit auf 1:30
+(Druecke R1 & R2)
+$700613B2 F5FF
+$50099208 0004
+$00300100 C0DE
+*Setze Zeit auf 0:00
+(Druecke L1 & L2)
+$700613B2 FAFF
+$00099208 0000
+**Hyper Modus
+*An
+(Druecke L3)
+$700613B2 FFFD
+$800325AA 2400
+*Aus
+(Druecke R3)
+$700613B2 FFFB
+$800325AA 1440
+**Pogo Painter & Pogo-A-Gogo Modi
+**Waffen-Modifizierer (Note 2)
+*Habe Nichts
+(Druecke L2 & Viereck)
+$700613B2 7EFF
+$300C227C 0000
+*Habe Normale Rakete
+(Druecke R2 & Viereck)
+$700613B2 7DFF
+$300C227C 0001
+*Habe Spezial-Rakete
+(Druecke L1 & Viereck)
+$700613B2 7BFF
+$300C227C 0002
+*Habe Laser
+(Druecke R1 & Viereck)
+$700613B2 77FF
+$300C227C 0003
+Habe Turbo-Schuhe (Note 2 & 3)
+$700613B0 7300
+$300C2290 0001
+Gegner koennen nichts aufnehmen (Note 3)
+$700613B0 7300
+$B003001C 0000
+$100C2298 0000
+$700613B0 7300
+$B003001C 0000
+$100C22AC 0000
+**Polar Panic Modus (Note 3)
+Unendlich Energie P1
+$700613B0 7300
+$801E5790 0100
+Keine Energie fuer Gegner
+$700613B0 7300
+$B003013C 0000
+$101E58CC 0000
+
+Note 2 : Die Grafik wird zwar nicht immer korrekt angezeigt, aber der jeweilige Gegenstand ist definitiv vorhanden.
+Note 3 : Diese Codes werden erst aktiviert, wenn man den Analog-Modus (Pad 1) einschaltet. Bei Ladezeiten den Analog-Modus ausschalten, sonst könnte es zum Absturz kommen!

@@ -1,0 +1,47 @@
+***BUGS BUNNY & TAZ - TIME BUSTERS
+
+RCJC Pad 1
+7009C21E ????
+RCJC Pad 2
+7009C240 ????
+AnAc Pad 1
+7009C21C ????
+AnAc Pad 2
+7009C23E ????
+
+PAL2NTSC
+$3007DDB6 0040
+Y-Fix 1
+$80075994 0000
+Y-Fix 2
+$80075B42 2400
+Unendlich Karotten
+$30018058 0064
+Unendlich Clipboards
+$3001809F 0003
+*Gegner punkten nicht
+(The Pelota Game)
+$30098B29 0000
+*Unendlich Gesundheit
+Bugs Bunny
+$700EBFF8 0005
+$300EBFF8 0006
+Taz
+$700EC1A8 0005
+$300EC1A8 0006
+Bugs & Taz
+$7001D4B0 1023
+$8001D4B0 0023
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7009C240 FBFF
+$3006BB14 0005
+*Hyper
+(Druecke R1 Pad 2)
+$7009C240 F7FF
+$3006BB14 0000
+*Normal
+(Druecke R2 Pad 2)
+$7009C240 FDFF
+$3006BB14 0002

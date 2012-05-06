@@ -1,0 +1,76 @@
+***TOMB RAIDER
+
+RCJC Pad 1
+7008CC2A ????
+RCJC Pad 2
+7008CC52 ????
+
+PAL2NTSC
+$3006E2A6 0040
+Y-Fix 1
+$80066FE4 0000
+Unendlich Demozeit
+$8005B920 0000
+Sudden Death Gegner
+$8003BB42 A600
+Totgeborene Gegner (Uebersteuert Sudden Death)
+$8003554E A600
+Ueberlebe tiefen Fall
+$8003A93C 0000
+*Unendlich:
+Gesundheit
+$8003BF38 03E8
+$8003BF3A 3401
+$8003BF3C 0022
+$8003BF3E A601
+Luft
+$8003BFF4 0000
+Medipacks
+$80034520 0000
+**Alles ausser Lara einfrieren
+*An
+(Druecke L2 & R2 & Oben)
+$7008CC2A FCEF
+$80027082 2400
+*Aus
+(Druecke L2 & R2 & Unten)
+$7008CC2A FCBF
+$80027082 0040
+**Trockenschwimmen
+*An
+(Druecke L1 & R1 & Oben)
+$7008CC2A F3EF
+$8003BC52 3400
+*Aus
+(Druecke L1 & R1 & Unten)
+$7008CC2A F3BF
+$8003BC52 3064
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$7008CC52 F7FF
+$8005BD2C 0005
+$7008CC52 F7FF
+$8005BD2E 3410
+*Aus
+(Druecke R2 Pad 2)
+$7008CC52 FDFF
+$0005BD2C 0000
+**Matrix Lara
+*Stufe 1
+(Druecke Select & Dreieck Pad 2)
+$7008CC52 EFFE
+$3003C450 0003
+*Stufe 2
+(Druecke Select & Kreis Pad 2)
+$7008CC52 DFFE
+$3003C450 0002
+*Stufe 3
+(Druecke Select & X Pad 2)
+$7008CC52 BFFE
+$3003C450 0001
+*Normal
+(Druecke Select & Viereck Pad 2)
+$7008CC52 7FFE
+$3003C450 0006
+

@@ -1,0 +1,11 @@
+**Colin McRae Rally 2.0 Codes
+RJC
+70061F88 ????
+PAL2NTSC
+$700547A80001
+$800547A80000
+Y-Fix
+$800312740000
+Stoppuhr eingefroren / Immer erster 
+$900E8CC00000
+$800E8CC00000

@@ -1,0 +1,67 @@
+**SPYRO 2
+
+RCJC Pad 1
+700788CA ????
+RCJC Pad 2
+70078B22 ????
+
+PAL2NTSC
+$70060C94 0008
+$30060C92 0040
+Y-Fix
+$70061ACC 0010
+$80061ACC 0000
+Kein Demoende durch Nichts Druecken
+$80072054 0000
+Unendlich Gesundheit
+$80075C44 0003
+Starte mit 55.555 Gems
+$70072178 0000
+$80072178 D903
+Max Blitzkugeln
+$800721CC 00FF
+Max Orbs
+$800721E4 00FF
+*Leben (Note 1)
+Unendlich
+$700437EC FFFF
+$800437EE 2400
+Nehmen zu
+$700437EC FFFF
+$800437EC 0001
+*Sunny Beach
+Habe alle Orbs
+$300759DE 00FF
+Habe alle Gems
+$80076D78 0190
+**Habe Superflamme
+*An
+(Druecke R3 & Oben)
+$700788CA FFEB
+$80042B18 0023
+$700788CA FFEB
+$80075BC4 FFFF
+*Aus
+(Druecke R3 & Unten)
+$700788CA FFBB
+$80042B18 1023
+$700788CA FFBB
+$80075BC4 0000
+*Skelos Badlands
+Habe alle Orbs
+$300759E2 00FF
+Habe alle Gems
+$80076D88 0190
+**Habe Lava-Schild
+*An
+(Druecke R3 & Links)
+$700788CA FF7B
+$80042B00 0023
+$700788CA FF7B
+$80075BC0 FFFF
+*Aus
+(Druecke R3 & Rechts)
+$700788CA FFDB
+$80042B00 1023
+$700788CA FFDB
+$80075BC0 0000

@@ -1,0 +1,359 @@
+
+//=========
+
+"OPM Euro Demo 01/2001 Deutsch SCED02666"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***ACTION MAN - DESTRUCTION X
+
+RCJC Pad 1
+7006692A ????
+RCJC Pad 2
+7006694C ????
+AnAc Pad 1
+70066928 ????
+AnAc Pad 2
+7006694A ????
+
+PAL2NTSC
+$3002E8E2 0040
+Y-Fix 1
+$8002B2D0 0000
+Kein Demoende durch Nichts Druecken
+$800B5D84 0000
+$800B8204 0000
+Max Punkte
+$800B7BA8 869F
+$800B7BAA 0001
+$800B7BAC 869F
+$800B7BAE 0001
+Punkte nehmen immer zu
+$800AEDB8 1023
+*Unendlich:
+Energie
+$800B7BA0 03E8
+$800B7BA4 03E8
+Zeit
+$700B8114 0100
+$800B8114 0000
+Normale Raketen
+$800B7BE8 FFFF
+Oel
+$800B7BF0 FFFF
+Seeker-Raketen
+$800B7C04 FFFF
+Alle Objekte (nach Aufnahme)
+$800780B6 3C00
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7006694C FBFF
+$8002EA10 0005
+$7006694C FBFF
+$8003E09C 0000
+*Hyper
+(Druecke R1 Pad 2)
+$7006694C F7FF
+$8002EA10 0000
+$7006694C F7FF
+$8003E09C 0001
+*Normal
+(Druecke R2 Pad 2)
+$7006694C FDFF
+$8002EA10 0005
+$7006694C FDFF
+$8003E09C 0001
+
+***DIE MUMIE
+
+RCJC Pad 1
+7009E49A ????
+RCJC Pad 2
+7009E4BE ????
+AnAc Pad 1
+7009E498 ????
+AnAc Pad 2
+7009E4BC ????
+
+PAL2NTSC
+$3006DB42 0040
+Y-Fix 1
+$8006E5F0 0000
+Y-Fix 2
+$8006E79E 2400
+Unendlich Leben
+$7009EA18 0003
+$3009EA18 00FF
+Unendlich Energie
+$300FF7E4 0064
+*Habe:
+Unendlich Pistolen MU
+$8009EA36 80FF
+Unendlich Schrotflinten MU
+$8009EA3A 80FF
+Unendlich Maschinengewehr MU
+$8009EA3E 80FF
+Unendlich Dynamit-Stangen
+$8009EA42 80FF
+Unendlich Wurfbomben
+$8009EA46 80FF
+Grosses Schwert
+$8009EA4A 80FF
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7009E4BE FBFF
+$8006D7E4 0000
+*Hyper
+(Druecke R1 Pad 2)
+$7009E4BE F7FF
+$8006D7E4 0002
+*Normal
+(Druecke R2 Pad 2)
+$7009E4BE FDFF
+$8006D7E4 0001
+
+***LEGEND OF DRAGOON
+
+RCJC Pad 1
+700C84A0 ????
+RCJC Pad 2
+700C8530 ????
+AnAc Pad 1
+700C849E ????
+AnAc Pad 2
+700C852E ????
+
+PAL2NTSC
+$30040486 0040
+Y-Fix 1
+$800412C0 0000
+Max Gold
+$800C433C E0FF
+$800C433E 05F5
+Spielzeit 0:00:00
+$000C4348 0000
+**Keine Zwischenkaempfe (Note 1)
+*An
+(Druecke L3)
+$700C84A0 FFFD
+$800EE95E AC80
+*Aus
+(Druecke R3)
+$700C84A0 FFFB
+$800EE95E AC82
+*Dart Codes
+Unendlich HP
+$800C45DC 270F
+Unendlich MP
+$800C45DE 03E7
+Unendlich SP
+$800C45E0 03E7
+Max Level
+$300C45E6 003C
+Max Dragoon Level
+$300C45E7 0005
+Max EXP
+$800C45D4 E0FF
+$800C45D6 05F5
+*Lavitz Codes
+Unendlich HP
+$800C4608 270F
+Unendlich MP
+$800C460A 03E7
+Unendlich SP
+$800C460C 03E7
+Max Level
+$300C4612 003C
+Max Dragoon Level
+$300C4613 0005
+Max EXP
+$800C4600 E0FF
+$800C4602 05F5
+*Shana Codes
+Unendlich HP
+$800C4634 270F
+Unendlich MP
+$800C4636 03E7
+Unendlich SP
+$800C4638 03E7
+Max Level
+$300C463E 003C
+Max Dragoon Level
+$300C463F 0005
+Max EXP
+$800C462C E0FF
+$800C462E 05F5
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700C8530 FBFF
+$8003F7D4 0005
+$700C8530 FBFF
+$80040128 0000
+*Hyper
+(Druecke R1 Pad 2)
+$700C8530 F7FF
+$8003F7D4 0000
+$700C8530 F7FF
+$80040128 0001
+*Normal
+(Druecke R2 Pad 2)
+$700C8530 FDFF
+$8003F7D4 0005
+$700C8530 FDFF
+$80040128 0001
+
+***MTV SPORTS - PURE RIDE
+
+RCJC Pad 1
+700D9632 ????
+RCJC Pad 2
+700D9676 ????
+AnAc Pad 1
+700D9630 ????
+AnAc Pad 2
+700D9674 ????
+
+PAL2NTSC
+$300B2446 0040
+Y-Fix 1
+$800A942C 0000
+Y-Fix 2
+$800A95DA 2400
+Jeder Trick bringt 10.000 Punkte
+$8006E8DC 2710
+$8006E8DE 2442
+*Starte mit Highscore
+Nate
+$700D7C24 0000
+$800D7C24 D090
+$700D7C26 0000
+$800D7C26 0003
+Miko
+$700D7C8C 0000
+$800D7C8C D090
+$700D7C8E 0000
+$800D7C8E 0003
+
+***TOCA - WORLD TOURING CARS
+
+RCJC Pad 1
+7005C73E ????
+RCJC Pad 2
+7005C760 ????
+AnAc Pad 1
+7005C73C ????
+AnAc Pad 2
+7005C75E ????
+
+PAL2NTSC
+$3004194E 0040
+Y-Fix 1
+$8003EAC8 0000
+Y-Fix 2
+$8003EC76 2400
+*Zeit zuruecksetzen
+(Druecke L2 & R2)
+$7005C73E FCFF
+$00060400 0000
+*Immer Erster 
+(Freies Rennen)
+$80101B4C 0101
+Immer gute Traktion & Haftung (*)
+$700776F6 A054
+$300776F6 0040
+**Alle Replay-Kameras anwaehlbar (*)
+*An
+(Druecke L3 & L1)
+$7005C73E FBFD
+$300859B8 0011
+*Aus
+(Druecke L3 & R1)
+$7005C73E F7FD
+$300859B8 0005
+**Durch Waende fahren (*)
+*An
+(Druecke L3 & Links)
+$7005C73E FF7D
+$800A056A 1000
+*Aus
+(Druecke L3 & Rechts)
+$7005C73E FFDD
+$800A056A 1040
+**Durch Autos fahren (*)
+*An
+(Druecke L3 & Oben)
+$7005C73E FFED
+$800A0522 1000
+*Aus
+(Druecke L3 & Unten)
+$7005C73E FFBD
+$800A0522 1440
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7005C760 FBFF
+$800404CC 0000
+$7005C760 FBFF
+$80046830 0001
+*Hyper
+(Druecke R1 Pad 2)
+$7005C760 F7FF
+$800404CC FFFF
+$7005C760 F7FF
+$80046830 0002
+*Normal
+(Druecke R2 Pad 2)
+$7005C760 FDFF
+$800404CC FFFF
+$7005C760 FDFF
+$80046830 0001
+
+***UEFA CHAMPIONS LEAGUE 2001
+
+RCJC Pad 1
+7011C46A ????
+RCJC Pad 2
+7011C496 ????
+AnAc Pad 1
+7011C468 ????
+AnAc Pad 2
+7011C494 ????
+
+PAL2NTSC
+$300676BE 0040
+Y-Fix 1
+$80062F60 0000
+Y-Fix 2
+$8006310E 2400
+Unendlich Spielzeit
+$80084AF4 0000
+$80084B00 0000
+*FC Barcelona
+20 Tore
+$30083434 0014
+0 Tore
+$30083434 0000
+*AC Milan
+20 Tore
+$30083436 0014
+0 Tore
+$30083436 0000
+**Slow Motion
+*An
+(Druecke L3)
+$7011C46A FFFD
+$80064924 0000
+*Aus
+(Druecke R3)
+$7011C46A FFFB
+$80064924 FFFF
+
+(*) Codes von Nachbrenner@XploderFreax.de
+
+Note 1: Nachdem man auf der Landkarte einen anderen Abschnitt betreten hat, muss der Code erneut aktiviert werden.
+
+//=========

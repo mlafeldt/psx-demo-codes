@@ -1,0 +1,78 @@
+***TOCA - WORLD TOURING CARS
+
+//FINAL DEMO!!
+//WTC.EXE CRC-32: 0x3D7C5AB0
+
+RCJC Pad 1
+7005C73E ????
+RCJC Pad 2
+7005C760 ????
+AnAc Pad 1
+7005C73C ????
+AnAc Pad 2
+7005C75E ????
+
+PAL2NTSC
+$3004194E 0040
+Y-Fix 1
+$8003EAC8 0000
+Y-Fix 2
+$8003EC76 2400
+*Zeit zuruecksetzen
+(Druecke L2 & R2)
+$7005C73E FCFF
+$00060400 0000
+*Immer Erster 
+(Freies Rennen)
+$80101B4C 0101
+Immer gute Traktion & Haftung (*)
+$700776F6 A054
+$300776F6 0040
+**Alle Replay-Kameras anwaehlbar (*)
+*An
+(Druecke L3 & L1)
+$7005C73E FBFD
+$300859B8 0011
+*Aus
+(Druecke L3 & R1)
+$7005C73E F7FD
+$300859B8 0005
+**Durch Waende fahren (*)
+*An
+(Druecke L3 & Links)
+$7005C73E FF7D
+$800A056A 1000
+*Aus
+(Druecke L3 & Rechts)
+$7005C73E FFDD
+$800A056A 1040
+**Durch Autos fahren (*)
+*An
+(Druecke L3 & Oben)
+$7005C73E FFED
+$800A0522 1000
+*Aus
+(Druecke L3 & Unten)
+$7005C73E FFBD
+$800A0522 1440
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7005C760 FBFF
+$800404CC 0000
+$7005C760 FBFF
+$80046830 0001
+*Hyper
+(Druecke R1 Pad 2)
+$7005C760 F7FF
+$800404CC FFFF
+$7005C760 F7FF
+$80046830 0002
+*Normal
+(Druecke R2 Pad 2)
+$7005C760 FDFF
+$800404CC FFFF
+$7005C760 FDFF
+$80046830 0001
+
+(*) Codes von Nachbrenner@XploderFreax.de

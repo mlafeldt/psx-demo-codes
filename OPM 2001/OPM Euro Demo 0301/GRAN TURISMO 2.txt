@@ -1,0 +1,55 @@
+***GRAN TURISMO 2
+
+RCJC Pad 1
+701D76B2 ????
+RCJC Pad 2
+701D76D4 ????
+AnAc Pad 1
+701D76B0 ????
+AnAc Pad 2
+701D76D2 ????
+
+Dumme Gegner / Rennzeit 0:00:000
+$00049610 0000
+Unendlich Runden (Note 2)
+$701D76B0 7300
+$B0060B64 0000
+$1008A02C 0000
+Immer auf Platz 1 (Note 2)
+$701D76B0 7300
+$B0060B64 0100
+$1008A688 0100
+Hypermodus
+$30055458 0002
+Durch Autos fahren
+$70035302 0C01
+$80035302 2400
+**Durch Waende fahren
+*An
+(Druecke L3 & L2)
+$701D76B2 FEFD
+$8003523A 2400
+*Aus
+(Druecke L3 & R2)
+$701D76B2 FDFD
+$8003523A 1440
+**Gegner kleben auf Strasse fest
+*An
+(Druecke R3 & L2)
+$701D76B2 FEFB
+$800352F6 3C00
+*Aus
+(Druecke R3 & R2)
+$701D76B2 FDFB
+$800352F6 0800
+*Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$301FFC12 0000
+Verfolgerkamera 1
+$301FFC12 0001
+Verfolgerkamera 2
+$301FFC12 0002
+Skycam
+$301FFC12 0003
+
+Note 2: Analog-Modus (Pad 1) im eigentlichen Rennen einschalten; bei Ladezeiten ausschalten!

@@ -1,0 +1,31 @@
+***PORSCHE CHALLENGE
+
+RCJC Pad 1
+700DD3B0 ????
+RCJC Pad 2
+700DD3B2 ????
+
+PAL2NTSC
+$3004B38A 0040
+Y-Fix 1
+$8004D854 0000
+Immer erster
+$300E19DA 0001
+Keine Rennzeit
+$80099666 3C00
+Immer gute Traktion & Haftung
+$80097222 3C00
+*Checkpoint-Zeit (Note 1)
+Unendlich
+$80099696 3C00
+Nimmt zu
+$80099690 0001
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$700DD3B2 FBFF
+$8004F5BC 0000
+*Aus
+(Druecke L2 Pad 2)
+$700DD3B2 FEFF
+$8004F5BC FFFF

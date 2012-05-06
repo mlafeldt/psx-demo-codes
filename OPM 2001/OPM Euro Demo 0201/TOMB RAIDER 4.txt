@@ -1,0 +1,74 @@
+***TOMB RAIDER IV - DIE LETZTE OFFENBARUNG
+
+RCJC Pad 1
+700A1DF2 ????
+RCJC Pad 2
+700A1E16 ????
+AnAc Pad 1
+700A1DF0 ????
+AnAc Pad 2
+700A1E14 ????
+
+PAL2NTSC
+$3006B73E 0040
+Y-Fix 1
+$80067670 0000
+Kein Demoende durch Nichts Druecken
+$8009E3B8 0000
+Fackel brennt bis fallengelassen
+$700A2FAC 0007
+$300A2FCE 000F
+Spider Lara
+$800A2FB6 0001
+Habe antike Muenze
+$300A30C1 00FF
+Habe Edelstein
+$300A30C2 0001
+*Lara fliegt
+(Halte Viereck)
+$700A1DF2 7FFF
+$801CD098 FFC0
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$700A1DF2 7FEF
+$801CD096 00B6
+*Unendlich:
+Sprinten
+$8009F494 0078
+Luft
+$800A2FBE 0708
+Gesundheit
+$801CD09A 0400
+Kleine Medipacks 
+$800A310C FFFF
+Grosse Medipacks 
+$800A310E FFFF
+Magnesiumfackeln 
+$800A3110 FFFF
+Alle Gegenstaende
+$B0030002 0000
+$100A310C FFFF
+*Unendlich Munition:
+UZI
+$800A3114 FFFF
+Revolver
+$800A3116 FFFF
+Gewehr
+$800A3118 FFFF
+$800A311A FFFF
+Alle Waffen
+$B0040002 0000
+$100A3114 FFFF
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700A1E16 FBFF
+$8006BE3C 0002
+*Hyper
+(Druecke R1 Pad 2)
+$700A1E16 F7FF
+$8006BE3C 0000
+*Normal
+(Druecke R2 Pad 2)
+$700A1E16 FDFF
+$8006BE3C 0001

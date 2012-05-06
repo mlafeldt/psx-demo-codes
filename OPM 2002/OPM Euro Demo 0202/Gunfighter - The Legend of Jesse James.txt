@@ -1,0 +1,45 @@
+***GUNFIGHTER - THE LEGEND OF JESSE JAMES
+
+RCJC Pad 1
+7007DFFE ????
+RCJC Pad 2
+7007E022 ????
+AnAc Pad 1
+7007DFFC ????
+AnAc Pad 2
+7007E020 ????
+
+PAL2NTSC
+$300555B6 0040
+Y-Fix 1
+$80056090 0000
+Y-Fix 2
+$8005623E 2400
+Unendlich Gesundheit
+$300E2E9C 0004
+Kein Nachladen
+$300E2EA0 0006
+Keine Gesamtzeit
+$8003F4E2 AE00
+*Verbleibende Zeit (Note 1)
+Unendlich
+$8003F4CE 3C00
+Nimmt zu
+$8003F4C8 1021
+**Hypermodus
+*Normal
+(Druecke L1 Pad 2)
+$7007E022 FBFF
+$30055258 0001
+*Schneller
+(Druecke L2 Pad 2)
+$7007E022 FEFF
+$30055258 0002
+*Noch schneller
+(Druecke R1 Pad 2)
+$7007E022 F7FF
+$30055258 0004
+*Viel schneller
+(Druecke R2 Pad 2)
+$7007E022 FDFF
+$30055258 0008

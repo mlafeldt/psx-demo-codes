@@ -1,0 +1,71 @@
+***SPYRO 2 - GATEWAY TO GLIMMER
+
+RCJC Pad 1
+700788CA ????
+RCJC Pad 2
+70078B22 ????
+AnAc Pad 1
+700788C8 ????
+AnAc Pad 2
+70078B20 ????
+
+PAL2NTSC
+$30060C92 0040
+Y-Fix 1
+$80061ACC 0000
+Y-Fix 2
+$80061C7A 2400
+Kein Demoende durch Nichts Druecken
+$3001A976 0020
+Unendlich Gesundheit
+$30075C44 0003
+Starte mit 55.555 Gems
+$70072178 0000
+$80072178 D903
+999 Blitzkugeln
+$800721CC 03E7
+999 Orbs
+$800721E4 03E7
+*Leben (Note 1)
+Unendlich
+$800437EC 0000
+Nehmen zu
+$800437EC 0001
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$700788C8 7300
+$300604C0 0000
+*Aus
+(Analog-Modus aus)
+$700788C8 4100
+$300604C0 000B
+**Sunny Beach
+Habe alle Orbs
+$300759DE 00FF
+Habe alle Gems
+$80076D78 0190
+**Habe Superflamme
+*An
+(Druecke R3 & Oben)
+$700788CA FFEB
+$80042B1E 1000
+*Aus
+(Druecke R3 & Unten)
+$700788CA FFBB
+$80042B1E 0441
+**Skelos Badlands
+Habe alle Orbs
+$300759E2 00FF
+Habe alle Gems
+$80076D88 0190
+**Habe Lava-Schild
+*An
+(Druecke R3 & Links)
+$700788CA FF7B
+$80042B06 1000
+*Aus
+(Druecke R3 & Rechts)
+$700788CA FFDB
+$80042B06 0441
+

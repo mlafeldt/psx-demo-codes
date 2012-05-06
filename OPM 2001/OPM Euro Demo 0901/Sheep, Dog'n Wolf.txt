@@ -1,0 +1,17 @@
+***SHEEP, DOG 'N' WOLF
+
+RCJC Pad 1
+700C0132 ????
+RCJC Pad 2
+700C019E ????
+AnAc Pad 1
+700C0130 ????
+AnAc Pad 2
+700C019C ????
+
+PAL2NTSC
+$3008F68A 0040
+Y-Fix
+$800904C4 0000
+
+Unendlich Demozeit

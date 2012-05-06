@@ -1,0 +1,217 @@
+
+//=========
+
+OPM Euro Demo 02/2000 Deutsch
+
+SCED01845
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1ACE COMBAT 3 - ELECTROSPHERE
+
+RCJC Pad 1
+$700C6042 ????
+RCJC Pad 2
+$700C6064 ????
+AnAc Pad 1
+$700C6040 ????
+AnAc Pad 2
+$700C6062 ????
+
+PAL2NTSC
+$300A912A 0040
+Y-Fix
+$800AF024 0000
+Unendlich Zeit
+$8005AC72 2400
+$8005AC8A 2400
+Unendlich Energie
+$3013E5D2 0064
+Schnellfeuer
+$8007818A 3C00
+Keine Anzeigen
+$3013E1C8 0001
+Unsichtbarer Jet
+$0013E344 0000
+#3Raketen (Note 1)
+Unendlich
+$80078272 2400
+Nehmen zu
+$80078270 0001
+#3Pause-Modus
+An
+(Drücke Select Pad 2)
+$700C6064 FFFE
+$800A892A 2400
+Aus
+(Drücke Start Pad 2)
+$700C6064 FFF7
+$800A892A 1440
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$700C6064 FBFF
+$800A84D8 0005
+$700C6064 FBFF
+$800A8DCC 0000
+Hyper
+(Drücke R1 Pad 2)
+$700C6064 F7FF
+$800A84D8 0000
+$700C6064 F7FF
+$800A8DCC 0001
+Normal
+(Drücke R2 Pad 2)
+$700C6064 FDFF
+$800A84D8 0005
+$700C6064 FDFF
+$800A8DCC 0001
+
+#1EAGLE ONE - HARRIER ATTACK
+
+RCJC Pad 1
+$70107712 ????
+RCJC Pad 2
+$70107734 ????
+AnAc Pad 1
+$70107710 ????
+AnAc Pad 2
+$70107732 ????
+
+PAL2NTSC
+$300B6282 0040
+Y-Fix
+$800B7B3C 0000
+Unendlich Panzerung
+$8003B350 0023
+Unendlich Treibstoff
+$8019961A 0100
+#3Sidewinders (Note 1)
+Unendlich
+$800203FE 2400
+Nehmen zu
+$800203FC 0001
+#3Mavericks (Note 1)
+Unendlich
+$8002055A 2400
+Nehmen zu
+$80020558 0001
+#3Vultures (Note 1)
+Unendlich
+$8003C7A6 2400
+Nehmen zu
+$8003C7A4 0001
+
+#1FORMEL EINS 99
+
+RCJC Pad 1
+$700D5BC6 ????
+RCJC Pad 2
+$700ECAF6 ????
+AnAc Pad 1
+$700D5BC4 ????
+AnAc Pad 2
+$700ECAF4 ????
+
+XPloderCheckPlus
+$500005F4 0004
+$00388040 DEAD
+$700C9778 4800
+$800C977C E080
+XPloderCheckPlus & BreakPoints
+$900C9778 4800
+$500005F4 0004
+$00388040 DEAD
+$700C9778 4800
+$000005F4 0000
+$700C9778 4800
+$800C977C E080
+PAL2NTSC
+$700C78DC 0008
+$300C78DA 0040
+Rundenzeiten 0:00.000
+$70058604 50D8
+$B0040002 0000
+$100D50D8 0000
+Unendlich Runden
+$70083F64 0014
+$80083F66 A600
+#3Wetter-Modifizierer (Note 1)
+Sonnig
+$300ABD36 0000
+Bewölkt
+$300ABD36 0001
+Regnerisch
+$300ABD36 0002
+Realistisch
+$300ABD36 0003
+#3Grip Modifizierer (Note 1)
+Immer Asphalt
+$700B2C94 037E
+$800B2C72 3402
+Immer Curbs
+$700B2C94 037E
+$500B2C70 0004
+$00220234 C0DE
+Immer Gras
+$700B2C94 037E
+$500B2C70 0004
+$00330234 C0DE
+Immer Sand
+$700B2C94 037E
+$500B2C70 0004
+$00440234 C0DE
+#3Hyper Modus
+An
+(Drücke R1 Pad 2)
+$700ECAF6 F7FF
+$300A9708 0002
+Aus
+(Drücke R2 Pad 2)
+$700ECAF6 FDFF
+$300A9708 0001
+
+#1TOY STORY 2
+
+RCJC Pad 1
+$700D6312 ????
+RCJC Pad 2
+$700D633A ????
+AnAc Pad 1
+$700D6310 ????
+AnAc Pad 2
+$700D6338 ????
+
+PAL2NTSC
+$30090952 0040
+Y-Fix
+$8008DAA8 0000
+Unendlich Gesundheit
+$80073092 2400
+Unverwundbar
+$800B9020 0001
+$800B9074 0040
+Max Geldstücke
+$800B907E 0063
+#3Leben (Note 1)
+Unendlich
+$80083D2A 2400
+Nehmen zu
+$80083D28 0001
+#3Slow Motion
+An
+(Drücke L1 Pad 2)
+$700D633A FBFF
+$8008F9A4 0000
+Aus
+(Drücke L2 Pad 2)
+$700D633A FEFF
+$8008F9A4 FFFF
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

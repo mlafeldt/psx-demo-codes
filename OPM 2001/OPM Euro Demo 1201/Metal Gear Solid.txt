@@ -1,0 +1,54 @@
+***METAL GEAR SOLID
+
+RCJC Pad 1
+700C723A ????
+RCJC Pad 2
+700C725E ????
+AnAc Pad 1
+700C7238 ????
+AnAc Pad 2
+700C725C ????
+
+PAL2NTSC
+$3009EE6E 0040
+Y-Fix
+$800962E8 0000
+Unendlich Lebensenergie
+$800BABCE 0600
+Max Lebensenergie
+$800BABD0 0600
+Unendlich Luft
+$800B185C 0400
+Radar nicht gestoert, wenn entdeckt
+$800B1828 0000
+Besitze alle Waffen
+$B0140002 0000
+$100BABDA 03E7
+Besitze alle Gegenstaende
+$B00D0002 0000
+$100BAC02 0001
+$B0030002 0000
+$100BAC1C 03E7
+$B0040002 0000
+$100BAC28 0001
+$B0030002 0000
+$100BAC32 03E7
+$800BAC22 0001
+$800BAC24 0064
+$800BAC30 0000
+*Kein Nachladen :
+Socom (Pistole)
+$8006BF66 3C00
+Fa-Mas (Sturmgewehr)
+$8006C55A 3C00
+PSG1 (Scharfschuetzengewehr)
+$8006E542 3C00
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$700C725E FBFF
+$80097D80 0000
+*Aus
+(Druecke L2 Pad 2)
+$700C725E FEFF
+$80097D80 FFFF

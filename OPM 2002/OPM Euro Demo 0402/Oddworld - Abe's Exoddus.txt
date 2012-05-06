@@ -1,0 +1,35 @@
+***ODDWORLD - ABE'S EXODDUS
+
+RCJC Pad 1
+70086DDE ????
+RCJC Pad 2
+70086E1E ????
+AnAc Pad 1
+70086DDC ????
+AnAc Pad 2
+70086E1C ????
+
+PAL2NTSC
+$3006DF0A 0040
+Y-Fix 1
+$8006F56C 0000
+**Hyper Modus
+*An
+(Druecke L1 Pad 2)
+$70086E1E FBFF
+$3006D248 0000
+*Aus
+(Druecke L2 Pad 2)
+$70086E1E FEFF
+$3006D248 0005
+*MoonJump 
+(Springe & Halte R2)
+$70086DDE FDFF
+$8001D524 1023
+$90086DDE FDFF
+$8001D524 1021
+*Statistik
+Keine Opfer
+$800819EE 0000
+Alle Mudokons geflohen
+$800819F0 0027

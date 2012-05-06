@@ -1,0 +1,36 @@
+***DEAD OR ALIVE
+
+RCJC Pad 1
+70091552 ????
+RCJC Pad 2
+70091574 ????
+AnAc Pad 1
+70091550 ????
+AnAc Pad 2
+70091572 ????
+
+PAL2NTSC
+$3002FC7A 0040
+Y-Fix 1
+$8002128C 0000
+Unendlich Kampfzeit
+$800B31A2 2400
+Keine Stage-Zeit
+$800B32B2 2400
+Beide Kaempfer unverwundbar
+$800DB05C 0021
+$800DB320 0021
+*P1
+Unendlich Energie
+$80096DE8 00A0
+Keine Energie
+$80096DE8 0000
+Sudden Death
+$80096DE8 0001
+*P2/CPU
+Unendlich Energie
+$80096E40 00A0
+Keine Energie
+$80096E40 0000
+Sudden Death
+$80096E40 0001

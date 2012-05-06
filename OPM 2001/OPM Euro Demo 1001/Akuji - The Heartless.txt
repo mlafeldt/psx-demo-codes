@@ -1,0 +1,39 @@
+***AKUJI - THE HEARTLESS
+
+RCJC Pad 1
+700BB712 ????
+RCJC Pad 2
+700BB736 ????
+AnAc Pad 1
+700BB710 ????
+AnAc Pad 2
+700BB734 ????
+
+PAL2NTSC
+$300A19EE 0040
+Y-Fix
+$8009C640 0000
+Unendlich Gesundheit
+$8006EAAE 3C00
+*Fliegen
+(Halte X)
+$700BB712 BFFF
+$50077CB4 0004
+$21004224 C0DE
+$900BB712 BFFF
+$50077CB4 0004
+$21104300 DEAD
+*Leben (Note 1)
+Unendlich
+$80084AF2 3C00
+Nehmen zu
+$80084AE0 0001
+**Gegner einfrieren
+*An
+(Druecke R3 & Links)
+$700BB712 FF7B
+$8005448E 3400
+*Aus
+(Druecke R3 & Rechts)
+$700BB712 FFDB
+$8005448E 0C01

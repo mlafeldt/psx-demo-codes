@@ -1,0 +1,25 @@
+***MUPPET MONSTER ADVENTURE
+
+RCJC Pad 1
+700B98AA ????
+RCJC Pad 2
+700B98CE ????
+AnAc Pad 1
+700B98A8 ????
+AnAc Pad 2
+700B98CC ????
+
+PAL2NTSC
+$300989CE 0040
+Y-Fix 1
+$80096570 0000
+Unendlich Demozeit
+$300251A6 0080
+Unendlich Leben
+$300B2C24 0063
+Unendlich Gesundheit
+$300B2C25 0004
+Max Sterne
+$800B2C1A FFF0
+Max Muppet-Muenzen
+$800B2C22 0100

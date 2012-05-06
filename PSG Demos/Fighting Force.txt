@@ -1,0 +1,57 @@
+**FIGHTING FORCE (SLED-01098)
+
+RCJC Pad 1
+70094582 ????
+RCJC Pad 2
+700945AA ????
+AnAc Pad 1
+70094580 ????
+AnAc Pad 2
+700945A8 ????
+
+PAL2NTSC
+$300765C6 0040
+Y-Fix
+$8006F928 0000
+Rotes Blut mit deutschen Menues
+$8005C136 3C00
+*P1
+Unendlich Energie
+$800B41A2 017C
+Starte mit vielen Punkten
+$70093E68 0000
+$80093E68 FFFF
+*P2
+Unendlich Energie
+$800B4296 017C
+Starte mit vielen Punkten
+$70093E6C 0000
+$80093E6C FFFF
+*Munition alle Waffen (Note 1)
+Unendlich
+$800251BA 2400
+$80025286 2400
+$8002534A 2400
+Nimmt zu
+$800251B8 0001
+$80025284 0001
+$80025348 0001
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke Select & L2)
+$70094582 FEFE
+$300758BC 0005
+$70094582 FEFE
+$30076254 0000
+*Hyper
+(Druecke Select & R2)
+$70094582 FDFE
+$300758BC 0000
+$70094582 FDFE
+$30076254 0001
+*Normal
+(Druecke Select & R1)
+$70094582 F7FE
+$300758BC 0005
+$70094582 F7FE
+$30076254 0001

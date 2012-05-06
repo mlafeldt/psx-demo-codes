@@ -1,0 +1,59 @@
+***TOCA - WORLD TOURING CARS
+
+//BETA DEMO!!
+//WTC.EXE CRC-32: 0xF652D1A3
+
+RCJC Pad 1
+7005B626 ????
+RCJC Pad 2
+7005B648 ????
+AnAc Pad 1
+7005B624 ????
+AnAc Pad 2
+7005B646 ????
+
+PAL2NTSC
+$3004118A 0040
+Y-Fix 1
+$8003E334 0000
+Y-Fix 2
+$8003E4E2 2400
+*Zeit zuruecksetzen
+(Druecke L2 & R2)
+$7005B626 FCFF
+$0005FA80 0000
+*Immer erster
+(Freies Rennen)
+$800FF856 0101
+Immer gute Traktion & Haftung (*)
+$70076872 A054
+$30076872 0040
+**Alle Replay-Kameras anwaehlbar (*)
+*An
+(Druecke L3 & L1)
+$7005B626 FBFD
+$30084800 0011
+*Aus
+(Druecke L3 & R1)
+$7005B626 F7FD
+$30084800 0005
+**Durch Autos fahren (*)
+*An
+(Druecke L3 & Oben)
+$7005B626 FFED
+$8009F17E 1000
+*Aus
+(Druecke L3 & Unten)
+$7005B626 FFBD
+$8009F17E 1440
+**Durch Waende fahren (*)
+*An
+(Druecke L3 & Links)
+$7005B626 FF7D
+$8009F1C6 1000
+*Aus
+(Druecke L3 & Rechts)
+$7005B626 FFDD
+$8009F1C6 1040
+
+(*) Codes von Nachbrenner

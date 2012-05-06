@@ -1,0 +1,73 @@
+***RAGE RACER
+
+RCJC Pad 1
+701D062A ????
+RCJC Pad 2
+701D0652 ????
+AnAc Pad 1
+701D0628 ????
+AnAc Pad 2
+701D0650 ????
+
+PAL2NTSC
+$3007596A 0040
+Y-Fix 1
+$8006CFC8 0000
+Kein Demoende durch Nichts Druecken
+$8001DD9A 3C00
+Hypermodus
+$80074D1E 1000
+Erdbeben
+$80035DBE 2400
+Spiegelverkehrte Strecke
+$301890B8 0001
+Unendlich Runden
+$8003CFEA A600
+Keine Rennzeit
+$8003CE46 3C00
+$8003CECE 3C00
+Immer erster
+$80042318 0001
+$8004231A 2406
+*Max Geschwindigkeit
+(Druecke Kreis)
+$701D062A DFFF
+$800A5612 0FFF
+*Zeitlimit (Note 1)
+Unendlich
+$8003DFC2 2400
+Nimmt zu
+$8003DFC0 0001
+*Rueckspiegel (Note 1)
+Eingeblendet
+$30188FFC 0001
+Ausgeblendet
+$30188FFC 0000
+**Durch Waende Fahren (Note 2)
+*An
+(Druecke L2 & R2 & Oben)
+$701D062A FCEF
+$80038612 2400
+$701D062A FCEF
+$80038DF2 1000
+$701D062A FCEF
+$80038EA2 1000
+*Aus
+(Druecke L2 & R2 & Unten)
+$701D062A FCBF
+$80038612 0C01
+$701D062A FCBF
+$80038DF2 1040
+$701D062A FCBF
+$80038EA2 1040
+**Durch Autos Fahren
+*An
+(Druecke L1 & R1 & Oben)
+$701D062A F3EF
+$80035E3E 2400
+*Aus
+(Druecke L1 & R1 & Unten)
+$701D062A F3BF
+$80035E3E 0C00
+
+Note 2: Nicht so weit hinter die Begrenzung fahren, sonst wird das Fahrzeug unkontrollierbar!

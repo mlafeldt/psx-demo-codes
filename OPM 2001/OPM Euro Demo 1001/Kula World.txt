@@ -1,0 +1,34 @@
+***KULA WORLD
+
+RCJC Pad 1
+70074A26 ????
+RCJC Pad 2
+70074A2E ????
+AnAc Pad 1
+70074A24 ????
+AnAc Pad 2
+70074A2C ????
+
+PAL2NTSC
+$30045B3E 0040
+Y-Fix
+$8003DFB4 0000
+Unendlich Zeit
+$30074E25 0012
+Habe alle Schluessel
+$00073570 0000
+Habe alle Fruechte
+$3007357C 0007
+**Spielgeschwindigkeit
+*Normal
+(Druecke L1)
+$70074A26 FBFF
+$30044EB4 0001
+*Schneller
+(Druecke L2)
+$70074A26 FEFF
+$30044EB4 0000
+*Langsamer
+(Druecke R2)
+$70074A26 FDFF
+$30044EB4 0002

@@ -1,0 +1,342 @@
+
+//=========
+
+"OPM Euro Demo 06/2002 Deutsch SCED03892"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***EXCALIBUR 2555 A.D.
+
+RCJC Pad 1
+7008E812 ????
+RCJC Pad 2
+7008E836 ????
+
+PAL2NTSC
+$3420FC0A A8B2
+Y-Fix 1
+$8420D74B D1E5
+Hypermodus
+$842106A8 5482
+Unendlich Gesundheit
+$84378521 3DC9
+
+***FIFA 2002
+
+RCJC Pad 1
+7004BD62 ????
+RCJC Pad 2
+7004BD82 ????
+AnAc Pad 1
+7004BD60 ????
+AnAc Pad 2
+7004BD80 ????
+
+XPloderCheckPlus
+$742EB31D 02D0
+$842EB31D 03CF
+PAL2NTSC
+$3427A3EF CBDD
+Y-Fix 1
+$8427D644 CEDA
+Y-Fix 2
+$8427D492 98A6
+Unendlich Spielzeit
+$742CD028 D050
+$B427FAFC 9266
+$142CD02A 7C9E
+Jedes Tor zaehlt ??-fach
+$742EE2BC 80CC
+$300B1954 00??
+*Alle Tore zaehlen fuer: (Note 1)
+Frankreich
+$742EE2AE 8C30
+$842EE2A2 94A4
+$742EE2AE 8C30
+$842EE2A0 B0E1
+Brasilien
+$742EE2AE 8C30
+$842EE2A2 94A0
+$742EE2AE 8C30
+$842EE2A0 B0E1
+*Frankreich (Note 1)
+20 Tore
+$3421DDDF B77F
+0 Tore
+$3421DDDF B76B
+*Brasilien (Note 1)
+20 Tore
+$3421DDDB B77B
+0 Tore
+$3421DDDB B76F
+**Hyper Modus
+*An
+(Druecke L3)
+$74214785 CE95
+$8427F4F6 B86A
+*Aus
+(Druecke R3)
+$74214785 CE93
+$8427F4F6 8C3A
+
+***FUSSBALL LIVE! 2
+
+RCJC Pad 1
+7007E886 ????
+RCJC Pad 2
+7007E8A8 ????
+AnAc Pad 1
+7007E884 ????
+AnAc Pad 2
+7007E8A6 ????
+
+PAL2NTSC
+$342730DA 584A
+Y-Fix 1
+$8427C420 AC38
+Unendlich Spielzeit
+$842E8E4C 5E1A
+Jedes Tor zaehlt ??-fach
+$300B636C 00??
+*Deutschland (Note 1)
+20 Tore
+$3434289C D0B0
+0 Tore
+$3434289C D0A4
+*Niederlande (Note 1)
+20 Tore
+$3434289E D0B6
+0 Tore
+$3434289E D0A2
+**Slow Motion
+*An
+(Druecke L3)
+$74221353 8047
+$3427904C 0820
+*Aus
+(Druecke R3)
+$74221353 8041
+$3427904C 0821
+
+***S.C.A.R.S.
+
+RCJC Pad 1
+7011140E ????
+AnAc Pad 1
+7011140C ????
+
+PAL2NTSC
+$34285286 4610
+Y-Fix 1
+$842841AF 333F
+Y-Fix 2
+$8428401E 10EA
+Unendlich Zeit
+$342CDD3D BB69
+Immer erster
+$843E9CF2 1E12
+**Hyper Modus
+*An
+(Druecke L3)
+$74341FDD 6A85
+$3428672B 19A5
+*Aus
+(Druecke R3)
+$74341FDD 6A83
+$3428672B 19A0
+
+***TAI FU
+
+RCJC Pad 1
+7007AEB2 ????
+RCJC Pad 2
+7007AED4 ????
+AnAc Pad 1
+7007AEB0 ????
+AnAc Pad 2
+7007AED2 ????
+
+PAL2NTSC
+$342341F3 3DAB
+Y-Fix 1
+$8423BC14 D844
+Kein Demoende durch Nichts Druecken
+$0427E610 9E26
+Unendlich Leben
+$34377804 0014
+Unendlich Gesundheit
+$34376F6F 07F9
+Unendlich Chi
+$343779D7 F1B7
+**Hyper Modus
+*An
+(Druecke L3)
+$74225567 AE71
+$34235040 4C5C
+*Aus
+(Druecke R3)
+$74225567 AE77
+$34235040 4C59
+
+***TOMB RAIDER IV - DIE LETZTE OFFENBARUNG
+
+RCJC Pad 1
+700A1DF2 ????
+RCJC Pad 2
+700A1E16 ????
+AnAc Pad 1
+700A1DF0 ????
+AnAc Pad 2
+700A1E14 ????
+
+PAL2NTSC
+$34234DDB 394F
+Y-Fix 1
+$84238C94 F804
+Kein Demoende durch Nichts Druecken
+$842C1864 88BC
+Fackel brennt bis fallengelassen
+$742FD575 C51A
+$342FD517 C534
+Spider Lara
+$842FD56F D502
+Habe antike Muenze
+$342FCA29 ABCC
+Habe Edelstein
+$342FCA2A AA31
+*Lara fliegt
+(Halte Viereck)
+$742FE71B D8C1
+$8439DA46 936D
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$742FE71B D8D1
+$8439DA48 6C20
+*Unendlich:
+Sprinten
+$842C0F7F 7DD1
+Luft
+$842FD567 D204
+Gesundheit
+$8439DA44 689A
+Kleine Medipacks
+$842FCBE5 546F
+Grosse Medipacks
+$842FCBE7 5471
+Magnesiumfackeln
+$842FCBF9 448B
+Alle Gegenstaende
+$B426FBD3 9339
+$142FCBE5 546F
+*Unendlich Munition:
+UZI
+$842FCBFD 4487
+Revolver
+$842FCBFF 4489
+Gewehr
+$842FCBF1 4483
+$842FCBF3 4485
+Alle Waffen
+$B421FAD4 943A
+$142FCBFD 4487
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$742FE4FE 5F9C
+$842344D8 401A
+*Hyper
+(Druecke R1 Pad 2)
+$742FE4FE 539C
+$842344D8 4018
+*Normal
+(Druecke R2 Pad 2)
+$742FE4FE 599C
+$842344D8 4019
+
+***TOMMI MÄKINEN RALLY
+
+RCJC Pad 1
+700BD61A ????
+RCJC Pad 2
+700BD63C ????
+AnAc Pad 1
+700BD618 ????
+AnAc Pad 2
+700BD63A ????
+
+PAL2NTSC
+$34223FDF 5B49
+Y-Fix 1
+$842283A1 EFFB
+Y-Fix 2
+$84228214 2486
+Immer erster
+$342E5339 43CA
+Stoppuhr eingefroren
+$3426FF83 A7ED
+*Checkpoint-Zeit (Note 1)
+Unendlich
+$8426D3D9 BB6B
+Nimmt zu
+$8426D3D9 BB6A
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$34262CA8 4618
+Y-Fix 1
+$842770A0 2814
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$742111C5 70D9
+$84275DB1 3541
+$742111C5 70D9
+$842637E7 7B69
+*Hyper
+(Druecke R1 Pad 2)
+$742111C5 7CD9
+$84275DB1 CAAD
+$742111C5 7CD9
+$842637E7 4B19
+*Normal
+(Druecke R2 Pad 2)
+$742111C5 76D9
+$84275DB1 CAAD
+$742111C5 76D9
+$842637E7 7B69
+**DOGTAIL
+Unverwundbar
+$842C904E 002A
+Unendlich Leben
+$342C703C 20A8
+Max Knochen
+$342C77DF 25B2
+Habe alle Schluessel
+$342C7018 2095
+*Moon Jump
+(Halte X)
+$74211038 C5DE
+$842C948A 04F2
+$94211038 C5DE
+$842C948A 04D2
+**SHROUD
+Unzerstoerbar
+$843D6A22 F756
+Unendlich Leben
+$343D6A0A 0873
+Unendlich Smart-Bomben
+$343D6A0E 0877
+Starte mit vielen Punkten
+$743D6A76 184C
+$843D6A76 E7A2
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

@@ -1,0 +1,26 @@
+***S.C.A.R.S.
+
+RCJC Pad 1
+7011140E ????
+AnAc Pad 1
+7011140C ????
+
+PAL2NTSC
+$300DA966 0040
+Y-Fix 1
+$800DBA40 0000
+Y-Fix 2
+$800DBBEE 2400
+Unendlich Zeit
+$300926E6 0020
+Immer erster
+$801B9728 0000
+**Hyper Modus
+*An
+(Druecke L3)
+$7011140E FFFD
+$300D9CC4 0000
+*Aus
+(Druecke R3)
+$7011140E FFFB
+$300D9CC4 0005

@@ -1,0 +1,115 @@
+***DINO CRISIS
+
+RCJC Pad 1
+700B6792 ????
+RCJC Pad 2
+700B67B4 ????
+AnAc Pad 1
+700B6790 ????
+AnAc Pad 2
+700B67B2 ????
+
+PAL2NTSC
+$30089AFA 0040
+Y-Fix 1
+$80093194 0000
+Y-Fix 2
+$80093342 2400
+Unendlich Gesundheit
+$800BA434 04B0
+Unendlich Munition
+$8006AFCC 00FF
+$8006AFCE 2402
+Max Stecker
+$800C29C0 03E7
+Habe alle Waffen
+$800C2468 FFFF
+Habe alle Objekte
+$B0050002 0000
+$100C246C FFFF
+Habe alle Karten
+$B0040002 0000
+$100C2490 FFFF
+*Jederzeit speichern
+(Druecke L1 & L2)
+$700B6792 FAFF
+$300B8908 0007
+**Durch Waende gehen
+*An
+(Druecke L3)
+$700B6792 FFFD
+$80080AE4 0000
+*Aus
+(Druecke R3)
+$700B6792 FFFB
+$80080AE4 0005
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$700B6790 7300
+$30088EA8 0000
+*Aus
+(Analog-Modus aus)
+$700B6790 4100
+$30088EA8 0005
+*Max Inventar-Modifizierer
+Inventarplatz 1
+$800C278C FF??
+Inventarplatz 2
+$800C2790 FF??
+Inventarplatz 3
+$800C2794 FF??
+Inventarplatz 4
+$800C2798 FF??
+Inventarplatz 5
+$800C279C FF??
+Inventarplatz 6
+$800C27A0 FF??
+Inventarplatz 7
+$800C27A4 FF??
+Inventarplatz 8
+$800C27A8 FF??
+Inventarplatz 9
+$800C27AC FF??
+Inventarplatz 10
+$800C27B0 FF??
+
+Index für Max Inventar-Modifizierer
+
+00 - Nothing
+01 - Shotgun
+02 - Shotgun Custom
+03 - Shotgun + Stock
+04 - SG Custom + Stock
+05 - Handgun
+06 - Handgun + Sight
+07 - Handgun Custom
+08 - HG Custom + Sight
+09 - Grenade Gun
+0A - GG Custom
+0B - Shotgun Parts
+0C - Shotgun Stocks
+0D - Handgun Sights
+0E - Handgun Slides
+0F - GG Parts
+10 - SG Bullets
+11 - Slag Bullets
+12 - An. Dart S
+13 - An. Dart M
+14 - An. Dart L
+15 - Poison Dart
+16 - 9mm Parabellum
+17 - 40S&W Bullets
+18 - Grenade Bullets
+19 - Heat Bullets
+1A - Infinite Grenades
+1B - Hemostat
+1C - Med. Pak S
+1D - Med. Pak M
+1E - Med. Pak L
+1F - Resuscitation
+20 - An. Aid
+21 - Recovery Aid
+22 - Intensifier
+23 - Multiplier
+

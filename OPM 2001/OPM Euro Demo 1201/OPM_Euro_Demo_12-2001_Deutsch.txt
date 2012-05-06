@@ -1,0 +1,415 @@
+
+//=========
+
+OPM Euro Demo 12/2001 Deutsch
+
+SCED03475
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+Code ## von gothi
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1ATLANTIS
+
+RCJC Pad 1
+$7009FCBA ????
+RCJC Pad 2
+$7009FCE2 ????
+AnAc Pad 1
+$7009FCB8 ????
+AnAc Pad 2
+$7009FCE0 ????
+
+PAL2NTSC
+$30078E9A 0040
+Y-Fix 1
+$80074A94 0000
+Y-Fix 2
+$80074C42 2400
+Unendlich Gesundheit
+$8001BE26 3C00
+Fliegen
+(Halte L3 & X)
+$7009FCBA BFFD
+$30046EE0 0023
+$7009FCBA FFFF
+$30046EE0 0021
+#3Leben (Note 1)
+Unendlich
+$8001BEAE 3C00
+Nehmen zu
+$8001BEA4 0001
+#3Hyper Modus
+An
+(Drücke R1 Pad 2)
+$7009FCE2 F7FF
+$30078220 0000
+Aus
+(Drücke R2 Pad 2)
+$7009FCE2 FDFF
+$30078220 0005
+
+#1DEVIL DICE
+
+RCJC Pad 1
+$70194D92 ????
+RCJC Pad 2
+$70194DBA ????
+AnAc Pad 1
+$70194D90 ????
+AnAc Pad 2
+$70194DB8 ????
+
+PAL2NTSC
+$30126E16 0040
+Y-Fix
+$8010E098 0000
+#2Trial-Modus
+Max Punkte
+$8018A424 423F
+$8018A426 000F
+#3Zeit (Note 1)
+Unendlich
+$800A379C 0000
+Nimmt zu
+$800A379C 0001
+#2Puzzle-Modus
+#3Schritte (Note 1)
+Unendlich
+$800EDF18 0000
+Nehmen zu
+$800EDF18 0001
+
+#1DRIVER 2
+
+RCJC Pad 1
+$700A3B52 ????
+RCJC Pad 2
+$700A3B74 ????
+AnAc Pad 1
+$700A3B50 ????
+AnAc Pad 2
+$700A3B72 ????
+
+PAL2NTSC
+$3007BC42 0040
+Y-Fix
+$80077E80 0000
+Überspringe Videosequenz
+$801A6808 0000
+Kein Schaden
+$80096636 0000
+Spritztour (Code von gothi)
+$80069308 0000
+$80069314 0000
+$8006931C 0000
+#3Durch Autos fahren
+An
+(Drücke R3 & Oben)
+$700A3B52 FFEB
+$80019DA6 2400
+Aus
+(Drücke R3 & Unten)
+$700A3B52 FFBB
+$80019DA6 0C00
+#3Passanten einfrieren
+An
+(Drücke R3 & Links)
+$700A3B52 FF7B
+$8001FD9A 2400
+Aus
+(Drücke R3 & Rechts)
+$700A3B52 FFDB
+$8001FD9A 0C01
+
+#1HUGO - DIAMANTENFIEBER
+
+RCJC Pad 1
+$70094A52 ????
+RCJC Pad 2
+$70094A74 ????
+AnAc Pad 1
+$70094A50 ????
+AnAc Pad 2
+$70094A72 ????
+
+PAL2NTSC
+$30068F3A 0040
+Y-Fix
+$80069D74 0000
+Alles gefunden
+$30166724 004A
+$30166730 0004
+Lebensenergie auffüllen
+(Drücke R1 & R2)
+$70094A52 F5FF
+$3016671C 000A
+#3Leben (Note 1)
+Unendlich
+$80044DEA 2400
+Nehmen zu
+$80044DE8 0001
+#3Pause-Modus
+An
+(Drücke Start)
+$70094A52 FFF7
+$8006873A 2400
+Aus
+(Drücke Dreieck)
+$70094A52 EFFF
+$8006873A 1440
+#3Hypermodus
+Normale Geschwindigkeit
+(Drücke L1 Pad 2)
+$70094A74 FBFF
+$30068BDC 0001
+Doppelte Geschwindigkeit
+(Drücke L2 Pad 2)
+$70094A74 FEFF
+$30068BDC 0002
+Dreifache Geschwindigkeit
+(Drücke R1 Pad 2)
+$70094A74 F7FF
+$30068BDC 0003
+Vierfache Geschwindigkeit
+(Drücke R2 Pad 2)
+$70094A74 FDFF
+$30068BDC 0004
+
+#1LUCKY LUKE - IM WESTERNFIEBER
+
+RCJC Pad 1
+$700A9692 ????
+RCJC Pad 2
+$700A96B4 ????
+AnAc Pad 1
+$700A9690 ????
+AnAc Pad 2
+$700A96B2 ????
+
+PAL2NTSC
+$3008D1FE 0040
+Y-Fix 1
+$80087288 0000
+Y-Fix 2
+$80087436 2400
+Unendlich Gesundheit
+$8004207E 3C00
+Kein Nachladen
+$8007EC7A 2400
+
+#1METAL GEAR SOLID
+
+RCJC Pad 1
+$700C723A ????
+RCJC Pad 2
+$700C725E ????
+AnAc Pad 1
+$700C7238 ????
+AnAc Pad 2
+$700C725C ????
+
+PAL2NTSC
+$3009EE6E 0040
+Y-Fix
+$800962E8 0000
+Unendlich Lebensenergie
+$800BABCE 0600
+Max Lebensenergie
+$800BABD0 0600
+Unendlich Luft
+$800B185C 0400
+Radar nicht gestört, wenn entdeckt
+$800B1828 0000
+Besitze alle Waffen
+$B0140002 0000
+$100BABDA 03E7
+Besitze alle Gegenstände
+$B00D0002 0000
+$100BAC02 0001
+$B0030002 0000
+$100BAC1C 03E7
+$B0040002 0000
+$100BAC28 0001
+$B0030002 0000
+$100BAC32 03E7
+$800BAC22 0001
+$800BAC24 0064
+$800BAC30 0000
+#3Kein Nachladen :
+Socom (Pistole)
+$8006BF66 3C00
+Fa-Mas (Sturmgewehr)
+$8006C55A 3C00
+PSG1 (Scharfschützengewehr)
+$8006E542 3C00
+#3Slow Motion 
+An
+(Drücke L1 Pad 2)
+$700C725E FBFF
+$80097D80 0000
+Aus
+(Drücke L2 Pad 2)
+$700C725E FEFF
+$80097D80 FFFF
+
+#1TOCA 2 TOURING CARS
+
+RCJC Pad 1
+$700E1CB6 ????
+RCJC Pad 2
+$700E1CD8 ????
+AnAc Pad 1
+$700E1CB4 ????
+AnAc Pad 2
+$700E1CD6 ????
+
+PAL2NTSC
+$300C03F6 0040
+Y-Fix 1
+$800BCB40 0000
+Y-Fix 2
+$800BCCEE 2400
+Immer gute Traktion & Haftung
+$3005A21A 0040
+#3Zeit eingefroren
+An
+(Drücke L2 & R2 & Oben)
+$700E1CB6 FCEF
+$800A2A9A 3C00
+Aus
+(Drücke L2 & R2 & Unten)
+$700E1CB6 FCBF
+$800A2A9A AF84
+#3Durch Wände fahren
+An
+(Drücke L3)
+$700E1CB6 FFFD
+$8005F3F2 1000
+Aus
+(Drücke R3)
+$700E1CB6 FFFB
+$8005F3F2 0620
+
+#1TOMB RAIDER II
+
+RCJC Pad 1
+$70097D5A ????
+RCJC Pad 2
+$70097D82 ????
+AnAc Pad 1
+$70097D58 ????
+AnAc Pad 2
+$70097D80 ????
+
+PAL2NTSC
+$3008B5D6 0040
+Y-Fix
+$80083B6C 0000
+$80083B32 3C00
+$80083BEE 3C00
+SuddenDeath Gegner
+$8004C90A A480
+Totgeborene Gegner
+(Übersteuert SuddenDeath)
+$80043256 A600
+Überlebe tiefen Fall
+$8004978E 2400
+Fackel brennt ewig
+$8004CBA0 0030
+$8004CBA2 2402
+Spider Lara
+$30097DBE 0001
+Habe alle Waffen
+$30093DE8 000B
+$80093E44 3464
+$80093E48 3560
+Habe alle Items
+$30093E7C 0006
+Alle Geheimnisse gefunden
+$300E993A 000F
+Zeit eingefroren
+$3003DEFA 00A0
+#3Unendlich :
+Gesundheit
+$8004DF6C 0400
+$8004DF6E 3402
+$8004DF70 0022
+$8004DF72 A602
+Luft
+$8004E08A 3C00
+Magnesiumfackeln
+$80093DF6 0032
+Grosse Medipacks 
+$80093DF8 0032
+Kleine Medipacks 
+$80093DFA 0032
+Alle Gegenstände
+$B0030002 0000
+$10093DF6 0032
+#3Unendlich Munition :
+Automatik
+$80097E6C 1770
+Uzis
+$80097E70 1770
+Schrotflinte
+$80097E74 1770
+Harpune
+$80097E78 1770
+Granatwerfer
+$80097E7C 1770
+M16
+$80097E80 1770
+Alle Waffen 
+$B0060004 0000
+$10097E6C 1770
+#3Hypermodus
+Normale Geschwindigkeit
+(Drücke L1 Pad 2)
+$70097D82 FBFF
+$3007EF94 0001
+Doppelte Geschwindigkeit
+(Drücke L2 Pad 2)
+$70097D82 FEFF
+$3007EF94 0002
+Dreifache Geschwindigkeit
+(Drücke R1 Pad 2)
+$70097D82 F7FF
+$3007EF94 0003
+Vierfache Geschwindigkeit
+(Drücke R2 Pad 2)
+$70097D82 FDFF
+$3007EF94 0004
+#3Durch die Luft laufen
+An
+(Drücke R1 & R2 & Oben)
+$70097D5A F5EF
+$8002A172 AE00
+Aus
+(Drücke R1 & R2 & Unten)
+$70097D5A F5BF
+$8002A172 AE11
+#3Matrix Lara
+Stufe 1
+(Drücke Select & Dreieck Pad 2)
+$70097D82 EFFE
+$3004E694 0003
+Stufe 2
+(Drücke Select & Kreis Pad 2)
+$70097D82 DFFE
+$3004E694 0002
+Stufe 3
+(Drücke Select & X Pad 2)
+$70097D82 BFFE
+$3004E694 0001
+Normal
+(Drücke Select & Viereck Pad 2)
+$70097D82 7FFE
+$3004E694 0006
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

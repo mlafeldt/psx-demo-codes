@@ -1,0 +1,34 @@
+***EAGLE ONE - HARRIER ATTACK
+
+RCJC Pad 1
+70107712 ????
+RCJC Pad 2
+70107734 ????
+AnAc Pad 1
+70107710 ????
+AnAc Pad 2
+70107732 ????
+
+PAL2NTSC
+$300B6282 0040
+Y-Fix
+$800B7B3C 0000
+Unendlich Panzerung
+$8003B350 0023
+Unendlich Treibstoff
+$8019961A 0100
+*Sidewinders (Note 1)
+Unendlich
+$800203FE 2400
+Nehmen zu
+$800203FC 0001
+*Mavericks (Note 1)
+Unendlich
+$8002055A 2400
+Nehmen zu
+$80020558 0001
+*Vultures (Note 1)
+Unendlich
+$8003C7A6 2400
+Nehmen zu
+$8003C7A4 0001

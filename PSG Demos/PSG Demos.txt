@@ -1,0 +1,418 @@
+
+//=========
+
+PSG Demos
+
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+#1ADIDAS POWER SOCCER 98 (SLED-01311)
+
+RCJC Pad 1
+$D00DC026 ????
+RCJC Pad 2
+$D00DC04A ????
+AnAc Pad 1
+$D00DC024 ????
+AnAc Pad 2
+$D00DC048 ????
+
+PAL2NTSC
+$300AA242 0040
+Y-Fix
+$800ABB80 0000
+Unendlich Spielzeit
+$8001750A AC20
+Jedes Tor zählt ??-fach
+$300877B8 00??
+#3Heimmannschaft
+20 Tore
+$300FC814 0014
+0 Tore
+$300FC814 0000
+#3Gastmannschaft
+20 Tore
+$300FC816 0014
+0 Tore
+$300FC816 0000
+#3Slow Motion 
+An
+(Drücke L3)
+$700DC026 FFFD
+$800AD870 0000
+Aus
+(Drücke R3)
+$700DC026 FFFB
+$800AD870 FFFF
+
+#1COLIN MCRAE RALLY (SLED-01381)
+
+RCJC Pad 1
+$D00CF1C6 ????
+RCJC Pad 2
+$D00CF1E8 ????
+AnAc Pad 1
+$D00CF1C4 ????
+AnAc Pad 2
+$D00CF1E6 ????
+
+PAL2NTSC
+$300A9FC6 0040
+$301BE4AA 0040
+$301BE582 0040
+Y-Fix 1
+$800A2568 0000
+$801B988C 0000
+$801B9964 0000
+Y-Fix 2
+$800A25E4 0000
+$800A25E8 0000
+$801B9908 0000
+$801B990C 0000
+$801B99E0 0000
+$801B99E4 0000
+Stoppuhr eingefroren
+$8007A882 2400
+Unendlich SetUp-Zeit
+$300C55A8 003C
+#3Hyper Modus
+An
+(Drücke Select & L2)
+$700CF1C6 FEFE
+$300A9C68 0002
+Aus
+(Drücke Select & R2)
+$700CF1C6 FDFE
+$300A9C68 0001
+#3Immer gute Traktion & Haftung
+An
+(Drücke Select & Links)
+$700CF1C6 FF7E
+$3001D4AA 0080
+Aus
+(Drücke Select & Rechts)
+$700CF1C6 FFDE
+$3001D4AA 0082
+
+#1FIGHTING FORCE (SLED-01098)
+
+RCJC Pad 1
+$D0094582 ????
+RCJC Pad 2
+$D00945AA ????
+AnAc Pad 1
+$D0094580 ????
+AnAc Pad 2
+$D00945A8 ????
+
+PAL2NTSC
+$300765C6 0040
+Y-Fix
+$8006F928 0000
+Rotes Blut mit deutschen Menüs
+$8005C136 3C00
+#3P1
+Unendlich Energie
+$800B41A2 017C
+Starte mit vielen Punkten
+$70093E68 0000
+$80093E68 FFFF
+#3P2
+Unendlich Energie
+$800B4296 017C
+Starte mit vielen Punkten
+$70093E6C 0000
+$80093E6C FFFF
+#3Munition alle Waffen (Note 1)
+Unendlich
+$800251BA 2400
+$80025286 2400
+$8002534A 2400
+Nimmt zu
+$800251B8 0001
+$80025284 0001
+$80025348 0001
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke Select & L2)
+$70094582 FEFE
+$300758BC 0005
+$70094582 FEFE
+$30076254 0000
+Hyper
+(Drücke Select & R2)
+$70094582 FDFE
+$300758BC 0000
+$70094582 FDFE
+$30076254 0001
+Normal
+(Drücke Select & R1)
+$70094582 F7FE
+$300758BC 0005
+$70094582 F7FE
+$30076254 0001
+
+#1FORSAKEN (SLED-01263)
+
+RCJC Pad 1
+$D00890CA ????
+RCJC Pad 2
+$D00890EE ????
+AnAc Pad 1
+$D00890C8 ????
+AnAc Pad 2
+$D00890EC ????
+
+PAL2NTSC
+$3006A10E 0040
+$3011115E 0040
+Y-Fix
+$8006B770 0000
+$801132F0 0000
+Kein Demoende durch Nichts Drücken
+$800CA74C FFFF
+Unendlich Schild
+$8008775C 1000
+Unendlich Panzerung
+$8008775E 1000
+Unendlich Nitro
+$8008776C 0800
+Max Goldbarren
+$300DFEA3 00FF
+Max Powerpacks
+$30087788 0003
+Goldene Powerpacks
+$80087790 7FF0
+#3Bikes (Note 1)
+Unendlich
+$8003ADB2 2400
+Nehmen zu
+$8003ADB0 0001
+#3Waffen Modifizierer
+Primärwaffe
+$3008777D 00??
+Sekundärwaffe
+$3008777E 00??
+#3Waffen Codes :
+Mug
+$300877AF 0063
+Solaris
+$300877B0 0063
+Scatter
+$300877B2 0063
+Titan
+$300877B3 0063
+Gravgon
+$300877B4 0063
+MFRL
+$300877B5 0063
+Purge
+$300877B6 0063
+Pine
+$300877B8 0063
+Quantum
+$300877B9 0063
+Pulsar
+$80087764 8000
+$300877A8 0001
+Tranpulse
+$80087764 8000
+$300877A9 0001
+Pyrolite
+$80087766 8000
+$300877AA 0001
+Trojax
+$80087764 8000
+$300877AB 0001
+Beamlaser
+$80087764 8000
+$8008776A 0000
+$300877AC 0001
+Suss-Gun
+$80087768 8000
+$300877AD 0001
+#3Hypermodus
+Normal
+(Drücke L1 Pad 2)
+$700890EE FBFF
+$30035460 0001
+Schneller
+(Drücke L2 Pad 2)
+$700890EE FEFF
+$30035460 0002
+Noch schneller
+(Drücke R1 Pad 2)
+$700890EE F7FF
+$30035460 0005
+Viel schneller
+(Drücke R2 Pad 2)
+$700890EE FDFF
+$30035460 000A
+#3Slow Motion 
+An
+(Analog-Modus ein Pad 2)
+$700890EC 7300
+$8006D378 0000
+Aus
+(Analog-Modus aus Pad 2)
+$700890EC 4100
+$8006D378 FFFF
+
+#1TOMB RAIDER II (SLED-01098)
+
+RCJC Pad 1
+$D008CC8A ????
+RCJC Pad 2
+$D008CCB2 ????
+AnAc Pad 1
+$D008CC88 ????
+AnAc Pad 2
+$D008CCB0 ????
+
+Auto Activation Code 
+$F008A518 0000
+PAL2NTSC
+$300809DA 0040
+Y-Fix (Note 1)
+$800791B8 0000
+Bild nach oben/unten schieben (Note 1)
+(Drücke Select & Oben/Unten Pad 2)
+$900078023C0A 
+$500078000050 
+$08000A3CB2CC 
+$4A3500000000
+$07000B3CB891
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$500791B00004
+$001E000CBEEF
+$0007917C0000
+$000791A80000
+Kein Demoende durch Nichts Drücken
+$800882AC 0000
+Kein Todessturz
+$0003E114 0000
+Fackel brennt ewig
+$8008CD00 003C
+Spider Lara
+$3008CCEE 0001
+Habe alle Items
+$30089358 0009
+Alle Geheimnisse gefunden
+$300DEE7A 000F
+Benötigte Zeit 00:00:00
+$8003193E AC40
+Lara fliegt
+(Halte Viereck)
+$7008CC8A 7FFF
+$80193CC0 FFC0
+Weiter Sprung
+(Drücke Viereck & Oben)
+$7008CC8A 7FEF
+$80193CBE 00B6
+Randvolles Inventar (Note 2)
+(Drücke Select)
+$7008CC8AFFFE
+$300892C4000B
+$7008CC8AFFFE
+$500893000028
+$44880800EC88
+$080098880800
+$848D0800308D
+$080040890800
+$948908003C8A
+$0800908A0800
+$E8890800C0DE
+$7008CC8AFFFE
+$B00600040000
+$1008CDA41770
+$7008CC8AFFFE
+$B00300020000
+$100892D20032
+#3Unendlich :
+Luft
+$8008CCF6 0708
+Gesundheit
+$80193CC2 0400
+Magnesiumfackeln
+$800892D2 0032
+Grosse Medipacks 
+$800892D4 0032
+Kleine Medipacks 
+$800892D6 0032
+Alle Gegenstände
+$B0030002 0000
+$100892D2 0032
+#3Unendlich Munition :
+Automatik
+$8008CDA4 1770
+Uzis
+$8008CDA8 1770
+Schrotflinte
+$8008CDAC 1770
+Harpune
+$8008CDB0 1770
+Granatwerfer
+$8008CDB4 1770
+M16
+$8008CDB8 1770
+Alle Waffen 
+$B0060004 0000
+$1008CDA4 1770
+#3Hypermodus
+Normal
+(Drücke L1 Pad 2)
+$7008CCB2 FBFF
+$30074668 0001
+Schneller
+(Drücke L2 Pad 2)
+$7008CCB2 FEFF
+$30074668 0002
+Noch schneller
+(Drücke R1 Pad 2)
+$7008CCB2 F7FF
+$30074668 0005
+Viel schneller
+(Drücke R2 Pad 2)
+$7008CCB2 FDFF
+$30074668 0009
+
+Index für Waffen Modifizierer Primärwaffe
+
+00 - Pulsar
+01 - Tranpulse
+02 - Pyrolite
+03 - Trojax
+04 - Beamlaser
+05 - Suss-Gun
+06 - Lightning
+
+Index für Waffen Modifizierer Sekundärwaffe
+
+00 - Mug
+01 - Solaris
+03 - Scatter
+04 - Titan
+05 - Gravgon
+06 - MFRL
+07 - Purge
+09 - Pine
+0A - Quantum
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: Dieser Code bewirkt dasselbe wie der Tastencheat
+in der Vollversion von Tomb Raider 2, d.h. es stehen einem
+alle Waffen mit einer ordentlichen Portion Munition, 50 Fackeln,
+sowie 50 zusätzliche große und kleine Medipacks zur Verfügung.
+
+//=========

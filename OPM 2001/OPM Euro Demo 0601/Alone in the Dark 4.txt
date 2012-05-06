@@ -1,0 +1,409 @@
+**ALONE IN THE DARK 4: THE NEW NIGHTMARE
+
+RCJC Pad 1
+700B7A4E ????
+RCJC Pad 2
+700B7A96 ????
+
+PAL2NTSC
+$7003B9D4 0008
+$3003B9D2 0040
+Y-Fix
+$70038690 0010
+$80038690 0000
+Kein Demoende durch Nichts Druecken
+$8009DEBC 0000
+Unendlich Lebenskraft
+$3013D9A4 0064
+SuddenDeath Gegner
+$700345A4 0234
+$800345A6 A480
+$70077F68 0234
+$80077F6A A480
+*Unendlich Munition
+Customized Revolver
+$3013DB94 000C
+Triple-Barreled Gun
+$3013DB9C 000C
+Rocket Launcher
+$3013DBB4 000C
+Stun Pistol
+$3013DBBC 000C
+Grenade Launcher
+$3013DBCC 000C
+*Immer 100%
+Photoelectric Pulsar
+$3013DBA4 000A
+Magnesium Flare
+$3013DBAC 000A
+Plasma Cannon
+$3013DBC4 000A
+Lightning Gun
+$3013DBD4 000A
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$700B7A96 F7FF
+$80030CE0 0000
+*Aus
+(Druecke R2 Pad 2)
+$700B7A96 FDFF
+$80030CE0 0005
+
+*Inventarmodifizierer
+Vorbereitungs-Code (Muss aktiviert sein)
+$3013DA8C 0034
+Inventarplatz 1
+3013DA90 00??
+Inventarplatz 2
+3013DA94 00??
+Inventarplatz 3
+3013DA98 00??
+Inventarplatz 4
+3013DA9C 00??
+Inventarplatz 5
+3013DAA0 00??
+Inventarplatz 6
+3013DAA4 00??
+Inventarplatz 7
+3013DAA8 00??
+Inventarplatz 8
+3013DAAC 00??
+Inventarplatz 9
+3013DAB0 00??
+Inventarplatz 10
+3013DAB4 00??
+Inventarplatz 11
+3013DAB8 00??
+Inventarplatz 12
+3013DABC 00??
+Inventarplatz 13
+3013DAC0 00??
+Inventarplatz 14
+3013DAC4 00??
+Inventarplatz 15
+3013DAC8 00??
+Inventarplatz 16
+3013DACC 00??
+Inventarplatz 17
+3013DAD0 00??
+Inventarplatz 18
+3013DAD4 00??
+Inventarplatz 19
+3013DAD8 00??
+Inventarplatz 20
+3013DADC 00??
+Inventarplatz 21
+3013DAE0 00??
+Inventarplatz 22
+3013DAE4 00??
+Inventarplatz 23
+3013DAE8 00??
+Inventarplatz 24
+3013DAEC 00??
+Inventarplatz 25
+3013DAF0 00??
+Inventarplatz 26
+3013DAF4 00??
+Inventarplatz 27
+3013DAF8 00??
+Inventarplatz 28
+3013DAFC 00??
+Inventarplatz 29
+3013DB00 00??
+Inventarplatz 30
+3013DB04 00??
+Inventarplatz 31
+3013DB08 00??
+Inventarplatz 32
+3013DB0C 00??
+Inventarplatz 33
+3013DB10 00??
+Inventarplatz 34
+3013DB14 00??
+Inventarplatz 35
+3013DB18 00??
+Inventarplatz 36
+3013DB1C 00??
+Inventarplatz 37
+3013DB20 00??
+Inventarplatz 38
+3013DB24 00??
+Inventarplatz 39
+3013DB28 00??
+Inventarplatz 40
+3013DB2C 00??
+Inventarplatz 41
+3013DB30 00??
+Inventarplatz 42
+3013DB34 00??
+Inventarplatz 43
+3013DB38 00??
+Inventarplatz 44
+3013DB3C 00??
+Inventarplatz 45
+3013DB40 00??
+Inventarplatz 46
+3013DB44 00??
+Inventarplatz 47
+3013DB48 00??
+Inventarplatz 48
+3013DB4C 00??
+Inventarplatz 49
+3013DB50 00??
+Inventarplatz 50
+3013DB54 00??
+Inventarplatz 51
+3013DB58 00??
+Inventarplatz 52
+3013DB5C 00??
+
+*Unendlich Inventar
+Inventarplatz 1
+$3013DA92 0063
+Inventarplatz 2
+$3013DA96 0063
+Inventarplatz 3
+$3013DA9A 0063
+Inventarplatz 4
+$3013DA9E 0063
+Inventarplatz 5
+$3013DAA2 0063
+Inventarplatz 6
+$3013DAA6 0063
+Inventarplatz 7
+$3013DAAA 0063
+Inventarplatz 8
+$3013DAAE 0063
+Inventarplatz 9
+$3013DAB2 0063
+Inventarplatz 10
+$3013DAB6 0063
+Inventarplatz 11
+$3013DABA 0063
+Inventarplatz 12
+$3013DABE 0063
+Inventarplatz 13
+$3013DAC2 0063
+Inventarplatz 14
+$3013DAC6 0063
+Inventarplatz 15
+$3013DACA 0063
+Inventarplatz 16
+$3013DACE 0063
+Inventarplatz 17
+$3013DAD2 0063
+Inventarplatz 18
+$3013DAD6 0063
+Inventarplatz 19
+$3013DADA 0063
+Inventarplatz 20
+$3013DADE 0063
+Inventarplatz 21
+$3013DAE2 0063
+Inventarplatz 22
+$3013DAE6 0063
+Inventarplatz 23
+$3013DAEA 0063
+Inventarplatz 24
+$3013DAEE 0063
+Inventarplatz 25
+$3013DAF2 0063
+Inventarplatz 26
+$3013DAF6 0063
+Inventarplatz 27
+$3013DAFA 0063
+Inventarplatz 28
+$3013DAFE 0063
+Inventarplatz 29
+$3013DB02 0063
+Inventarplatz 30
+$3013DB06 0063
+Inventarplatz 31
+$3013DB0A 0063
+Inventarplatz 32
+$3013DB0E 0063
+Inventarplatz 33
+$3013DB12 0063
+Inventarplatz 34
+$3013DB16 0063
+Inventarplatz 35
+$3013DB1A 0063
+Inventarplatz 36
+$3013DB1E 0063
+Inventarplatz 37
+$3013DB22 0063
+Inventarplatz 38
+$3013DB26 0063
+Inventarplatz 39
+$3013DB2A 0063
+Inventarplatz 40
+$3013DB2E 0063
+Inventarplatz 41
+$3013DB32 0063
+Inventarplatz 42
+$3013DB36 0063
+Inventarplatz 43
+$3013DB3A 0063
+Inventarplatz 44
+$3013DB3E 0063
+Inventarplatz 45
+$3013DB42 0063
+Inventarplatz 46
+$3013DB46 0063
+Inventarplatz 47
+$3013DB4A 0063
+Inventarplatz 48
+$3013DB4E 0063
+Inventarplatz 49
+$3013DB52 0063
+Inventarplatz 50
+$3013DB56 0063
+Inventarplatz 51
+$3013DB5A 0063
+Inventarplatz 52
+$3013DB5E 0063
+Unendlich alle Inventarplaetze
+$B0340004 0000
+$1013DA92 0063
+
+Index fuer Inventarmodifizierer
+
+WEAPONS
+
+17 - Ammunition for the Sniper's Rifle
+27 - Revolver*
+59 - Photoelectric Pulsar
+5A - Battery Charger
+5E - Customized Revolver
+65 - Magnesium Flare
+66 - Triple-Barreled Gun
+67 - Laser Rifle*
+68 - Disk Launcher*
+69 - Rocket Launcher
+6A - Grenade Launcher
+6B - Lightning Gun
+6C - Stun Pistol
+6D - Plasma Cannon
+6F - Box of 9mm Magnesium Bullets
+70 - Box of Phosphorus Cartridges
+74 - 15 kW Battery
+75 - Case of Rockets
+76 - Case of Grenades
+77 - Gas Cartridge
+
+* nicht anwaehlbar
+
+OBJECTS
+
+00 - Small Steel Key (2ND F WEST)
+01 - Small Bronze Key
+03 - Small Steel Key (3RD F WEST)
+04 - Archibald Morton's Flask
+05 - Crowbar
+06 - Reassembled Photograph
+07 - Bronze Key (1ST F EAST)
+08 - Wolf Mask
+09 - Steel Key (2ND F EAST)
+0A - Large Ornate Key (1ST F LIBRARY)
+0B - Bronze Key (1ST F WEST)
+0C - Archibald Morton's Lighter
+0D - Small Gray Metal Key (2ND F OFFICE)
+0E - Small Steel Key (2ND F EAST)
+0F - Half of a Photograph (1)
+10 - Large Ornate Key (1ST F LIBRARY)
+11 - Half of a Photograph (2)
+12 - Photoelectric-Pulsar without Barrel, with Yellow Accelerator
+13 - Perforator Barrel Mould
+14 - Photoelectric-Pulsar without Barrel, with Orange Accelerator
+15 - Sniper's Rifle
+18 - Acrobat Statuette
+19 - Small Bronze Key
+1C - Golden Metal Key
+1D - Stone Stele
+1E - Red Accelerator
+1F - White Photoelectric Pulsar
+20 - Tripod Support
+21 - Tripod Support with Perforator Barrel
+22 - OBed Morton's Seal
+23 - Blue Lens
+24 - Photoelectric-Pulsar without Barrel, with Red Accelerator
+25 - Small Steel Key (3RD F EAST)
+26 - Glass Prism
+28 - Metallic Ring with Abkanis Energy Stone (1ST F EAST)
+2B - De Certo's Mirror
+2C - Abkanis Statue of Anticoalt
+2D - Glass Prism
+2E - Engraved Cube (LIBRARY)
+2F - Abkanis Tablets
+30 - Half Medallion (1)
+31 - Half Medallion (2)
+32 - Allen wrench
+33 - Cover for Flashlight
+34 - Golden Metallic Card
+35 - Metallic Pliers
+36 - Metallic Half-Ring (1)
+38 - Large Steel Key
+39 - Metallic Half-Ring (2)
+3A - Glass Lens
+3B - Red Metallic Card
+3C - Silver Metallic Card
+3D - Black Metallic Card
+3E - Alan Morton's Seal
+3F - Large Steel Key
+40 - Photoelectric-Pulsar without Barrel
+41 - Indian Statue of Gilamesh
+42 - Abkanis Energy Stone
+43 - Butt
+44 - Barrel
+45 - White Accelerator
+46 - Yellow Accelerator
+47 - Orange Accelerator
+48 - Tripod Support
+49 - Bronze Sun
+4A - Indian Statue of Heliopaner
+4B - Indian Statue of Melacanthe
+4C - Indian Statue of Hemicles
+4D - Indian Statue of Ouphenos
+4E - Indian Statue of Hecatonchires
+4F - Flashlight
+50 - Metallic Ring
+51 - Steel Lingot
+53 - Photoelectric-Pulsar with Orange Accelerator
+54 - Perforator Barrel
+55 - Photoelectric-Pulsar with Yellow Accelerator
+56 - Photoelectric-Pulsar with Red Accelerator
+57 - Perforator without Abkanis Energy Stone
+58 - Perforator with Energy Stone
+5B - Stone Pyramid
+5C - Stone Abkanis Seal (1)
+5D - Stone Abkanis Seal (2)
+5F - Stone Abkanis Seal (3)
+60 - Stone Abkanis Seal (4)
+61 - Stone Abkanis Seal (5)
+62 - Stone Abkanis Seal (6)
+63 - Small Golden Key
+64 - Engraved Metallic Plate
+6E - Walkie-Talkie
+71 - Small Rusty Key (B CELLAR)
+72 - First Aid Kit
+73 - Amulet of Protection
+7B - Photograph
+7C - Energy Crystal
+7E - Safeguard Amulet
+7F - Flashlight with Cover
+
+DOCUMENTS
+
+02 - Fiske's Notebook
+16 - Jeremy's Riddle
+1B - Dictaphone
+29 - Abkanis Tablets Translation
+2A - Book on the Abkanis Indians
+37 - Diagram
+52 - Sheet of Paper
+78 - Hand-Written Letter
+79 - Richard Morton's Will and Testament
+7A - Archibald Morton's Diary
+7D - Jeremy Morton's Diary
+80 - Frederick Johnson's Letter

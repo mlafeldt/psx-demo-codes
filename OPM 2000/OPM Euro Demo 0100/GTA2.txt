@@ -1,0 +1,38 @@
+**Grand Theft Auto 2 Codes
+JC
+$70038EF0 ????
+PAL2NTSC
+$70029AA80001
+$80029AA80000
+Y-Fix 
+$8001EB880000
+UE Demozeit
+$nocode
+Starte mit 5 Millionen Punkten
+$70123BB80000
+$80123BB84B40
+$70123BBA0000
+$80123BBA004C
+UE Leben
+$30123EB40063
+Habe UE explosive Flaschen
+$80168CB8FFFF
+Habe UE Granaten
+$80168CE0FFFF
+*Habe Waffe mit UE MU
+Pistole
+$80168C18FFFF
+S-Uzi-Maschinengewehr 
+$80168C40FFFF
+Raketenwerfer
+$80168C68FFFF
+Blitzwaffe
+$80168C90FFFF
+Schrotflinte
+$80168D08FFFF
+Flammenwerfer
+$80168D58FFFF
+MG mit Schalldaempfer
+$80168D80FFFF
+Doppelpistole
+$80168DA8FFFF

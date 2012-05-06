@@ -1,0 +1,273 @@
+
+
+//========
+
+"Offizielle PlayStation Magazin Demo-CD 01/00"
+
+SCED-01844
+erstellt mit XPClassic V3.20 LIT
+
+
+**MTV Sports-Snowboarding Codes 
+RCJC
+$700B5B42 ????
+PAL2NTSC
+$7008B9600001
+$8008B9600000
+Y-Fix
+$80061BDC0000
+Starte mit Highscore - Anna 
+$700863500000
+$800863502710
+Starte mit Highscore - Mitch 
+$700863840000
+$800863842710
+
+**NBA Basketball 2000 Codes
+RCJC P1
+$700E5B36 ????
+RCJC P2
+$700E5B58 ????
+PAL2NTSC
+$700EBCF00001
+$800EBCF00000
+Y-Fix 
+$800B82100000
+UE Spielzeit
+$8013617E00F0
+New York 200 Punkte
+$30018FCE00C8
+New York 0 Punkte
+$30018FCE0000
+San Antonio 200 Punkte
+$300185C200C8
+San Antonio 0 Punkte
+$300185C20000
+
+**NHL Championship 2000 Codes
+RCJC P1
+$700EC5CE ????
+RCJC P2
+$700EC5F0 ????
+PAL2NTSC
+$700F70880001
+$800F70880000
+Y-Fix
+$800CADD80000
+UE Spielzeit
+$8018F3D2012D
+Buffalo 20 Tore
+$8001C2E40F14
+Buffalo 0 Tore
+$8001C2E40000
+Dallas 20 Tore
+$8001C3040F14
+Dallas 0 Tore
+$8001C3040000
+
+**Pac-Man World Codes
+RJC
+$70138CF0 ????
+PAL2NTSC
+$700F0E400001
+$800F0E400000
+Y-Fix 
+$800C592C0000
+*Quest Modus Codes
+UE Gesundheit
+$801381C80004
+Max Punkte
+$801381D0FFFF
+$801381D20FFF
+UE Leben
+$801381D40063
+Max Pac-Dots
+$801381D800FF
+Habe PACMAN 
+(Druecke L1 & L2 & R1 & R2)
+$70138CF00F00
+$B00600020000
+$101383C80001
+100 Fruechte bei Aufnahme
+$B00A00020000
+$101383860063
+*Maze Modus Codes
+UE Gesundheit
+$801381C80004
+Max Punkte
+$801381D0FFFF
+$801381D20FFF
+UE Leben
+$801381D40063
+Habe alle Kugeln 
+(Druecke R1 & R2)
+$70138CF00A00
+$8014E0D80000
+
+**Sled Storm Codes
+RJC P1
+$700CB6F2 ????
+RJC P2
+$700CB75C ????
+PAL2NTSC
+$7009AD400001
+$8009AD400000
+Y-Fix 
+$8007A2180000
+Immer auf Platz 1
+$800CBD280001
+Viele Punkte
+$800CBD30FFFF
+$300CBD32000E
+Rennzeit 00:00:00
+$800CBD480000
+*Charakter-Modifizierer (Note 1&2)
+Ryan
+$800B35F60000
+Jackal
+$800B35F60001
+Tracey
+$800B35F60002 
+Gio
+$800B35F60003 
+Travis
+$800B35F60004 
+Nadia
+$800B35F60005 
+Jay
+$800B35F60006 
+Sergei
+$800B35F60007 
+*Stage-Modifizierer (Note 1)
+Forest Stage
+$800B35BA0000
+Kodiak Canyon
+$800B35BA0002
+Super Snocross 1
+$800B35BA0009
+*Tageszeit-Modifizierer (Note 1)
+Tag
+$300B35C20000
+Nebel
+$300B35C20001
+*Wetter-Modifizierer (Note 1)
+Schnee
+$300B35C40000
+Regen
+$300B35C40001
+Klar
+$300B35C40002 
+P1 kann durch Gegner fahren
+$300CBC840027
+P2 kann durch Gegner fahren
+$300CC1B40027
+P3 kann durch Gegner fahren
+$300CC6E40027
+P4 kann durch Gegner fahren
+$300CCC140027
+
+**Worms Armageddon Codes
+RCJC
+$701E5DDA ????
+PAL2NTSC
+$700270E00001
+$800270E00000
+Y-Fix 
+$800388EC0000
+UE Demozeit
+$801A1B1493E0
+Mehr Zeit fuer Aktion
+(Druecke L1 & R1)
+$701E5DDAF3FF
+$801A1B1CAFC8
+Weniger Zeit fuer Aktion
+(Druecke L2 & R2)
+$701E5DDAFCFF
+$801A1B1C0000
+*P1
+UE alle Waffen (Note 3)
+$B04000040000
+$10151BC800FF
+UE Energie Wurm 1
+$9015117C0000
+$3015117C0064
+UE Energie Wurm 2
+$901512180000
+$301512180064
+UE Energie Wurm 3
+$901512B40000
+$301512B40064
+UE Energie Wurm 4
+$901513500000
+$301513500064
+Sudden Death Wurm 1 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$3015117C0000
+Sudden Death Wurm 2 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301512180000
+Sudden Death Wurm 3 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301512B40000
+Sudden Death Wurm 4 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301513500000
+Sudden Death alle Wuermer 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$B004009C0000
+$1015117C0000
+*P2
+UE alle Waffen (Note 3)
+$B04000040000
+$10151DE000FF
+UE Energie Wurm 1
+$901514280000
+$301514280064
+UE Energie Wurm 2
+$901514C40000
+$301514C40064
+UE Energie Wurm 3
+$901515600000
+$301515600064
+UE Energie Wurm 4
+$901515FC0000
+$301515FC0064
+Sudden Death Wurm 1 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301514280000
+Sudden Death Wurm 2 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301514C40000
+Sudden Death Wurm 3 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301515600000
+Sudden Death Wurm 4 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301515FC0000
+Sudden Death alle Wuermer 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$B004009C0000
+$101514280000
+
+
+Note: Sicherheitshalber die Codes im 
+Demo-Auswahlbildschirm ausgeschaltet lassen und 
+erst waehrend dem eigentlichen Demo aktivieren.
+Note 1: Immer nur einen Code aktivieren! 
+Note 2: Diese Codes funktionieren nur, wenn 
+man als Strecke "Super Snocross 1" auswaehlt.
+Note 3: Nicht alle Waffen sind jederzeit zugaenglich. 
+Teilweise kann es im Spiel auch zu Grafikfehlern kommen. 
+
+
+//========

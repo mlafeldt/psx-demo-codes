@@ -1,0 +1,116 @@
+***WORMS ARMAGEDDON
+
+RCJC Pad 1
+701E5DDA ????
+RCJC Pad 2
+701E5DFC ????
+AnAc Pad 1
+701E5DD8 ????
+AnAc Pad 2
+701E5DFA ????
+
+PAL2NTSC
+$30037AB2 0040
+Y-Fix 1
+$800388EC 0000
+Y-Fix 2
+$80038A9A 2400
+Unendlich Demozeit
+$7008D626 AE42
+$8008D626 3C00
+Sudden Death alle Wuermer
+$70052C96 AC87
+$80052C96 AC80
+*Sofortige Spielentscheidung
+(Druecke L2 & R2)
+$701E5DDA FCFF
+$8008A99A 2400
+*Setze Zeit auf 90
+(Druecke R3)
+$701E5DDA FFFB
+$801A1B1C 5F90
+$701E5DDA FFFB
+$801A1B1E 0001
+*Setze Zeit auf 0
+(Druecke L3)
+$701E5DDA FFFD
+$001A1B1C 0000
+**P1 Codes
+Unendlich alle Waffen/Gegenstaende
+$B0400004 0000
+$10151BC8 FFFF
+*Unendlich Energie
+Wurm 1
+$9015117C 0000
+$3015117C 0080
+Wurm 2
+$90151218 0000
+$30151218 0080
+Wurm 3
+$901512B4 0000
+$301512B4 0080
+Wurm 4
+$90151350 0000
+$30151350 0080
+*Sudden Death
+Wurm 1
+(Druecke L1 & Oben Pad 2)
+$701E5DFC FBEF
+$3015117C 0000
+Wurm 2
+(Druecke L1 & Rechts Pad 2)
+$701E5DFC FBDF
+$30151218 0000
+Wurm 3
+(Druecke L1 & Unten Pad 2)
+$701E5DFC FBBF
+$301512B4 0000
+Wurm 4
+(Druecke L1 & Links Pad 2)
+$701E5DFC FB7F
+$30151350 0000
+Alle Wuermer
+(Druecke L1 & L2 Pad 2)
+$701E5DFC FAFF
+$B004009C 0000
+$1015117C 0000
+**P2/CPU Codes
+Unendlich alle Waffen/Gegenstaende
+$B0400004 0000
+$10151DE0 FFFF
+*Unendlich Energie
+Wurm 1
+$90151428 0000
+$30151428 0080
+Wurm 2
+$901514C4 0000
+$301514C4 0080
+Wurm 3
+$90151560 0000
+$30151560 0080
+Wurm 4
+$901515FC 0000
+$301515FC 0080
+*Sudden Death
+Wurm 1
+(Druecke R1 & Oben Pad 2)
+$701E5DFC F7EF
+$30151428 0000
+Wurm 2
+(Druecke R1 & Rechts Pad 2)
+$701E5DFC F7DF
+$301514C4 0000
+Wurm 3
+(Druecke R1 & Unten Pad 2)
+$701E5DFC F7BF
+$30151560 0000
+Wurm 4
+(Druecke R1 & Links Pad 2)
+$701E5DFC F77F
+$301515FC 0000
+Alle Wuermer
+(Druecke R1 & R2 Pad 2)
+$701E5DFC F5FF
+$B004009C 0000
+$10151428 0000
+

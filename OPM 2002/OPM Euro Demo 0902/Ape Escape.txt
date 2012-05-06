@@ -1,0 +1,35 @@
+***APE ESCAPE
+
+RCJC Pad 1
+700EC5B2 ????
+AnAc Pad 1
+700EC5B0 ????
+
+PAL2NTSC
+$3003F7BA 0040
+Y-Fix 1
+$80039B24 0000
+Brauche nur 1 Affen einfangen
+$3006D714 00FF
+Unendlich Kekse
+$8006E7CE 3C00
+Unendlich Sauerstoff
+$800713EE 3C00
+99 Energie-Chips
+$800FB6E4 0063
+Besitze alle Geraete
+$300FC3D4 00FF
+*Leben (Note 1)
+Unendlich
+$8006D61E 2400
+Nehmen zu
+$8006D61C 0001
+**Slow Motion
+*An
+(Druecke L1 & Links)
+$700EC5B2 FB7F
+$8003B5BC 0000
+*Aus
+(Druecke L1 & Rechts)
+$700EC5B2 FBDF
+$8003B5BC FFFF

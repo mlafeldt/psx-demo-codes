@@ -1,0 +1,44 @@
+***FIREBUGS
+
+RCJC Pad 1
+700C3548 ????
+RCJC Pad 2
+700C356C ????
+AnAc Pad 1
+700C3546 ????
+AnAc Pad 2
+700C356A ????
+
+PAL2NTSC
+$70099CF0 0008
+$30099CEE 0040
+$7018B584 0008
+$3018B582 0040
+Y-Fix 1
+$70096D3C 0010
+$80096D3C 0000
+$7018764C 0010
+$8018764C 0000
+Stoppuhr eingefroren
+$7009611E AF82
+$3009611E 0080
+**Waffen Modifizierer (01 - 0C)
+*P1
+Primaerwaffe
+(Druecke L3)
+$700C3548 FFFD
+$3016ED6C 00??
+Sekundaerwaffe
+(Druecke R3)
+$700C3548 FFFB
+$3016ED6D 00??
+*P2
+Primaerwaffe
+(Druecke L3 Pad 2)
+$700C356C FFFD
+$3017006C 00??
+Sekundaerwaffe
+(Druecke R3 Pad 2)
+$700C356C FFFB
+$3017006D 00??
+

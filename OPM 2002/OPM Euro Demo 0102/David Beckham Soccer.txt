@@ -1,0 +1,40 @@
+***DAVID BECKHAM SOCCER
+
+RCJC Pad 1
+700BDA2E ????
+RCJC Pad 2
+700BDA52 ????
+AnAc Pad 1
+700BDA2C ????
+AnAc Pad 2
+700BDA50 ????
+
+PAL2NTSC
+$300AF8DE 0040
+Y-Fix 1
+$800AD7C8 0000
+Y-Fix 2
+$800AD976 2400
+Unendlich Spielzeit
+$80086BDE AC40
+Jedes Tor zaehlt ??-fach
+$30096E88 00??
+*Deutschland
+20 Tore
+$300C1C28 0014
+0 Tore
+$300C1C28 0000
+*England
+20 Tore
+$300C1C2C 0014
+0 Tore
+$300C1C2C 0000
+**Slow Motion 
+*An
+(Druecke L3)
+$700BDA2E FFFD
+$800AF10C 0000
+*Aus
+(Druecke R3)
+$700BDA2E FFFB
+$800AF10C FFFF

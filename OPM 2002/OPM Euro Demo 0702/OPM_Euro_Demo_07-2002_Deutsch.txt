@@ -1,0 +1,393 @@
+
+//=========
+
+OPM Euro Demo 07/2002 Deutsch
+
+SCED03893
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#13D LEMMINGS
+
+RCJC Pad 1
+$70148C22 ????
+RCJC Pad 2
+$70148C4A ????
+
+PAL2NTSC
+$30053D7E 0040
+Unendlich Zeit
+$00034560 0000
+
+#1GHOUL PANIC
+
+RCJC Pad 1
+$701EBA42 ????
+RCJC Pad 2
+$701EBA64 ????
+AnAc Pad 1
+$701EBA40 ????
+AnAc Pad 2
+$701EBA62 ????
+
+PAL2NTSC
+$301D8A0A 0040
+Y-Fix 1
+$801D09A4 0000
+Unendlich Munition (P1 & P2)
+$8019DCEE 2402
+Zeit ausschalten
+(Drücke R3)
+$701EBA42 FFFB
+$801ECCF8 8000
+Setze Zeit auf 0
+(Drücke L3)
+$701EBA42 FFFD
+$801ECCF8 0001
+#3Slow Motion 
+An
+(Drücke L1)
+$701EBA42 FBFF
+$801D243C 0000
+Aus
+(Drücke L2)
+$701EBA42 FEFF
+$801D243C FFFF
+
+#1JACKIE CHAN'S STUNTMASTER
+
+RCJC Pad 1
+$700E83DE ????
+RCJC Pad 2
+$700E8412 ????
+AnAc Pad 1
+$700E83DC ????
+AnAc Pad 2
+$700E8410 ????
+
+PAL2NTSC
+$30040CCA 0040
+Y-Fix 1
+$8002F4A4 0000
+Y-Fix 2
+$8002F652 2400
+Unendlich Gesundheit
+$301314D4 00C8
+Unendlich Leben
+$30131750 000A
+Sudden Death
+$30089C16 00C0
+Habe alle roten Drachen
+$300EF751 000A
+Habe alle goldenen Drachen
+$300EF752 0003
+
+#1PRO PINBALL - BIG RACE USA
+
+RCJC Pad 1
+$700AB31A ????
+RCJC Pad 2
+$700AB34A ????
+AnAc Pad 1
+$700AB318 ????
+AnAc Pad 2
+$700AB348 ????
+
+PAL2NTSC
+$30087072 0040
+Y-Fix 1
+$8008212C 0000
+Unendlich Zeit
+$3009F215 0000
+Unendlich Kugeln
+$80050558 0009
+$8005055A 2402
+Starte mit vielen Punkten
+$700AFD02 0000
+$800AFD00 C9FF
+$700AFD02 0000
+$800AFD02 3B9A
+Max Zähler
+$800AFD4C 423F
+$800AFD4E 000F
+
+#1STAR WARS - JEDI POWER BATTLES
+
+RCJC Pad 1
+$700B457E ????
+RCJC Pad 2
+$700B45A0 ????
+AnAc Pad 1
+$700B457C ????
+AnAc Pad 2
+$700B459E ????
+
+PAL2NTSC
+$300786AE 0040
+Y-Fix 1
+$8007171C 0000
+Y-Fix 2
+$800718CA 2400
+Unendlich Credits
+$800B3E10 FFFF
+Viele Punkte
+$800B3E18 423F
+$300B3E1A 000F
+Unendlich Lebensenergie
+$300B3E1C 00FE
+Max Lebensenergie
+$300B3E1E 00FE
+Unendlich Macht
+$300B3E24 00FE
+Max Macht
+$300B3E26 00FE
+Unendlich Spezialgegenstände
+$800B3E2A 03E7
+#3Demozeit (Note 1)
+Unendlich
+$8002FBCE 3C00
+Nimmt zu
+$8002FBC8 0001
+#3Hypermodus
+Normal
+(Drücke L1 Pad 2)
+$700B45A0 FBFF
+$3003CBD8 0001
+Schneller
+(Drücke L2 Pad 2)
+$700B45A0 FEFF
+$3003CBD8 0002
+Noch schneller
+(Drücke R1 Pad 2)
+$700B45A0 F7FF
+$3003CBD8 0003
+Viel schneller
+(Drücke R2 Pad 2)
+$700B45A0 FDFF
+$3003CBD8 0004
+
+#1STREETFIGHTER EX2 PLUS
+
+RCJC Pad 1
+$701EC272 ????
+RCJC Pad 2
+$701EC294 ????
+AnAc Pad 1
+$701EC270 ????
+AnAc Pad 2
+$701EC292 ????
+
+PAL2NTSC
+$301C7F9A 0040
+Y-Fix 1
+$801C00CC 0000
+Unendlich Menüzeit
+$701194FC FFFF
+$001194FC 0000
+Unendlich Kampfzeit
+$70101E50 FFFF
+$00101E50 0000
+#2P1 Codes
+Unendlich Energie
+$301E6EB4 00C8
+Sudden Death
+$301E6EB4 0000
+Unendlich SuperCombo-Energie
+$301E6EB5 0096
+Keine SuperCombo-Energie
+$301E6EB5 0000
+Max Punkte
+$801E6CCC 967F
+$801E6CCE 0098
+#3Immer Excel (Note 2)
+An
+(Drücke Start & L2)
+$701EC272 FEF7
+$801E6EEE FFFF
+Aus
+(Drücke Start & L1)
+$701EC272 FBF7
+$801E6EEE 0000
+#2P2 Codes
+Unendlich Energie
+$301E8730 00C8
+Sudden Death
+$301E8730 0000
+Unendlich SuperCombo-Energie
+$301E8731 0096
+Keine SuperCombo-Energie
+$301E8731 0000
+#3Immer Excel (Note 2)
+An
+(Drücke Start & L2 Pad 2)
+$701EC294 FEF7
+$801E876A FFFF
+Aus
+(Drücke Start & L1 Pad 2)
+$701EC294 FBF7
+$801E876A 0000
+
+#1VIVA FOOTBALL
+
+RCJC Pad 1
+$7007026A ????
+RCJC Pad 2
+$7007028C ????
+AnAc Pad 1
+$70070268 ????
+AnAc Pad 2
+$7007028A ????
+
+PAL2NTSC
+$3003BA0E 0040
+Y-Fix 1
+$80035EBC 0000
+Y-Fix 2
+$8003606A 2400
+Unendlich Spielzeit
+$700D3E0E AC22
+$300D3E0E 0020
+#3Hypermodus
+An
+(Drücke L3)
+$7007026A FFFD
+$30021784 0002
+Aus
+(Drücke R3)
+$7007026A FFFB
+$30021784 0001
+#3Alle Tore zählen für: (Note 1)
+England
+$700999D6 03E0
+$300999E4 00E8
+Argentinien
+$700999D6 03E0
+$30099990 00EC
+#2England
+20 Tore
+$300865E8 0014
+0 Tore
+$300865E8 0000
+Jedes Tor zählt ??-fach
+$700999D6 03E0
+$300999A0 00??
+#2Argentinien
+20 Tore
+$300865EC 0014
+0 Tore
+$300865EC 0000
+Jedes Tor zählt ??-fach
+$700999D6 03E0
+$300999F4 00??
+
+#1WCW NITRO
+
+RCJC Pad 1
+$7006AB12 ????
+RCJC Pad 2
+$7006AC4E ????
+AnAc Pad 1
+$7006AB10 ????
+AnAc Pad 2
+$7006AC4C ????
+
+PAL2NTSC
+$300275EE 0040
+Y-Fix 1
+$8003D678 0000
+Alle Optionen anwählbar
+$70075CCA 1060
+$80075CCA 1000
+$70075CEE 1460
+$80075CEE 1000
+Schnelle Heilung
+$7007C192 2482
+$8007C190 000A
+Keine Heilung
+$7007C192 2482
+$8007C190 0000
+Lebensenergie auffüllen
+(Drücke L2 & R2)
+$7006AB12 FCFF
+$801F6BB8 03E8
+
+#1YAROZE GAMES
+
+RCJC Pad 1
+$7004EAEE ????
+RCJC Pad 2
+$7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$7004EB12 FBFF
+$8002A760 0000
+$7004EB12 FBFF
+$8003CC36 1440
+Hyper
+(Drücke R1 Pad 2)
+$7004EB12 F7FF
+$8002A760 FFFF
+$7004EB12 F7FF
+$8003CC36 2400
+Normal
+(Drücke R2 Pad 2)
+$7004EB12 FDFF
+$8002A760 FFFF
+$7004EB12 FDFF
+$8003CC36 1440
+#2BOUNCER 2
+Max Diamanten
+$8010BD8C FFFF
+#3Leben (Note 1)
+Unendlich
+$70101ED4 FFFF
+$80101ED6 2402
+Nehmen zu
+$70101ED4 FFFF
+$80101ED4 0001
+#2SUPER BUB
+Kann durch Wände gehen
+$7014657E 1140
+$8014657E 2400
+$701465D2 1020
+$801465D2 2400
+#3P1 Codes
+Unendlich Zeit für Aktion
+$8014F260 0200
+Starte mit 1 Sieg
+$7014D14A 0000
+$3014D14A 0001
+Habe Superkugeln
+(Drücke L2)
+$7004EAEE FEFF
+$3014F268 000B
+$7004EAEE FEFF
+$3014F26A 000B
+#3P2/CPU Codes
+Unendlich Zeit für Aktion
+$801513A4 0200
+Starte mit 1 Sieg
+$7014F28E 0000
+$3014F28E 0001
+Habe Superkugeln
+(Drücke L2 Pad 2)
+$7004EB12 FEFF
+$301513AC 000B
+$7004EB12 FEFF
+$301513AE 000B
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: In normaler Welt aktivieren, um Excel-Fähigkeiten auch dort anwenden zu können.
+In Excel-Phase aktivieren, um unendlich Excel-Zeit zu erlangen.
+
+//=========

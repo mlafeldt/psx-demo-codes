@@ -1,0 +1,282 @@
+
+//=========
+
+OPM Euro Demo 10/2001 Deutsch
+
+SCED03473
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1ADIDAS POWER SOCCER 98
+
+RCJC Pad 1
+$700E3CCE ????
+RCJC Pad 2
+$700E3CF2 ????
+AnAc Pad 1
+$700E3CCC ????
+AnAc Pad 2
+$700E3CF0 ????
+
+PAL2NTSC
+$300B1EDE 0040
+Y-Fix
+$800B381C 0000
+Unendlich Spielzeit
+$3001F646 0020
+Jedes Tor zählt ??-fach
+$3008F314 00??
+#3Heimmannschaft
+20 Tore
+$301044DC 0014
+0 Tore
+$301044DC 0000
+#3Gastmannschaft
+20 Tore
+$301044DE 0014
+0 Tore
+$301044DE 0000
+#3Pause-Modus
+An
+(Drücke Start)
+$700E3CCE FFF7
+$800B1632 2400
+Aus
+(Drücke Dreieck)
+$700E3CCE EFFF
+$800B1632 1440
+#3Slow Motion 
+An
+(Drücke L3)
+$700E3CCE FFFD
+$800B550C 0000
+Aus
+(Drücke R3)
+$700E3CCE FFFB
+$800B550C FFFF
+
+#1AKUJI - THE HEARTLESS
+
+RCJC Pad 1
+$700BB712 ????
+RCJC Pad 2
+$700BB736 ????
+AnAc Pad 1
+$700BB710 ????
+AnAc Pad 2
+$700BB734 ????
+
+PAL2NTSC
+$300A19EE 0040
+Y-Fix
+$8009C640 0000
+Unendlich Gesundheit
+$8006EAAE 3C00
+Fliegen
+(Halte X)
+$700BB712 BFFF
+$50077CB4 0004
+$21004224 C0DE
+$900BB712 BFFF
+$50077CB4 0004
+$21104300 DEAD
+#3Leben (Note 1)
+Unendlich
+$80084AF2 3C00
+Nehmen zu
+$80084AE0 0001
+#3Gegner einfrieren
+An
+(Drücke R3 & Links)
+$700BB712 FF7B
+$8005448E 3400
+Aus
+(Drücke R3 & Rechts)
+$700BB712 FFDB
+$8005448E 0C01
+
+#1CRASH BANDICOOT 3 WARPED
+
+RCJC Pad 1
+$7006C116 ????
+RCJC Pad 2
+$7006C166 ????
+AnAc Pad 1
+$7006C114 ????
+AnAc Pad 2
+$7006C164 ????
+
+PAL2NTSC
+$30052CFE 0040
+Y-Fix
+$80053C74 0000
+Unendlich Masken (nach Aufnahme)
+$300A7DC9 0002
+Unendlich Leben
+$300B36E9 0063
+99 Wumpa-Früchte
+$300B36E5 0063
+Alle Kisten geöffnet
+$300B370D 005D
+#3Hyper Modus
+An
+(Drücke L2)
+$7006C116 FEFF
+$30051FE4 0000
+Aus
+(Drücke R2)
+$7006C116 FDFF
+$30051FE4 0005
+
+#1FUTURE COP L.A.P.D.
+
+RCJC Pad 1
+$700ACD5A ????
+RCJC Pad 2
+$700ACD7E ????
+AnAc Pad 1
+$700ACD58 ????
+AnAc Pad 2
+$700ACD7C ????
+
+PAL2NTSC
+$3009775A 0040
+Y-Fix
+$80098DBC 0000
+Unendlich Panzerung
+$8006088A 3C00
+Habe alle Waffen-Upgrades
+$800742B2 2400
+Alle Waffen anwählbar
+$800858CE 3C00
+#3Demozeit (Note 1)
+Unendlich
+$800301CE 3C00
+Nimmt zu
+$300301C8 0021
+#3Munition alle Waffen & Upgrades (Note 1)
+Unendlich
+$800742A6 2400
+Nimmt zu
+$800742A4 0001
+#3Hyper Modus
+An
+(Analog-Modus ein)
+$700ACD58 7300
+$80096F7A 2400
+Aus
+(Analog-Modus aus)
+$700ACD58 4100
+$80096F7A 1040
+
+#1KULA WORLD
+
+RCJC Pad 1
+$70074A26 ????
+RCJC Pad 2
+$70074A2E ????
+AnAc Pad 1
+$70074A24 ????
+AnAc Pad 2
+$70074A2C ????
+
+PAL2NTSC
+$30045B3E 0040
+Y-Fix
+$8003DFB4 0000
+Unendlich Zeit
+$30074E25 0012
+Habe alle Schlüssel
+$00073570 0000
+Habe alle Früchte
+$3007357C 0007
+#3Spielgeschwindigkeit
+Normal
+(Drücke L1)
+$70074A26 FBFF
+$30044EB4 0001
+Schneller
+(Drücke L2)
+$70074A26 FEFF
+$30044EB4 0000
+Langsamer
+(Drücke R2)
+$70074A26 FDFF
+$30044EB4 0002
+
+#1ROLLCAGE
+
+RCJC Pad 1
+$700A0D94 ????
+RCJC Pad 2
+$700A0DBC ????
+AnAc Pad 1
+$700A0D92 ????
+AnAc Pad 2
+$700A0DBA ????
+
+PAL2NTSC
+$7007FCD4 0008
+$3007FCD2 0040
+$701C2544 0008
+$301C2542 0040
+Y-Fix 1
+$70080DAC 0010
+$80080DAC 0000
+$701C490C 0010
+$801C490C 0000
+Y-Fix 2
+$70080F58 0010
+$80080F5A 2400
+$701C4AB8 0010
+$801C4ABA 2400
+Zeit zurücksetzen
+(Drücke L3)
+$700A0D94 FFFD
+$00090014 0100
+Unendlich Runden
+$7006AD98 0008
+$B0020004 0000
+$1006AD9A A200
+#3Waffen Modifizierer Primärwaffe (Note 1)
+Homing missile
+$30159AD2 0000
+Drill
+$30159AD2 0001
+Time warp
+$30159AD2 0002
+Icefield
+$30159AD2 0003
+Turbo
+$30159AD2 0004
+Emergency brake
+$30159AD2 0005
+Shield
+$30159AD2 0006
+Wormhole
+$30159AD2 0007
+#3Waffen Modifizierer Sekundärwaffe (Note 1)
+Homing missile
+$30159AD3 0000
+Drill
+$30159AD3 0001
+Time warp
+$30159AD3 0002
+Icefield
+$30159AD3 0003
+Turbo
+$30159AD3 0004
+Emergency brake
+$30159AD3 0005
+Shield
+$30159AD3 0006
+Wormhole
+$30159AD3 0007
+
+Note 1 : Nur einen der Codes benutzen.
+
+//=========

@@ -1,0 +1,31 @@
+***GRAND THEFT AUTO 2
+
+RCJC Pad 1
+70038DF2 ????
+RCJC Pad 2
+70038E14 ????
+
+PAL2NTSC
+$300217A2 0040
+Y-Fix 1
+$8001EB88 0000
+Max Punkte
+$80123BB8 C9FF
+$80123BBA 3B9A
+Habe alle Waffen mit unendlich Munition
+$B00B0028 0000
+$10168C18 FFFF
+*Leben (Note 1)
+Unendlich
+$8005300A 2400
+Nehmen zu
+$80053008 1023
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$70038E14 FBFF
+$80020580 0000
+*Aus
+(Druecke L2 Pad 2)
+$70038E14 FEFF
+$80020580 FFFF

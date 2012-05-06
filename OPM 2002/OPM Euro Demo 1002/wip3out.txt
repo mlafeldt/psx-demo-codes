@@ -1,0 +1,45 @@
+***WIP3OUT
+
+RCJC Pad 1
+701CC102 ????
+RCJC Pad 2
+701CC12A ????
+AnAc Pad 1
+701CC100 ????
+AnAc Pad 2
+701CC128 ????
+
+PAL2NTSC
+$3015918E 0040
+Y-Fix 1
+$80156ED4 0000
+Y-Fix 2
+$80157082 2400
+Gesamtzeit 0:00.00
+$8010D50A ACA0
+Keine Rundenzeiten
+$8010D576 AC40
+Immer erster
+$3010D5A6 0000
+Checkpoint-Zeit eingefroren
+$8010D64E 3C00
+Unendlich Energie
+$8014F9BC 0021
+Waffen- & Powerups-Modifizierer
+$801F611E ??01
+$301F6120 00??
+
+Index für Waffen- & Powerups-Modifizierer
+
+01 - Autopilot
+02 - Invisibility
+03 - Energy withdraw
+04 - Powerwall
+05 - Gravity shield
+06 - Mines
+07 - Multiple-Rockets
+08 - Plasmabeam
+0A - Earthquake-Disruptor
+0B - Reflector
+0C - Rocket
+

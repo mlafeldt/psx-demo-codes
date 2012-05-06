@@ -1,0 +1,105 @@
+
+//=========
+
+OPM Euro Demo 06/2001 Deutsch
+
+SCED03469
+### Codes
+Jokers, Analog Activators, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+#1ALONE IN THE DARK 4: THE NEW NIGHTMARE
+
+Analog Activator Pad 1
+700CFD40 000?
+Analog Activator Pad 2
+700CFE30 000?
+
+Taschenlampe immer AN
+(Aktiviere Analog LED Pad 2)
+$700CFE30 0001
+$3013D99C 0001
+$700CFE30 0001
+$301EF3FC 0001
+$700CFE30 0001
+$301EF434 0001
+Brauche keine Munition zum Schiessen/Unendlich Munition (Note 1)
+$7003EF2C 0006
+$8003EF2E 2400
+$7003EF90 0004
+$8003EF92 3C00
+#3Munition alle Waffen (Note 1)
+Nimmt nicht ab
+$7003EF90 0004
+$8003EF92 3C00
+Nimmt zu
+$7003EF2C 0006
+$8003EF2E 2400
+$7003EF8E 0043
+$3003EF8C 0021
+#3Ermögliche versteckte Optionen
+Spiel-Statistiken
+(Drücke R2 & Oben)
+$700B7A4E FDEF
+$300A1320 0003
+$700B7A4E FDEF
+$3013F624 0001
+Cheat-Menü
+(Drücke R2 & Rechts)
+$700B7A4E FDDF
+$300A1320 0008
+$700B7A4E FDDF
+$3013F624 0001
+Debug-Menü
+(Drücke R2 & Unten)
+$700B7A4E FDBF
+$300A1320 0009
+$700B7A4E FDBF
+$3013F624 0001
+#3Statistiken
+Spielzeit 00h00mn
+$0013D9D4 0000
+$0013D9E0 0000
+Jede Menge Feinde getötet
+$8013D9D0 FFFF
+$8013D9DC FFFF
+Keine Medikits benutzt
+$8013D9D2 0000
+$8013D9DE 0000
+Keine Munition verbraucht
+$0013D9D8 0000
+$0013D9E4 0000
+
+#1SHEEP, DOG 'N' WOLF
+
+RCJC Pad 1
+700B2232 ????
+RCJC Pad 2
+700B2262 ????
+Analog Activator Pad 1
+700BC544 000?
+Analog Activator Pad 2
+700BC634 000?
+
+PAL2NTSC
+$700920DC 0008
+$300920DA 0040
+Y-Fix
+$70092F14 0010
+$80092F14 0000
+Blinder Hund
+$7006EDF4 082C
+$8006EDF6 3C00
+#3Slow Motion 
+An
+(Aktiviere Analog LED Pad 2)
+$700BC634 0001
+$8009497C 0000
+Aus
+(Deaktiviere Analog LED Pad 2)
+$700BC634 0000
+$8009497C FFFF
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

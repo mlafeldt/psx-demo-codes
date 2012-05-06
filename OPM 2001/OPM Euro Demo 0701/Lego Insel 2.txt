@@ -1,0 +1,30 @@
+**LEGO INSEL 2
+
+RCJC Pad 1
+70103CC6 ????
+RCJC Pad 2
+70103CF2 ????
+
+PAL2NTSC
+$70036380 0008
+$3003637E 0040
+Y-Fix
+$70027E28 0010
+$80027E28 0000
+**Brick Dive
+Unendlich Sauerstoff
+$700A779C 0006
+$800A77A6 3C00
+Habe Papierseite
+$300AA878 0001
+*Habe alle Lego-Steine
+(Druecke L1 & R1)
+$70103CC6 F3FF
+$300AA874 0005
+**Matching Mummies
+Unendlich Zeit
+$700A2024 0001
+$800A202E 3C00
+Unendlich Gesundheit
+$700A71E4 0007
+$800A71E2 3C00

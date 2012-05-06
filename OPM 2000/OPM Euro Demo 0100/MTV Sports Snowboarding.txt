@@ -1,0 +1,14 @@
+**MTV Sports-Snowboarding Codes 
+RCJC
+$700B5B42 ????
+PAL2NTSC
+$7008B9600001
+$8008B9600000
+Y-Fix
+$80061BDC0000
+Starte mit Highscore - Anna 
+$700863500000
+$800863502710
+Starte mit Highscore - Mitch 
+$700863840000
+$800863842710

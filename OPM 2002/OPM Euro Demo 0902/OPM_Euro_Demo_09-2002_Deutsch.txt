@@ -1,0 +1,587 @@
+
+//=========
+
+OPM Euro Demo 09/2002 Deutsch
+
+SCED03895
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***APE ESCAPE
+
+RCJC Pad 1
+700EC5B2 ????
+AnAc Pad 1
+700EC5B0 ????
+
+PAL2NTSC
+$3003F7BA 0040
+Y-Fix 1
+$80039B24 0000
+Brauche nur 1 Affen einfangen
+$3006D714 00FF
+Unendlich Kekse
+$8006E7CE 3C00
+Unendlich Sauerstoff
+$800713EE 3C00
+99 Energie-Chips
+$800FB6E4 0063
+Besitze alle Geraete
+$300FC3D4 00FF
+*Leben (Note 1)
+Unendlich
+$8006D61E 2400
+Nehmen zu
+$8006D61C 0001
+**Slow Motion
+*An
+(Druecke L1 & Links)
+$700EC5B2 FB7F
+$8003B5BC 0000
+*Aus
+(Druecke L1 & Rechts)
+$700EC5B2 FBDF
+$8003B5BC FFFF
+
+***GRAN TURISMO
+
+RCJC Pad 1
+700BF7A2 ????
+RCJC Pad 2
+700BF7E2 ????
+AnAc Pad 1
+700BF7A0 ????
+AnAc Pad 2
+700BF7E0 ????
+
+PAL2NTSC
+$70051FA8 0008
+$30051FA6 0040
+$70092FD8 0008
+$30092FD6 0040
+Y-Fix 1
+$7004E8B8 0010
+$8004E8B8 0000
+$7008FAF8 0010
+$8008FAF8 0000
+Kein Demoende durch Nichts Druecken
+$7002F28A AC22
+$8002F28A 3C00
+Unendlich Demozeit
+$7003255E A423
+$8003255E 3C00
+Unendlich Runden
+$7005F8EA A602
+$8005F8EA A600
+Stoppuhr 40x langsamer
+$7005FE10 0028
+$3005FE10 0001
+Durch Autos fahren
+$70069FE2 1440
+$80069FE2 1000
+**Durch Waende fahren
+*An
+(Druecke L3)
+$700BF7A2 FFFD
+$3006EFF4 0000
+*Aus
+(Druecke R3)
+$700BF7A2 FFFB
+$3006EFF4 00FF
+**Slow Motion
+*An
+(Druecke L1 Pad 2)
+$700BF7E2 FBFF
+$80091700 0000
+*Aus
+(Druecke L2 Pad 2)
+$700BF7E2 FEFF
+$80091700 FFFF
+*Grip Modifizierer (Note 1)
+Asphalt
+$70067A16 A143
+$80067A12 3403
+Curbs
+$70067A16 A143
+$80067A10 0001
+$70067A16 A143
+$80067A12 3403
+Gras
+$70067A16 A143
+$80067A10 0002
+$70067A16 A143
+$80067A12 3403
+Sand
+$70067A16 A143
+$80067A10 0003
+$70067A16 A143
+$80067A12 3403
+
+***JINX
+
+RCJC Pad 1
+700A044A ????
+RCJC Pad 2
+700A0472 ????
+AnAc Pad 1
+700A0448 ????
+AnAc Pad 2
+700A0470 ????
+
+PAL2NTSC
+$300742E2 0040
+Y-Fix 1
+$8007131C 0000
+Y-Fix 2
+$800714CA 2400
+Unendlich Gesundheit
+$80060566 3C00
+Unendlich Leben
+$8006058C 0000
+Unverwundbar
+$800B06EC 05DC
+**Gegner einfrieren
+*An
+(Druecke L3)
+$700A044A FFFD
+$8005B150 0000
+*Aus
+(Druecke R3)
+$700A044A FFFB
+$8005B150 FFD0
+**Hyper Modus
+*An
+(Druecke R2 & L3)
+$700A044A FDFD
+$80073B52 2400
+*Aus
+(Druecke R2 & R3)
+$700A044A FDFB
+$80073B52 1040
+
+***LILO & STITCH
+
+RCJC Pad 1
+700C6C6A ????
+RCJC Pad 2
+700C6C8C ????
+AnAc Pad 1
+700C6C68 ????
+AnAc Pad 2
+700C6C8A ????
+
+PAL2NTSC
+$30098936 0040
+Y-Fix 1
+$80094E54 0000
+Y-Fix 2
+$80095002 2400
+Kein Demoende durch Nichts Druecken
+$8008E0EA 1000
+Max Spezial-Attacke
+$8002586E 3C00
+$8002FF20 0014
+$8002FF22 2402
+*Unendlich:
+Demozeit
+$8008E1A0 0000
+Gesundheit
+$80055D6E 3C00
+Leben
+$80055DA0 0000
+**Debug-Menue
+*An
+(Druecke L3)
+$700C6C6A FFFD
+$300BA22C 0001
+*Aus
+(Druecke R3)
+$700C6C6A FFFB
+$300BA22C 0000
+
+***RIDGE RACER TYPE 4
+
+RCJC Pad 1
+701140D2 ????
+RCJC Pad 2
+701140FA ????
+AnAc Pad 1
+701140D0 ????
+AnAc Pad 2
+701140F8 ????
+
+PAL2NTSC
+$30093E66 0040
+Y-Fix 1
+$8009B860 0000
+Keine Rennzeit
+$8004449E AC60
+$800444C2 1000
+Unendlich Runden
+$8004455A 1000
+$80044562 A600
+Immer erster
+$80044B26 A440
+*Turbo Boost
+(Druecke Kreis)
+$701140D2 DFFF
+$800B3F68 0B6F
+*Zeitlimit (Note 1)
+Unendlich
+$8011CB38 0000
+Nimmt zu
+$8011CB38 0001
+**Hyper Modus
+*An
+(Druecke Select & L2)
+$701140D2 FEFE
+$30093214 0000
+*Aus
+(Druecke Select & R2)
+$701140D2 FDFE
+$30093214 0005
+
+***SEA-MONKEYS
+
+RCJC Pad 1
+701457B6 ????
+RCJC Pad 2
+701457D8 ????
+AnAc Pad 1
+701457B4 ????
+AnAc Pad 2
+701457D6 ????
+
+PAL2NTSC
+$3009F0A2 0040
+Y-Fix 1
+$8009819C 0000
+Y-Fix 2
+$8009834A 2400
+Unendlich Zeit
+$80090DD0 0000
+Unendlich Versuche
+$3014F720 0009
+
+***TEKKEN 3
+
+RCJC Pad 1
+700AED8C ????
+RCJC Pad 2
+700AEDB6 ????
+AnAc Pad 1
+700AED8A ????
+AnAc Pad 2
+700AEDB4 ????
+
+PAL2NTSC
+$3008C4AE 0040
+Y-Fix 1
+$80082A60 0000
+Unendlich Menuezeit
+$70115F64 FFFF
+$80115F66 2400
+Unendlich Kampfzeit
+$800446EE 2400
+Keine Stage-Zeit (Arcade)
+$800446FE 2400
+*Optionen anwaehlbar
+(Druecke Select im Hauptmenue)
+$700AED8C FFFE
+$3009DC5C 0007
+Treffe ueberall (P1 & P2)
+$8004F6FA 2400
+*Stage-Modifizierer (Note 1)
+Paul's Stage
+$700B38DA 800E
+$300B38DC 0000
+Xiaoyu's Stage
+$700B38DA 800E
+$300B38DC 0003
+Lei's Stage
+$700B38DA 800E
+$300B38DC 0005
+Eddy's Stage
+$700B38DA 800E
+$300B38DC 000A
+**P1 Codes
+Unendlich Energie
+$300AF276 00C8
+Keine Energie
+$300AF276 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B4 0000
+Lei
+$300B39B4 0002
+Xiaoyu
+$300B39B4 0007
+Eddy
+$300B39B4 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F0 0000
+Outfit 2
+$300B39F0 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A61E8 0000
+$300AEE96 0000
+Lei
+$300A61E8 0002
+$300AEE96 0002
+Xiaoyu
+$300A61E8 0007
+$300AEE96 0007
+Eddy
+$300A61E8 0008
+$300AEE96 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300AEE9C 0000
+Paul 2
+$300AEE9C 0001
+Lei 1
+$300AEE9C 0004
+Lei 2
+$300AEE9C 0005
+Xiaoyu 1
+$300AEE9C 000E
+Xiaoyu 2
+$300AEE9C 000F
+Eddy 1
+$300AEE9C 0010
+Eddy 2
+$300AEE9C 0011
+**P2/CPU Codes
+Unendlich Energie
+$300B0B02 00C8
+Keine Energie
+$300B0B02 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B6 0000
+Lei
+$300B39B6 0002
+Xiaoyu
+$300B39B6 0007
+Eddy
+$300B39B6 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F2 0000
+Outfit 2
+$300B39F2 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A6586 0000
+$300B0722 0000
+Lei
+$300A6586 0002
+$300B0722 0002
+Xiaoyu
+$300A6586 0007
+$300B0722 0007
+Eddy
+$300A6586 0008
+$300B0722 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300B0728 0000
+Paul 2
+$300B0728 0001
+Lei 1
+$300B0728 0004
+Lei 2
+$300B0728 0005
+Xiaoyu 1
+$300B0728 000E
+Xiaoyu 2
+$300B0728 000F
+Eddy 1
+$300B0728 0010
+Eddy 2
+$300B0728 0011
+**P2-Kontrolle Modifizierer
+*Spieler
+(Druecke L1 & L2 Pad 2)
+$700AEDB6 FAFF
+$300B07D1 0000
+*CPU
+(Druecke R1 & R2 Pad 2)
+$700AEDB6 F5FF
+$300B07D1 0001
+
+***TOMB RAIDER
+
+RCJC Pad 1
+7008CC2A ????
+RCJC Pad 2
+7008CC52 ????
+
+PAL2NTSC
+$3006E2A6 0040
+Y-Fix 1
+$80066FE4 0000
+Unendlich Demozeit
+$8005B920 0000
+Sudden Death Gegner
+$8003BB42 A600
+Totgeborene Gegner (Uebersteuert Sudden Death)
+$8003554E A600
+Ueberlebe tiefen Fall
+$8003A93C 0000
+*Unendlich:
+Gesundheit
+$8003BF38 03E8
+$8003BF3A 3401
+$8003BF3C 0022
+$8003BF3E A601
+Luft
+$8003BFF4 0000
+Medipacks
+$80034520 0000
+**Alles ausser Lara einfrieren
+*An
+(Druecke L2 & R2 & Oben)
+$7008CC2A FCEF
+$80027082 2400
+*Aus
+(Druecke L2 & R2 & Unten)
+$7008CC2A FCBF
+$80027082 0040
+**Trockenschwimmen
+*An
+(Druecke L1 & R1 & Oben)
+$7008CC2A F3EF
+$8003BC52 3400
+*Aus
+(Druecke L1 & R1 & Unten)
+$7008CC2A F3BF
+$8003BC52 3064
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$7008CC52 F7FF
+$8005BD2C 0005
+$7008CC52 F7FF
+$8005BD2E 3410
+*Aus
+(Druecke R2 Pad 2)
+$7008CC52 FDFF
+$0005BD2C 0000
+**Matrix Lara
+*Stufe 1
+(Druecke Select & Dreieck Pad 2)
+$7008CC52 EFFE
+$3003C450 0003
+*Stufe 2
+(Druecke Select & Kreis Pad 2)
+$7008CC52 DFFE
+$3003C450 0002
+*Stufe 3
+(Druecke Select & X Pad 2)
+$7008CC52 BFFE
+$3003C450 0001
+*Normal
+(Druecke Select & Viereck Pad 2)
+$7008CC52 7FFE
+$3003C450 0006
+
+***TONY HAWK'S PRO SKATER 2
+
+RCJC Pad 1
+700CC856 ????
+RCJC Pad 2
+700CC878 ????
+AnAc Pad 1
+700CC854 ????
+AnAc Pad 2
+700CC876 ????
+
+PAL2NTSC
+$300B12A6 0040
+Y-Fix 1
+$800A8B7C 0000
+Y-Fix 2
+$800A8D2A 2400
+Hypermodus
+$8003C8A8 0000
+Slow Motion
+$8003C8FC 0000
+Zeige Frame Rate
+$8003C950 0000
+Rodney Mullen & Created Skater anwaehlbar
+$80093ECE 1000
+$80093EFA 1000
+$80093F66 3C00
+$800940F2 1000
+$8009411E 1000
+$80094192 3C00
+Max Punkte
+$8006D558 FFFF
+$8006D55A 2402
+$8006F4A0 FFFF
+$8006F4A2 2402
+Trick-Multiplikator 10
+$8006F6AC 000A
+$8006F6AE 2402
+Immer perfekte Tricks
+$8006F154 0000
+*Unendlich:
+Zeit
+$700E27B0 1760
+$800E27B0 0001
+Objekte im Park Editor
+$8008F380 0023
+Manuals
+$8001E804 0000
+Spezial-Balken
+$80018878 0FFF
+$8001887A 2402
+$80018942 3C00
+$8002781E 3C00
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7004EB12 FBFF
+$8002A760 0000
+$7004EB12 FBFF
+$8003CC36 1440
+*Hyper
+(Druecke R1 Pad 2)
+$7004EB12 F7FF
+$8002A760 FFFF
+$7004EB12 F7FF
+$8003CC36 2400
+*Normal
+(Druecke R2 Pad 2)
+$7004EB12 FDFF
+$8002A760 FFFF
+$7004EB12 FDFF
+$8003CC36 1440
+**CONEMAN
+Unendlich Leben
+$80160F28 0000
+Unverwundbar
+$80160334 0000
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

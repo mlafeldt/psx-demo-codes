@@ -1,0 +1,542 @@
+//=========
+
+OPM Euro Demo 12/1999 Deutsch
+
+SCED01843
+### Codes
+Jokers, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+CTR Codes von <A HREF="MAILTO:UL1@blaze.de">UL1@blaze.de</A> & <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+**CRASH TEAM RACING
+
+RCJC Pad 1
+700995F6 ????
+RCJC Pad 2
+70099618 ????
+
+PAL2NTSC
+$7007B12C 0008
+$3007B12A 0040
+Y-Fix (Note 1)
+$7007BF64 0010
+$8007BF64 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke R3 & Oben/Unten)
+$900078023C0A
+$500078000050
+$09000A3CF695
+$4A3500000000
+$07000B3C64BF
+$6B3500000000
+$00004895EBFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BBFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$5007BF5C0004
+$001E000CBEEF
+Kein Demoende durch Nichts Druecken
+$8009B818 FFFF
+**Einspieler-Modus
+Starte in letzter Runde
+$701EBE60 0000
+$301EBE60 0002
+Rennzeit 0:00:00
+$70037F1A 0043
+$80037F18 0021
+Max Wumpa-Fruechte
+$301EBE50 0064
+Pick-Up Modifizierer
+301EBE54 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3)
+$700995F6 FFFD
+$301EBE55 0009
+**Zweispieler-Modus
+*P1
+Starte in letzter Runde
+$701E9B34 0000
+$301E9B34 0002
+Max Wumpa-Fruechte
+$301E9B24 0064
+Pick-Up Modifizierer
+301E9B28 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3)
+$700995F6 FFFD
+$301E9B29 0009
+*P2
+Starte in letzter Runde
+$701EA3BC 0000
+$301EA3BC 0002
+Max Wumpa-Fruechte
+$301EA3AC 0064
+Pick-Up Modifizierer
+301EA3B0 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3 Pad 2)
+$70099618 FFFD
+$301EA3B1 0009
+
+**MILLENIUM SOLDIER-EXPENDABLE
+
+RCJC Pad 1
+700B3762 ????
+RCJC Pad 2
+700B3784 ????
+
+PAL2NTSC
+$7006CDE8 0008
+$3006CDE6 0040
+Y-Fix (Note 1)
+$7006FFA0 0010
+$8006FFA0 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke Select & Oben/Unten Pad 2)
+$900078023C0A
+$500078000050
+$0B000A3C8437
+$4A3500000000
+$06000B3CA0FF
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$5006FF980004
+$001E000CBEEF
+Unendlich Energie
+$800A6A08 03E6
+Unendlich Granaten
+$800A69EA 03E7
+Granaten-Modifizierer
+300A69EC 00??
+Max Punkte
+$800A69BC 967F
+$800A69BE 0098
+Habe Orbs
+$300A69C4 0003
+Habe Laser Sight
+$300A6A6A 0001
+Rapid Fire
+$800A69F6 0000
+*Leben (Note 1)
+Unendlich
+$7001E6AC FFFF
+$8001E6AE 2400
+Nehmen zu
+$7001E6AC FFFF
+$8001E6AC 0001
+*Zeit (Note 1)
+Unendlich
+$70036B50 FFFF
+$80036B52 2400
+Nimmt zu
+$70036B50 FFFF
+$80036B50 0001
+*Unendlich Munition:
+Spread Pulse Cannon
+$800A6A2C 03E7
+Multiple Warhead Rockets
+$800A6A36 03E7
+Spyra Missles
+$800A6A38 03E7
+Flame Thrower
+$800A6A3A 03E7
+Hominig Missiles
+$800A6A3C 03E7
+Portable Particle Accelerator
+$800A6A3E 03E7
+Vulcan Cannon
+$800A6A40 03E7
+Shotgun
+$800A6A42 03E7
+Phantasm
+$800A6A44 03E7
+Mines
+$800A6A46 03E7
+Reclaimed Alien Weapon
+$800A6A48 03E7
+Laser Guided Missiles
+$800A6A4A 03E7
+Pulse Cannon
+$800A6A4C 03E7
+Alle Waffen
+$800A6A2C 03E7
+$B00C0002 0000
+$100A6A36 03E7
+*Waffen-Modifizierer
+Inventarplatz 1
+300A69E4 00??
+Inventarplatz 2
+300A69E6 00??
+Inventarplatz 3
+300A69E8 00??
+
+**FIFA 2000
+
+RCJC Pad 1
+70045C8A ????
+RCJC Pad 2
+70045CAC ????
+
+PAL2NTSC
+$700214AC 0008
+$300214AA 0040
+Y-Fix
+$7001E414 0010
+$8001E414 0000
+Unendlich Spielzeit
+$700981DA 0044
+$800981D8 0021
+Alle Optionen anwaehlbar
+$701528D6 FFFF
+$301528F0 0001
+$701528D6 FFFF
+$301528F2 0001
+*Manchester United
+20 Tore
+$3003C164 0014
+0 Tore
+$3003C164 0000
+*Bayern Muenchen
+20 Tore
+$3003C168 0014
+0 Tore
+$3003C168 0000
+**Hyper Modus
+*An
+(Druecke L3 & L1)
+$70045C8A FBFD
+$8002BFB8 0005
+*Aus
+(Druecke L3 & L2)
+$70045C8A FEFD
+$8002BFB8 0001
+
+**GRAN TURISMO 2
+
+RCJC Pad 1
+701D76B2 ????
+RCJC Pad 2
+701D76D4 ????
+
+Dumme Gegner / Rennzeit 0:00:000
+$00049610 0000
+Unendlich Runden (Note 2)
+$B0060B64 0000
+$1008A02C 0000
+Immer auf Platz 1 (Note 2)
+$B0060B64 0100
+$1008A688 0100
+*Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$301FFC12 0000
+Verfolgerkamera 1
+$301FFC12 0001
+Verfolgerkamera 2
+$301FFC12 0002
+Skycam
+$301FFC12 0003
+
+**SPYRO 2
+
+RCJC Pad 1
+700788CA ????
+RCJC Pad 2
+70078B22 ????
+
+PAL2NTSC
+$70060C94 0008
+$30060C92 0040
+Y-Fix
+$70061ACC 0010
+$80061ACC 0000
+Kein Demoende durch Nichts Druecken
+$80072054 0000
+Unendlich Gesundheit
+$80075C44 0003
+Starte mit 55.555 Gems
+$70072178 0000
+$80072178 D903
+Max Blitzkugeln
+$800721CC 00FF
+Max Orbs
+$800721E4 00FF
+*Leben (Note 1)
+Unendlich
+$700437EC FFFF
+$800437EE 2400
+Nehmen zu
+$700437EC FFFF
+$800437EC 0001
+*Sunny Beach
+Habe alle Orbs
+$300759DE 00FF
+Habe alle Gems
+$80076D78 0190
+**Habe Superflamme
+*An
+(Druecke R3 & Oben)
+$700788CA FFEB
+$80042B18 0023
+$700788CA FFEB
+$80075BC4 FFFF
+*Aus
+(Druecke R3 & Unten)
+$700788CA FFBB
+$80042B18 1023
+$700788CA FFBB
+$80075BC4 0000
+*Skelos Badlands
+Habe alle Orbs
+$300759E2 00FF
+Habe alle Gems
+$80076D88 0190
+**Habe Lava-Schild
+*An
+(Druecke R3 & Links)
+$700788CA FF7B
+$80042B00 0023
+$700788CA FF7B
+$80075BC0 FFFF
+*Aus
+(Druecke R3 & Rechts)
+$700788CA FFDB
+$80042B00 1023
+$700788CA FFDB
+$80075BC0 0000
+
+**TARZAN
+
+RCJC Pad 1
+7007F6A2 ????
+RCJC Pad 2
+7007F6E2 ????
+
+PAL2NTSC
+$7003ADF0 0008
+$3003ADEE 0040
+Y-Fix (Note 1)
+$7003730C 0010
+$8003730C 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke Select & Oben/Unten Pad 2)
+$900078023C0A
+$500078000050
+$07000A3CE2F6
+$4A3500000000
+$03000B3C0C73
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$500373040004
+$001E000CBEEF
+*Cheat-Menue aktiviert
+(Druecke Start)
+$7007F6A2 FFF7
+$800611FA 8001
+*Unendlich:
+Gesundheit
+$700960A0 1823
+$800960A2 3C00
+Leben
+$7009B37C FFFF
+$8009B37E 2400
+Zeit (Bonus-Level)
+$700932D4 6BC0
+$800932D6 3C00
+Blaue Fruechte
+$800A8DC6 0063
+Rote Fruechte
+$800A8DC8 0063
+Violette Fruechte
+$800A8DCA 0063
+Alle Fruechte
+$B0030002 0000
+$100A8DC6 0063
+*Habe: 
+Alle Kartenteile/TARZAN
+$70061200 0000
+$80061200 FFFF
+Alle Muenzen
+$7006120C 0000
+$8006120C 03E7
+$80061230 03E7
+Waffe
+$800A8968 0010
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7007F6E2 FBFF
+$800390C0 0005
+$7007F6E2 FBFF
+$80042B2C 0000
+*Hyper
+(Druecke R1 Pad 2)
+$7007F6E2 F7FF
+$800390C0 0000
+$7007F6E2 F7FF
+$80042B2C 0001
+*Normal
+(Druecke R2 Pad 2)
+$7007F6E2 FDFF
+$800390C0 0005
+$7007F6E2 FDFF
+$80042B2C 0001
+
+**TOMB RAIDER IV: DIE LETZTE OFFENBARUNG
+
+RCJC Pad 1
+700A1DF2 ????
+RCJC Pad 2
+700A1E16 ????
+
+PAL2NTSC
+$7006B740 0008
+$3006B73E 0040
+Y-Fix (Note 1)
+$70067670 0010
+$80067670 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke Select & Oben/Unten Pad 2)
+$900078023C0A 
+$500078000050 
+$0A000A3C161E
+$4A3500000000
+$06000B3C7076
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$500676680004
+$001E000CBEEF
+$000676340000
+$000676600000
+Kein Demoende durch Nichts Druecken
+$8009E3B8 0000
+Fackel brennt bis fallengelassen
+$700A2FAC 0007
+$300A2FCE 000F
+Spider Lara
+$800A2FB6 0001
+Habe antike Muenze
+$300A30C1 00FF
+Habe Edelstein
+$300A30C2 0001
+*Lara fliegt
+(Halte Viereck)
+$700A1DF2 7FFF
+$801CD098 FFC0
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$700A1DF2 7FEF
+$801CD096 00B6
+*Unendlich:
+Sprinten
+$8009F494 0078
+Luft
+$800A2FBE 0708
+Gesundheit
+$801CD09A 0400
+Kleine Medipacks 
+$800A310C FFFF
+Grosse Medipacks 
+$800A310E FFFF
+Magnesiumfackeln 
+$800A3110 FFFF
+Alle Gegenstaende
+$B0030002 0000
+$100A310C FFFF
+*Unendlich Munition:
+UZI
+$800A3114 FFFF
+Revolver
+$800A3116 FFFF
+Gewehr
+$800A3118 FFFF
+$800A311A FFFF
+Alle Waffen
+$B0040002 0000
+$100A3114 FFFF
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700A1E16 FBFF
+$8006BE3C 0002
+*Hyper
+(Druecke R1 Pad 2)
+$700A1E16 F7FF
+$8006BE3C 0000
+*Normal
+(Druecke R2 Pad 2)
+$700A1E16 FDFF
+$8006BE3C 0001
+
+Index fuer Pick-Up Modifizierer (CTR)
+
+00 - Turbo-Boost
+01 - Kanonenkugel-Bombe
+02 - Zielsuchende Rakete
+03 - TNT Box
+04 - Reagenzglas
+05 - Sprungfeder
+07 - Voodoo-Maske
+08 - Uhr
+09 - Blitzkugel
+0F - Nichts
+
+Index fuer Granaten-Modifizierer (EXPENDABLE)
+
+01 - Napalm Grenade
+02 - Dynamite
+03 - Airstrike Beacon
+04 - Shatter Grenade
+
+Index fuer Waffen-Modifizierer (EXPENDABLE)
+
+01 - Spread Pulse Cannon
+06 - Multiple Warhead Rockets
+07 - Spyra Missles
+08 - Flame Thrower
+09 - Homing Missiles
+0A - Portable Particle Accelerator
+0B - Vulcan Cannon
+0C - Shotgun
+0D - Phantasm
+0E - Mines
+0F - Reclaimed Alien Weapon
+10 - Laser Guided Missiles
+11 - Pulse Cannon
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: Nur im eigentlichen Rennen aktivieren!
+
+//=========

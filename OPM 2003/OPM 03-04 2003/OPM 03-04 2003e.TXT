@@ -1,0 +1,664 @@
+
+//=========
+
+"OPM Euro Demo 03/04 2003 Deutsch SCED03905"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***COOL BOARDERS 3
+
+RCJC Pad 1
+7006B2DA ????
+RCJC Pad 2
+7006B2FC ????
+AnAc Pad 1
+7006B2D8 ????
+AnAc Pad 2
+7006B2FA ????
+
+PAL2NTSC
+$3420AADA D6DC
+Y-Fix 1
+$842099DB F3AB
+Y-Fix 2
+$84209862 2036
+Viele Punkte
+$842C8777 FAB5
+$342C8775 0539
+Jeder Trick bringt 4.000 Punkte
+$8426D6AA DF61
+$8426D6A8 F4FC
+Immer erster
+$342156A8 5022
+Zeit eingefroren
+$34212B25 45CB
+
+***CRASH BANDICOOT 3 WARPED
+
+RCJC Pad 1
+7006C116 ????
+RCJC Pad 2
+7006C166 ????
+AnAc Pad 1
+7006C114 ????
+AnAc Pad 2
+7006C164 ????
+
+PAL2NTSC
+$3420D729 D103
+Y-Fix 1
+$8420C793 C1CD
+Unendlich Masken (nach Aufnahme)
+$342F8720 F88A
+Unendlich Leben
+$342ECD00 AE01
+99 Wumpa-Fruechte
+$342ECD0C AE3D
+Alle Kisten geoeffnet
+$342ECCE7 AFDA
+**Hyper Modus
+*An
+(Druecke L2)
+$74233BC3 99FE
+$3420E40C 9040
+*Aus
+(Druecke R2)
+$74233BC3 9AFD
+$3420E40C 9045
+
+***DRIVER 2
+
+RCJC Pad 1
+700A3B52 ????
+RCJC Pad 2
+700A3B74 ????
+AnAc Pad 1
+700A3B50 ????
+AnAc Pad 2
+700A3B72 ????
+
+PAL2NTSC
+$342247A7 3379
+Y-Fix 1
+$84228565 F13D
+Ueberspringe Videosequenz
+$843F62C0 12C2
+Kein Schaden
+$842C9DED 0BB9
+Spritztour (Code von gothi)
+$842369ED 05D9
+$842369F1 15C5
+$842369F9 15CD
+**Durch Autos fahren
+*An
+(Druecke R3 & Oben)
+$742FC1BB 3E57
+$84246642 2A78
+*Aus
+(Druecke R3 & Unten)
+$742FC1BB 3E07
+$84246642 0278
+**Passanten einfrieren
+*An
+(Druecke R3 & Links)
+$742FC1BB 3EC7
+$8424067E 5AAC
+*Aus
+(Druecke R3 & Rechts)
+$742FC1BB 3E67
+$8424067E 72AD
+
+***FIFA 2002
+
+RCJC Pad 1
+7004BD62 ????
+RCJC Pad 2
+7004BD82 ????
+AnAc Pad 1
+7004BD60 ????
+AnAc Pad 2
+7004BD80 ????
+
+XPloderCheckPlus
+$742EB31D 02D0
+$842EB31D 03CF
+PAL2NTSC
+$3427A3EF CBDD
+Y-Fix 1
+$8427D644 CEDA
+Y-Fix 2
+$8427D492 98A6
+Unendlich Spielzeit
+$742CD028 D050
+$B427FAFC 9266
+$142CD02A 7C9E
+Jedes Tor zaehlt ??-fach
+$742EE2BC 80CC
+$300B1954 00??
+*Alle Tore zaehlen fuer: (Note 1)
+Frankreich
+$742EE2AE 8C30
+$842EE2A2 94A4
+$742EE2AE 8C30
+$842EE2A0 B0E1
+Brasilien
+$742EE2AE 8C30
+$842EE2A2 94A0
+$742EE2AE 8C30
+$842EE2A0 B0E1
+*Frankreich (Note 1)
+20 Tore
+$3421DDDF B77F
+0 Tore
+$3421DDDF B76B
+*Brasilien (Note 1)
+20 Tore
+$3421DDDB B77B
+0 Tore
+$3421DDDB B76F
+**Hyper Modus
+*An
+(Druecke L3)
+$74214785 CE95
+$8427F4F6 B86A
+*Aus
+(Druecke R3)
+$74214785 CE93
+$8427F4F6 8C3A
+
+***FORMEL EINS 2001
+
+RCJC Pad 1
+700D41CA ????
+RCJC Pad 2
+700D41EE ????
+AnAc Pad 1
+700D41C8 ????
+AnAc Pad 2
+700D41EC ????
+
+PAL2NTSC
+$74297082 3202
+$34297084 3244
+Y-Fix 1
+$7429C4D2 C68E
+$8429C4D2 C69E
+Y-Fix 2
+$7429C507 B77B
+$8429C505 9369
+Immer erster
+$742309E9 6539
+$34281C98 9085
+Unsichtbare Autos
+$742D0755 89D6
+$842D0755 B1E7
+*Grip Modifizierer (Note 1)
+Immer Asphalt
+$74201E14 7BBF
+$84201E6A BED3
+Immer Curbs
+$74201E14 7BBF
+$84201E68 A890
+$74201E14 7BBF
+$84201E6A BED3
+Immer Gras
+$74201E14 7BBF
+$84201E68 B9F0
+$74201E14 7BBF
+$84201E6A BED3
+Immer Sand
+$74201E14 7BBF
+$84201E68 CEF6
+$74201E14 7BBF
+$84201E6A BED3
+**Durch Waende fahren
+*An
+(Druecke L3)
+$7428BA2A 21A0
+$84206F81 3D43
+*Aus
+(Druecke R3)
+$7428BA2A 21A6
+$84206F81 0532
+
+***GRAN TURISMO 2
+
+RCJC Pad 1
+701D76B2 ????
+RCJC Pad 2
+701D76D4 ????
+AnAc Pad 1
+701D76B0 ????
+AnAc Pad 2
+701D76D2 ????
+
+Hypermodus
+$3420AFBF D9CB
+Kein Demoende durch Nichts Druecken
+$7427844E 4A40
+$8427844E 4A42
+Unendlich Runden
+$7421FC78 30CE
+$8421FC78 30CC
+Dumme Gegner / Rennzeit 0:00
+$7421F141 071B
+$8421F141 0719
+Durch Autos fahren
+$7426A8E0 CE8D
+$8426A8E0 E68C
+**Durch Waende fahren
+*An
+(Druecke L3 & L2)
+$74387D6D F194
+$8426A9DB F5A3
+*Aus
+(Druecke L3 & R2)
+$74387D6D F297
+$8426A9DB C5F3
+**Gegner kleben auf Strasse fest
+*An
+(Druecke R3 & L2)
+$74387D6D F192
+$8426A917 ED6F
+*Aus
+(Druecke R3 & R2)
+$74387D6D F291
+$8426A917 D95F
+*Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$343AF7CF 9B41
+Verfolgerkamera 1
+$343AF7CF 9B40
+Verfolgerkamera 2
+$343AF7CF 9B43
+Skycam
+$343AF7CF 9B42
+
+***JINX
+
+//MAIN.EXE CRC-32: 0xF929A2BE
+
+RCJC Pad 1
+700B508A ????
+RCJC Pad 2
+700B50B2 ????
+AnAc Pad 1
+700B5088 ????
+AnAc Pad 2
+700B50B0 ????
+
+PAL2NTSC
+$342D84F0 02F4
+Y-Fix 1
+$842DB45E E212
+Y-Fix 2
+$842DAAD8 FC9E
+Max Kirsch-Bomben
+$84290D91 7C71
+$34290D6F 6FBA
+Max Feuerbaelle
+$84290D69 6C59
+$34290D67 6FC2
+Max Sterne
+$34290D39 7F8E
+Dumme Gegner
+$04240D83 638F
+Unendlich Gesundheit
+$842314DA BC46
+Unendlich Leben
+$842315B1 8191
+*Unverwundbar (Charakter & Gegner) (Note 1)
+Immer an
+$8423A775 E30B
+$8423A741 D69C
+$8423A743 F73F
+Immer aus
+$8423A775 E30B
+$3423A74F D341
+**Gegner kleben fest
+*An
+(Druecke L3)
+$742EAB63 34D7
+$84240DE9 5745
+*Aus
+(Druecke R3)
+$742EAB63 34D1
+$84240DE9 6375
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$742EAB5B 2CCD
+$342D8C62 EA3E
+*Aus
+(Druecke R2 Pad 2)
+$742EAB5B 26CD
+$342D8C62 EA35
+
+***METAL GEAR SOLID
+
+RCJC Pad 1
+700C723A ????
+RCJC Pad 2
+700C725E ????
+AnAc Pad 1
+700C7238 ????
+AnAc Pad 2
+700C725C ????
+
+PAL2NTSC
+$342C15B5 83D9
+Y-Fix 1
+$842C9933 F78B
+Unendlich Lebensenergie
+$842E5014 44B8
+Max Lebensenergie
+$842E500A 549E
+Unendlich Luft
+$842EE3B5 A797
+Radar nicht gestoert wenn entdeckt
+$842EE3C1 9383
+Besitze alle Waffen
+$B4310AC4 A44A
+$142E5000 5142
+Besitze alle Gegenstaende
+$B428FBDD 9D43
+$142E57DB 47EC
+$B426FBD3 9339
+$142E57C5 540B
+$B421FAD4 943A
+$142E57F1 4716
+$B426FBD3 9339
+$142E57EB 5419
+$842E57FB 470C
+$842E57FD 4777
+$842E57E9 57FF
+*Kein Nachladen:
+Socom (Pistole)
+$84234583 0D6F
+Fa-Mas (Sturmgewehr)
+$84233F8F 5749
+PSG1 (Scharfschuetzengewehr)
+$84231F97 4771
+**Slow Motion
+*An
+(Druecke L3)
+$742988D4 0520
+$842C866C F63E
+*Aus
+(Druecke R3)
+$742988D4 0526
+$842C866C 09B0
+
+***MONSTER AG
+
+//MAIN.EXE CRC-32: 0x4E1364CD
+
+RCJC Pad 1
+700A1E3E ????
+RCJC Pad 2
+700A1E60 ????
+AnAc Pad 1
+700A1E3C ????
+AnAc Pad 2
+700A1E5E ????
+
+PAL2NTSC
+$342DDEC0 CC1A
+Y-Fix 1
+$8422789E 160A
+Unendlich Gesundheit
+$8424259F 5B76
+$8424259D 6F83
+Leben nehmen zu
+$8420C680 A2D3
+Max Schleimbalken
+$342C258A 54E4
+
+***SPYRO 2 - GATEWAY TO GLIMMER
+
+RCJC Pad 1
+700788CA ????
+RCJC Pad 2
+70078B22 ????
+AnAc Pad 1
+700788C8 ????
+AnAc Pad 2
+70078B20 ????
+
+PAL2NTSC
+$3423F646 B2F8
+Y-Fix 1
+$8423E028 8C24
+Y-Fix 2
+$8423E69E 86B0
+Kein Demoende durch Nichts Druecken
+$342452A2 4A14
+Unendlich Gesundheit
+$3422A7A1 D3DC
+Starte mit 55.555 Gems
+$7422DAAE C8B8
+$8422DAAE 11CA
+999 Blitzkugeln
+$8422DA1A BBCA
+999 Orbs
+$8422DA32 BBA2
+*Leben (Note 1)
+Unendlich
+$8421CD0B A75F
+Nehmen zu
+$8421CD0B A75E
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$7422731D 6CA0
+$3423FE14 9A02
+*Aus
+(Analog-Modus aus)
+$7422731D 5E90
+$3423FE14 9A09
+**Sunny Beach
+Habe alle Orbs
+$3422A238 E0AD
+Habe alle Gems
+$842296AE 1595
+**Habe Superflamme
+*An
+(Druecke R3 & Oben)
+$7422731F E075
+$8421D1C9 DB71
+*Aus
+(Druecke R3 & Unten)
+$7422731F E025
+$8421D1C9 CF20
+**Skelos Badlands
+Habe alle Orbs
+$3422A204 D089
+Habe alle Gems
+$8422965E 05A5
+**Habe Lava-Schild
+*An
+(Druecke R3 & Links)
+$7422731F E0E5
+$8421D1D1 AB79
+*Aus
+(Druecke R3 & Rechts)
+$7422731F E045
+$8421D1D1 BF28
+
+***SPYRO 3 - YEAR OF THE DRAGON
+
+//BETA DEMO!!
+//SPYRO3.EXE CRC-32: 0xBAC9EA09
+
+RCJC Pad 1
+70077C66 ????
+RCJC Pad 2
+7007825A ????
+AnAc Pad 1
+70077C64 ????
+AnAc Pad 2
+70078258 ????
+
+PAL2NTSC
+$3423AB7B D749
+Y-Fix 1
+$8423F5E5 B15D
+Y-Fix 2
+$8423EA3A B208
+Kein Demoende durch Nichts Druecken
+$3421E2DC 9C4A
+Unendlich Gesundheit
+$34229602 1463
+Max Dracheneier
+$3422CAD6 B816
+Max Edelsteine
+$8422CA02 579B
+*Leben (Note 1)
+Unendlich
+$8420F2DC 9E4A
+Nehmen zu
+$8420F2DC 9E4B
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$74228781 8030
+$34200230 7EEE
+*Aus
+(Analog-Modus aus)
+$74228781 B220
+$34200230 7EE5
+**Skate Park
+Brauche nur 1 Dino einfangen
+$742D6E3C B0E4
+$842D6E3A 1C8B
+$742D6E3C B0E4
+$842D6E38 3880
+**Zeit einfrieren
+*An
+(Druecke L3)
+$74228783 0CD3
+$84262F2F 7BE9
+*Aus
+(Druecke R3)
+$74228783 0CD5
+$84262F2F EB5B
+
+***TOMB RAIDER II
+
+RCJC Pad 1
+70097D5A ????
+RCJC Pad 2
+70097D82 ????
+AnAc Pad 1
+70097D58 ????
+AnAc Pad 2
+70097D80 ????
+
+PAL2NTSC
+$342D4F3D 3DE7
+Y-Fix
+$842DC1DB BF8B
+$842DC187 AFE7
+$842DC105 8B65
+Sudden Death Gegner
+$842133DD F98B
+Totgeborene Gegner (Uebersteuert Sudden Death)
+$8421C8B0 14A0
+Ueberlebe tiefen Fall
+$84216D6B 075F
+Fackel brennt ewig
+$84213177 5B97
+$84213175 7FA7
+Spider Lara
+$342C8652 0659
+Habe alle Waffen
+$342CC604 B66D
+$842CC5AF 87B7
+$842CC5A3 86B8
+Habe alle Items
+$342CC597 C3DD
+Alle Geheimnisse gefunden
+$342B63D7 27FA
+Zeit eingefroren
+$3426251B 5D4F
+*Unendlich:
+Gesundheit
+$8421258B 4C60
+$84212589 7B97
+$84212597 5F49
+$84212595 F96B
+Luft
+$84211A5C 48B2
+Magnesiumfackeln
+$842CC61A C662
+Grosse Medipacks
+$842CC614 C664
+Kleine Medipacks
+$842CC616 C666
+Alle Gegenstaende
+$B426FBD3 9339
+$142CC61A C662
+*Unendlich Munition:
+Automatik
+$842C8587 E44C
+Uzis
+$842C859B 1450
+Schrotflinte
+$842C859F 1454
+Harpune
+$842C8593 1458
+Granatwerfer
+$842C8597 145C
+M16
+$842C856B E420
+Alle Waffen
+$B423FAD0 9642
+$142C8587 E44C
+**Hypermodus
+*Normale Geschwindigkeit
+(Druecke L1 Pad 2)
+$742C866E 0DB2
+$34221442 92A3
+*Doppelte Geschwindigkeit
+(Druecke L2 Pad 2)
+$742C866E 08B3
+$34221442 92A0
+*Dreifache Geschwindigkeit
+(Druecke R1 Pad 2)
+$742C866E 01B2
+$34221442 92A1
+*Vierfache Geschwindigkeit
+(Druecke R2 Pad 2)
+$742C866E 0BB2
+$34221442 92A6
+**Durch die Luft laufen
+*An
+(Druecke R1 & R2 & Oben)
+$742C86B6 F3EA
+$84275BA3 ED29
+*Aus
+(Druecke R1 & R2 & Unten)
+$742C86B6 F3BA
+$84275BA3 ED38
+**Matrix Lara
+*Stufe 1
+(Druecke Select & Dreieck Pad 2)
+$742C866E 19C3
+$34211C42 8695
+*Stufe 2
+(Druecke Select & Kreis Pad 2)
+$742C866E 29B3
+$34211C42 8694
+*Stufe 3
+(Druecke Select & X Pad 2)
+$742C866E 49B3
+$34211C42 8697
+*Normal
+(Druecke Select & Viereck Pad 2)
+$742C866E 89B3
+$34211C42 8690
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

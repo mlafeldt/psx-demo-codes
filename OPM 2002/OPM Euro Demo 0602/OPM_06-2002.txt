@@ -1,0 +1,342 @@
+
+//=========
+
+"OPM Euro Demo 06/2002 Deutsch SCED03892"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***EXCALIBUR 2555 A.D.
+
+RCJC Pad 1
+7008E812 ????
+RCJC Pad 2
+7008E836 ????
+
+PAL2NTSC
+$300507D2 0040
+Y-Fix 1
+$80052C9C 0000
+Hypermodus
+$8004FC4E 2400
+Unendlich Gesundheit
+$80128FE0 1000
+
+***FIFA 2002
+
+RCJC Pad 1
+7004BD62 ????
+RCJC Pad 2
+7004BD82 ????
+AnAc Pad 1
+7004BD60 ????
+AnAc Pad 2
+7004BD80 ????
+
+XPloderCheckPlus
+$700B48C4 E180
+$800B48C4 E080
+PAL2NTSC
+$3002590E 0040
+Y-Fix 1
+$80022C94 0000
+Y-Fix 2
+$80022E42 2400
+Unendlich Spielzeit
+$70092BF4 0010
+$B002002C 0000
+$10092BF6 ACA0
+Jedes Tor zaehlt ??-fach
+$700B1956 2442
+$300B1954 00??
+*Alle Tore zaehlen fuer: (Note 1)
+Frankreich
+$700B1944 1880
+$800B1948 0000
+$700B1944 1880
+$800B194A 2443
+Brasilien
+$700B1944 1880
+$800B1948 0004
+$700B1944 1880
+$800B194A 2443
+*Frankreich (Note 1)
+20 Tore
+$30042708 0014
+0 Tore
+$30042708 0000
+*Brasilien (Note 1)
+20 Tore
+$3004270C 0014
+0 Tore
+$3004270C 0000
+**Hyper Modus
+*An
+(Druecke L3)
+$7004BD62 FFFD
+$80020E26 2400
+*Aus
+(Druecke R3)
+$7004BD62 FFFB
+$80020E26 1040
+
+***FUSSBALL LIVE! 2
+
+RCJC Pad 1
+7007E886 ????
+RCJC Pad 2
+7007E8A8 ????
+AnAc Pad 1
+7007E884 ????
+AnAc Pad 2
+7007E8A6 ????
+
+PAL2NTSC
+$3002CA0A 0040
+Y-Fix 1
+$80023EC0 0000
+Unendlich Spielzeit
+$800B75A6 AE40
+Jedes Tor zaehlt ??-fach
+$300B636C 00??
+*Deutschland (Note 1)
+20 Tore
+$30112358 0014
+0 Tore
+$30112358 0000
+*Niederlande (Note 1)
+20 Tore
+$3011235A 0014
+0 Tore
+$3011235A 0000
+**Slow Motion 
+*An
+(Druecke L3)
+$7007E886 FFFD
+$30026A9C 0000
+*Aus
+(Druecke R3)
+$7007E886 FFFB
+$30026A9C 0001
+
+***S.C.A.R.S.
+
+RCJC Pad 1
+7011140E ????
+AnAc Pad 1
+7011140C ????
+
+PAL2NTSC
+$300DA966 0040
+Y-Fix 1
+$800DBA40 0000
+Y-Fix 2
+$800DBBEE 2400
+Unendlich Zeit
+$300926E6 0020
+Immer erster
+$801B9728 0000
+**Hyper Modus
+*An
+(Druecke L3)
+$7011140E FFFD
+$300D9CC4 0000
+*Aus
+(Druecke R3)
+$7011140E FFFB
+$300D9CC4 0005
+
+***TAI FU
+
+RCJC Pad 1
+7007AEB2 ????
+RCJC Pad 2
+7007AED4 ????
+AnAc Pad 1
+7007AEB0 ????
+AnAc Pad 2
+7007AED2 ????
+
+PAL2NTSC
+$3006BB16 0040
+Y-Fix 1
+$800646C0 0000
+Kein Demoende durch Nichts Druecken
+$00021CF0 0000
+Unendlich Leben
+$301272D4 0064
+Unendlich Gesundheit
+$301265AE 00A0
+Unendlich Chi
+$30127306 0008
+**Hyper Modus
+*An
+(Druecke L3)
+$7007AEB2 FFFD
+$3006AA94 0000
+*Aus
+(Druecke R3)
+$7007AEB2 FFFB
+$3006AA94 0005
+
+***TOMB RAIDER IV - DIE LETZTE OFFENBARUNG
+
+RCJC Pad 1
+700A1DF2 ????
+RCJC Pad 2
+700A1E16 ????
+AnAc Pad 1
+700A1DF0 ????
+AnAc Pad 2
+700A1E14 ????
+
+PAL2NTSC
+$3006B73E 0040
+Y-Fix 1
+$80067670 0000
+Kein Demoende durch Nichts Druecken
+$8009E3B8 0000
+Fackel brennt bis fallengelassen
+$700A2FAC 0007
+$300A2FCE 000F
+Spider Lara
+$800A2FB6 0001
+Habe antike Muenze
+$300A30C1 00FF
+Habe Edelstein
+$300A30C2 0001
+*Lara fliegt
+(Halte Viereck)
+$700A1DF2 7FFF
+$801CD098 FFC0
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$700A1DF2 7FEF
+$801CD096 00B6
+*Unendlich:
+Sprinten
+$8009F494 0078
+Luft
+$800A2FBE 0708
+Gesundheit
+$801CD09A 0400
+Kleine Medipacks 
+$800A310C FFFF
+Grosse Medipacks 
+$800A310E FFFF
+Magnesiumfackeln 
+$800A3110 FFFF
+Alle Gegenstaende
+$B0030002 0000
+$100A310C FFFF
+*Unendlich Munition:
+UZI
+$800A3114 FFFF
+Revolver
+$800A3116 FFFF
+Gewehr
+$800A3118 FFFF
+$800A311A FFFF
+Alle Waffen
+$B0040002 0000
+$100A3114 FFFF
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700A1E16 FBFF
+$8006BE3C 0002
+*Hyper
+(Druecke R1 Pad 2)
+$700A1E16 F7FF
+$8006BE3C 0000
+*Normal
+(Druecke R2 Pad 2)
+$700A1E16 FDFF
+$8006BE3C 0001
+
+***TOMMI MÄKINEN RALLY
+
+RCJC Pad 1
+700BD61A ????
+RCJC Pad 2
+700BD63C ????
+AnAc Pad 1
+700BD618 ????
+AnAc Pad 2
+700BD63A ????
+
+PAL2NTSC
+$3007C40A 0040
+Y-Fix 1
+$80077844 0000
+Y-Fix 2
+$800779F2 2400
+Immer erster
+$300BA8E0 0001
+Stoppuhr eingefroren
+$30030452 0080
+*Checkpoint-Zeit (Note 1)
+Unendlich
+$80032808 0000
+Nimmt zu
+$80032808 0001
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7004EB12 FBFF
+$8002A760 0000
+$7004EB12 FBFF
+$8003CC36 1440
+*Hyper
+(Druecke R1 Pad 2)
+$7004EB12 F7FF
+$8002A760 FFFF
+$7004EB12 F7FF
+$8003CC36 2400
+*Normal
+(Druecke R2 Pad 2)
+$7004EB12 FDFF
+$8002A760 FFFF
+$7004EB12 FDFF
+$8003CC36 1440
+**DOGTAIL
+Unverwundbar
+$80096B92 1000
+Unendlich Leben
+$30098BE0 0004
+Max Knochen
+$30098C04 0063
+Habe alle Schluessel
+$30098BC4 0005
+*Moon Jump
+(Halte X)
+$7004EAEE BFFF
+$80096F56 1000
+$9004EAEE BFFF
+$80096F56 1020
+**SHROUD
+Unzerstoerbar
+$801860E8 FFFF
+Unendlich Leben
+$301860C0 0003
+Unendlich Smart-Bomben
+$301860C4 0003
+Starte mit vielen Punkten
+$701860BC 0000
+$801860BC FFFF
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

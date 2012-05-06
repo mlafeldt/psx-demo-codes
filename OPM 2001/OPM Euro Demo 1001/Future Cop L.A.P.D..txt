@@ -1,0 +1,40 @@
+***FUTURE COP L.A.P.D.
+
+RCJC Pad 1
+700ACD5A ????
+RCJC Pad 2
+700ACD7E ????
+AnAc Pad 1
+700ACD58 ????
+AnAc Pad 2
+700ACD7C ????
+
+PAL2NTSC
+$3009775A 0040
+Y-Fix
+$80098DBC 0000
+Unendlich Panzerung
+$8006088A 3C00
+Habe alle Waffen-Upgrades
+$800742B2 2400
+Alle Waffen anwaehlbar
+$800858CE 3C00
+*Demozeit (Note 1)
+Unendlich
+$800301CE 3C00
+Nimmt zu
+$300301C8 0021
+*Munition alle Waffen & Upgrades (Note 1)
+Unendlich
+$800742A6 2400
+Nimmt zu
+$800742A4 0001
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$700ACD58 7300
+$80096F7A 2400
+*Aus
+(Analog-Modus aus)
+$700ACD58 4100
+$80096F7A 1040

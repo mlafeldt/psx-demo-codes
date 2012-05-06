@@ -1,0 +1,26 @@
+***FORMULA 1
+
+RCJC Pad 1
+700D1CE6 ????
+RCJC Pad 2
+700D1CEE ????
+AnAc Pad 1
+700D1CE4 ????
+AnAc Pad 2
+700D1CEC ????
+
+PAL2NTSC
+$30096DF6 0040
+Unendlich Checkpoint-Zeit
+$8002B172 3C00
+Immer gute Traktion & Haftung
+$3005938A 00A0
+**Rundenzeit eingefroren
+*An
+(Druecke L2 & R2 & Oben)
+$700D1CE6 FCEF
+$80019DC2 2400
+*Aus
+(Druecke L2 & R2 & Unten)
+$700D1CE6 FCBF
+$80019DC2 0C00

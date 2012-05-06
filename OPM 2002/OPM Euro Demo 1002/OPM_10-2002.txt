@@ -1,0 +1,776 @@
+
+//=========
+
+"OPM Euro Demo 10/2002 Deutsch SCED03896"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***ATLANTIS
+
+RCJC Pad 1
+7009FCBA ????
+RCJC Pad 2
+7009FCE2 ????
+AnAc Pad 1
+7009FCB8 ????
+AnAc Pad 2
+7009FCE0 ????
+
+PAL2NTSC
+$30078E9A 0040
+Y-Fix 1
+$80074A94 0000
+Y-Fix 2
+$80074C42 2400
+Hypermodus
+$30078220 0000
+Unendlich Gesundheit
+$8001BE26 3C00
+Unendlich Leben
+$8001BEAE 3C00
+*Fliegen
+(Halte L3 & X)
+$7009FCBA BFFD
+$30046EE0 0023
+$7009FCBA FFFF
+$30046EE0 0021
+
+***CRASH BASH
+
+RCJC Pad 1
+700613B2 ????
+RCJC Pad 2
+700613E6 ????
+AnAc Pad 1
+700613B0 ????
+AnAc Pad 2
+700613E4 ????
+
+PAL2NTSC
+$30033CB6 0040
+Y-Fix 1
+$80030720 0000
+Y-Fix 2
+$800308CE 2400
+Hypermodus
+$800325A8 0000
+*Setze Zeit auf 1:30
+(Druecke R3)
+$700613B2 FFFB
+$80099208 3000
+$700613B2 FFFB
+$8009920A 0001
+*Setze Zeit auf 0:00
+(Druecke L3)
+$700613B2 FFFD
+$00099208 0000
+**Pogo Painter & Pogo-A-Gogo Modi
+Habe Turbo-Schuhe (Note 2 & 3)
+$700613B0 7300
+$300C2290 0001
+Gegner koennen nichts aufnehmen (Note 3)
+$700613B0 7300
+$B003001C 0000
+$100C2298 0000
+$700613B0 7300
+$B003001C 0000
+$100C22AC 0000
+*Waffen-Modifizierer (Note 2)
+Habe Nichts
+(Druecke L2 & Viereck)
+$700613B2 7EFF
+$300C227C 0000
+Habe Normale Rakete
+(Druecke R2 & Viereck)
+$700613B2 7DFF
+$300C227C 0001
+Habe Spezial-Rakete
+(Druecke L1 & Viereck)
+$700613B2 7BFF
+$300C227C 0002
+Habe Laser
+(Druecke R1 & Viereck)
+$700613B2 77FF
+$300C227C 0003
+**Polar Panic Modus (Note 3)
+Unendlich Energie P1
+$700613B0 7300
+$801E5790 0100
+Keine Energie fuer Gegner
+$700613B0 7300
+$B003013C 0000
+$101E58CC 0000
+
+***DINO CRISIS
+
+RCJC Pad 1
+700B6792 ????
+RCJC Pad 2
+700B67B4 ????
+AnAc Pad 1
+700B6790 ????
+AnAc Pad 2
+700B67B2 ????
+
+PAL2NTSC
+$30089AFA 0040
+Y-Fix 1
+$80093194 0000
+Y-Fix 2
+$80093342 2400
+Unendlich Gesundheit
+$800BA434 04B0
+Unendlich Munition
+$8006AFCC 00FF
+$8006AFCE 2402
+Max Stecker
+$800C29C0 03E7
+Habe alle Waffen
+$800C2468 FFFF
+Habe alle Objekte
+$B0050002 0000
+$100C246C FFFF
+Habe alle Karten
+$B0040002 0000
+$100C2490 FFFF
+*Jederzeit speichern
+(Druecke L1 & L2)
+$700B6792 FAFF
+$300B8908 0007
+**Durch Waende gehen
+*An
+(Druecke L3)
+$700B6792 FFFD
+$80080AE4 0000
+*Aus
+(Druecke R3)
+$700B6792 FFFB
+$80080AE4 0005
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$700B6790 7300
+$30088EA8 0000
+*Aus
+(Analog-Modus aus)
+$700B6790 4100
+$30088EA8 0005
+*Max Inventar-Modifizierer
+Inventarplatz 1
+$800C278C FF??
+Inventarplatz 2
+$800C2790 FF??
+Inventarplatz 3
+$800C2794 FF??
+Inventarplatz 4
+$800C2798 FF??
+Inventarplatz 5
+$800C279C FF??
+Inventarplatz 6
+$800C27A0 FF??
+Inventarplatz 7
+$800C27A4 FF??
+Inventarplatz 8
+$800C27A8 FF??
+Inventarplatz 9
+$800C27AC FF??
+Inventarplatz 10
+$800C27B0 FF??
+
+***F1 ARCADE
+
+RCJC Pad 1
+700E5AEA ????
+RCJC Pad 2
+700E5ADE ????
+AnAc Pad 1
+700E5AE8 ????
+AnAc Pad 2
+700E5ADC ????
+
+PAL2NTSC
+$70062C14 0008
+$30062C12 0040
+$700BB458 0008
+$300BB456 0040
+Y-Fix 1
+$7005C3EC 0010
+$8005C3EC 0000
+$700B5814 0010
+$800B5814 0000
+Y-Fix 2
+$7005C598 0010
+$8005C59A 2400
+$700B59C0 0010
+$800B59C2 2400
+Checkpoint-Zeit eingefroren
+$700C5CF8 0028
+$80080666 3C00
+Unendlich Runden
+$7009231A A622
+$8009231A A620
+**Durch Waende fahren
+*An
+(Druecke L3)
+$700E5AEA FFFD
+$8005B856 A270
+*Aus
+(Druecke R3)
+$700E5AEA FFFB
+$8005B856 A275
+
+***FRONTSCHWEINE
+
+RCJC Pad 1
+70062E7A ????
+RCJC Pad 2
+70062E9C ????
+AnAc Pad 1
+70062E78 ????
+AnAc Pad 2
+70062E9A ????
+
+PAL2NTSC
+$300260B2 0040
+Y-Fix 1
+$800230A0 0000
+Y-Fix 2
+$8002324E 2400
+Zeit laeuft langsamer
+$3001DBB8 0001
+Unendlich Munition & Gegenstaende
+$800A9E68 0009
+$800A9E6A 3404
+Unverwundbar/Sudden Death (Note 4)
+$70062E7A F5FF
+$800A8D9A 3C00
+$70062E7A FAFF
+$800A8D9A AE00
+*Moon Jump
+(Halte Viereck)
+$700A5E6C 0020
+$800A5E6C 0120
+$70062E7A 7FFF
+$800F2194 1023
+$90062E7A 7FFF
+$800F2194 1021
+**Hypermodus Spielfiguren
+*Langsam
+(Druecke L3 & Dreieck)
+$70062E7A EFFD
+$3001DBCC 0001
+*Normal
+(Druecke L3 & L1)
+$70062E7A FBFD
+$3001DBCC 0002
+*Schneller
+(Druecke L3 & L2)
+$70062E7A FEFD
+$3001DBCC 0004
+*Noch schneller
+(Druecke L3 & R1)
+$70062E7A F7FD
+$3001DBCC 0006
+*Viel schneller
+(Druecke L3 & R2)
+$70062E7A FDFD
+$3001DBCC 0008
+**Geistermodus (Note 5)
+*An
+(Druecke R3 & Oben)
+$70062E7A FFEB
+$800B8AC2 2400
+*Aus
+(Druecke R3 & Unten)
+$70062E7A FFBB
+$800B8AC2 0C03
+**Ueber Wasser laufen
+*An
+(Druecke R3 & Links)
+$70062E7A FF7B
+$80090346 3400
+$70062E7A FF7B
+$8009034A AFC0
+*Aus
+(Druecke R3 & Rechts)
+$70062E7A FFDB
+$80090346 0802
+$70062E7A FFDB
+$8009034A AFC3
+**Schweine einfrieren
+*An
+(Druecke R3 & L2)
+$70062E7A FEFB
+$800AD7B0 0000
+*Aus
+(Druecke R3 & R2)
+$70062E7A FDFB
+$800AD7B0 0003
+
+***GRAN TURISMO 2
+
+RCJC Pad 1
+701D76B2 ????
+RCJC Pad 2
+701D76D4 ????
+AnAc Pad 1
+701D76B0 ????
+AnAc Pad 2
+701D76D2 ????
+
+Hypermodus
+$30055458 0002
+Kein Demoende durch Nichts Druecken
+$70027EAE A622
+$80027EAE A620
+Unendlich Runden
+$700406AE A622
+$800406AE A620
+Dumme Gegner / Rennzeit 0:00
+$70040B96 ACA2
+$80040B96 ACA0
+Durch Autos fahren
+$70035302 0C01
+$80035302 2400
+**Durch Waende fahren
+*An
+(Druecke L3 & L2)
+$701D76B2 FEFD
+$8003523A 2400
+*Aus
+(Druecke L3 & R2)
+$701D76B2 FDFD
+$8003523A 1440
+**Gegner kleben auf Strasse fest
+*An
+(Druecke R3 & L2)
+$701D76B2 FEFB
+$800352F6 3C00
+*Aus
+(Druecke R3 & R2)
+$701D76B2 FDFB
+$800352F6 0800
+*Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$301FFC12 0000
+Verfolgerkamera 1
+$301FFC12 0001
+Verfolgerkamera 2
+$301FFC12 0002
+Skycam
+$301FFC12 0003
+
+***PANDEMONIUM 2
+
+RCJC Pad 1
+700B003A ????
+RCJC Pad 2
+70000002 ????
+
+PAL2NTSC
+$30084C12 0040
+Y-Fix 1
+$8008A500 0000
+Unendlich Leben
+$80051756 2402
+Unendlich Gesundheit
+$8005994A 3C00
+Max Muenzen
+$800B3560 03E7
+**Gegner einfrieren
+*An
+(Druecke R1)
+$700B003A F7FF
+$8001B01A 2400
+*Aus
+(Druecke R2)
+$700B003A FDFF
+$8001B01A 0040
+**Slow Motion
+*An
+(Druecke L1)
+$700B003A FBFF
+$8008C268 0000
+*Aus
+(Druecke L2)
+$700B003A FEFF
+$8008C268 FFFF
+
+***SYPHON FILTER 2
+
+RCJC Pad 1
+7012E642 ????
+RCJC Pad 2
+7012E664 ????
+AnAc Pad 1
+7012E640 ????
+AnAc Pad 2
+7012E662 ????
+
+PAL2NTSC
+$30100172 0040
+Y-Fix 1
+$800FB94C 0000
+Y-Fix 2
+$800FBAFA 2400
+Unendlich Panzerung
+$701ABEE8 0096
+$801ABEE6 0258
+$701AC66C 0096
+$801AC66A 0258
+Habe alle Waffen/Gegenstaende
+$B0030002 0000
+$10135B8C FFFF
+**Slow Motion
+*An
+(Druecke L3)
+$7012E642 FFFD
+$800FD3B4 0000
+*Aus
+(Druecke R3)
+$7012E642 FFFB
+$800FD3B4 FFFF
+*Unendlich Munition/Waffen
+Alle (nach Aufnahme)
+$8006E0F2 2402
+9mm (schallgedaempft)
+$30135B9A 00FF
+9mm
+$30135B9E 00FF
+45er
+$30135BA2 00FF
+M-16
+$30135BA6 00FF
+HK-5 (schallgedaempft)
+$30135BAA 00FF
+HK-5
+$30135BAE 00FF
+PK-102
+$30135BB2 00FF
+Schrotflinte
+$30135BB6 00FF
+UAS-12
+$30135BBA 00FF
+G-18
+$30135BBE 00FF
+BIZ-2
+$30135BC2 00FF
+K3G4
+$30135BC6 00FF
+H11
+$30135BCA 00FF
+Scharfschuetzengewehr (schallgedaempft)
+$30135BCE 00FF
+Scharfschuetzengewehr
+$30135BD2 00FF
+Nachtsichtgewehr
+$30135BD6 00FF
+Armbrust
+$30135BDA 00FF
+M-79
+$30135BEA 00FF
+Granaten
+$30135BEE 00FF
+Nervengasgranaten
+$30135BF2 00FF
+C4
+$30135BF6 00FF
+Traenengaswerfer
+$30135C06 00FF
+*Max Munition/Waffen
+9mm (schallgedaempft)
+$80135B98 03E7
+9mm
+$80135B9C 03E7
+45er
+$80135BA0 03E7
+M-16
+$80135BA4 03E7
+HK-5 (schallgedaempft)
+$80135BA8 03E7
+HK-5
+$80135BAC 03E7
+PK-102
+$80135BB0 03E7
+Schrotflinte
+$80135BB4 03E7
+UAS-12
+$80135BB8 03E7
+G-18
+$80135BBC 03E7
+BIZ-2
+$80135BC0 03E7
+K3G4
+$80135BC4 03E7
+H11
+$80135BC8 03E7
+Scharfschuetzengewehr (schallgedaempft)
+$80135BCC 03E7
+Scharfschuetzengewehr
+$80135BD0 03E7
+Nachtsichtgewehr
+$80135BD4 03E7
+Armbrust
+$80135BD8 03E7
+M-79
+$80135BE8 03E7
+Granaten
+$80135BEC 03E7
+Nervengasgranaten
+$80135BF0 03E7
+C4
+$80135BF4 03E7
+Traenengaswerfer
+$80135C04 03E7
+
+***WIP3OUT
+
+RCJC Pad 1
+701CC102 ????
+RCJC Pad 2
+701CC12A ????
+AnAc Pad 1
+701CC100 ????
+AnAc Pad 2
+701CC128 ????
+
+PAL2NTSC
+$3015918E 0040
+Y-Fix 1
+$80156ED4 0000
+Y-Fix 2
+$80157082 2400
+Gesamtzeit 0:00.00
+$8010D50A ACA0
+Keine Rundenzeiten
+$8010D576 AC40
+Immer erster
+$3010D5A6 0000
+Checkpoint-Zeit eingefroren
+$8010D64E 3C00
+Unendlich Energie
+$8014F9BC 0021
+Waffen- & Powerups-Modifizierer
+$801F611E ??01
+$301F6120 00??
+
+***WORMS ARMAGEDDON
+
+RCJC Pad 1
+701E5DDA ????
+RCJC Pad 2
+701E5DFC ????
+AnAc Pad 1
+701E5DD8 ????
+AnAc Pad 2
+701E5DFA ????
+
+PAL2NTSC
+$30037AB2 0040
+Y-Fix 1
+$800388EC 0000
+Y-Fix 2
+$80038A9A 2400
+Unendlich Demozeit
+$7008D626 AE42
+$8008D626 3C00
+Sudden Death alle Wuermer
+$70052C96 AC87
+$80052C96 AC80
+*Sofortige Spielentscheidung
+(Druecke L2 & R2)
+$701E5DDA FCFF
+$8008A99A 2400
+*Setze Zeit auf 90
+(Druecke R3)
+$701E5DDA FFFB
+$801A1B1C 5F90
+$701E5DDA FFFB
+$801A1B1E 0001
+*Setze Zeit auf 0
+(Druecke L3)
+$701E5DDA FFFD
+$001A1B1C 0000
+**P1 Codes
+Unendlich alle Waffen/Gegenstaende
+$B0400004 0000
+$10151BC8 FFFF
+*Unendlich Energie
+Wurm 1
+$9015117C 0000
+$3015117C 0080
+Wurm 2
+$90151218 0000
+$30151218 0080
+Wurm 3
+$901512B4 0000
+$301512B4 0080
+Wurm 4
+$90151350 0000
+$30151350 0080
+*Sudden Death
+Wurm 1
+(Druecke L1 & Oben Pad 2)
+$701E5DFC FBEF
+$3015117C 0000
+Wurm 2
+(Druecke L1 & Rechts Pad 2)
+$701E5DFC FBDF
+$30151218 0000
+Wurm 3
+(Druecke L1 & Unten Pad 2)
+$701E5DFC FBBF
+$301512B4 0000
+Wurm 4
+(Druecke L1 & Links Pad 2)
+$701E5DFC FB7F
+$30151350 0000
+Alle Wuermer
+(Druecke L1 & L2 Pad 2)
+$701E5DFC FAFF
+$B004009C 0000
+$1015117C 0000
+**P2/CPU Codes
+Unendlich alle Waffen/Gegenstaende
+$B0400004 0000
+$10151DE0 FFFF
+*Unendlich Energie
+Wurm 1
+$90151428 0000
+$30151428 0080
+Wurm 2
+$901514C4 0000
+$301514C4 0080
+Wurm 3
+$90151560 0000
+$30151560 0080
+Wurm 4
+$901515FC 0000
+$301515FC 0080
+*Sudden Death
+Wurm 1
+(Druecke R1 & Oben Pad 2)
+$701E5DFC F7EF
+$30151428 0000
+Wurm 2
+(Druecke R1 & Rechts Pad 2)
+$701E5DFC F7DF
+$301514C4 0000
+Wurm 3
+(Druecke R1 & Unten Pad 2)
+$701E5DFC F7BF
+$30151560 0000
+Wurm 4
+(Druecke R1 & Links Pad 2)
+$701E5DFC F77F
+$301515FC 0000
+Alle Wuermer
+(Druecke R1 & R2 Pad 2)
+$701E5DFC F5FF
+$B004009C 0000
+$10151428 0000
+
+***WRC ARCADE
+
+RCJC Pad 1
+7009762E ????
+RCJC Pad 2
+700976D2 ????
+AnAc Pad 1
+7009762C ????
+AnAc Pad 2
+700976D0 ????
+
+PAL2NTSC
+$300708B6 0040
+Y-Fix 1
+$8006E6BC 0000
+Stoppuhr eingefroren
+$80056962 AE00
+*Fliegen
+(Halte L3 & X)
+$7009762E BFFD
+$800505A8 0000
+$9009762E BFFD
+$800505A8 FFC6
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+Hypermodus
+$8003CC36 2400
+**ROCKS 'N' GEMS
+Unendlich Zeit
+$00095334 0000
+Cheat-Modus aktiviert (?)
+$3009D5BB 0001
+
+Index für Max Inventar-Modifizierer (DINO CRISIS)
+
+00 - Nothing
+01 - Shotgun
+02 - Shotgun Custom
+03 - Shotgun + Stock
+04 - SG Custom + Stock
+05 - Handgun
+06 - Handgun + Sight
+07 - Handgun Custom
+08 - HG Custom + Sight
+09 - Grenade Gun
+0A - GG Custom
+0B - Shotgun Parts
+0C - Shotgun Stocks
+0D - Handgun Sights
+0E - Handgun Slides
+0F - GG Parts
+10 - SG Bullets
+11 - Slag Bullets
+12 - An. Dart S
+13 - An. Dart M
+14 - An. Dart L
+15 - Poison Dart
+16 - 9mm Parabellum
+17 - 40S&W Bullets
+18 - Grenade Bullets
+19 - Heat Bullets
+1A - Infinite Grenades
+1B - Hemostat
+1C - Med. Pak S
+1D - Med. Pak M
+1E - Med. Pak L
+1F - Resuscitation
+20 - An. Aid
+21 - Recovery Aid
+22 - Intensifier
+23 - Multiplier
+
+Index für Waffen- & Powerups-Modifizierer (WIP3OUT)
+
+01 - Autopilot
+02 - Invisibility
+03 - Energy withdraw
+04 - Powerwall
+05 - Gravity shield
+06 - Mines
+07 - Multiple-Rockets
+08 - Plasmabeam
+0A - Earthquake-Disruptor
+0B - Reflector
+0C - Rocket
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: Die Grafik wird zwar nicht immer korrekt angezeigt, aber der jeweilige Gegenstand ist definitiv vorhanden.
+Note 3: Diese Codes werden erst aktiviert, wenn man den Analog-Modus (Pad 1) einschaltet. Bei Ladezeiten den Analog-Modus ausschalten, sonst könnte es zum Absturz kommen!
+Note 4: L1 & L2 drücken, wenn das eigene Team am Zug ist, R1 & R2 drücken, wenn der Gegner dran ist.
+Note 5: Man kann durch Wände, Bäume, Gegner u. Gegenstände gehen. Den Code ausschalten, um Items aufheben zu können.
+
+//=========

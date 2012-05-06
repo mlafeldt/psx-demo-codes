@@ -1,0 +1,53 @@
+***VIVA FOOTBALL
+
+RCJC Pad 1
+7007026A ????
+RCJC Pad 2
+7007028C ????
+AnAc Pad 1
+70070268 ????
+AnAc Pad 2
+7007028A ????
+
+PAL2NTSC
+$3003BA0E 0040
+Y-Fix 1
+$80035EBC 0000
+Y-Fix 2
+$8003606A 2400
+Unendlich Spielzeit
+$700D3E0E AC22
+$300D3E0E 0020
+**Hypermodus
+*An
+(Druecke L3)
+$7007026A FFFD
+$30021784 0002
+*Aus
+(Druecke R3)
+$7007026A FFFB
+$30021784 0001
+*Alle Tore zaehlen fuer: (Note 1)
+England
+$700999D6 03E0
+$300999E4 00E8
+Argentinien
+$700999D6 03E0
+$30099990 00EC
+*England
+20 Tore
+$300865E8 0014
+0 Tore
+$300865E8 0000
+Jedes Tor zaehlt ??-fach
+$700999D6 03E0
+$300999A0 00??
+*Argentinien
+20 Tore
+$300865EC 0014
+0 Tore
+$300865EC 0000
+Jedes Tor zaehlt ??-fach
+$700999D6 03E0
+$300999F4 00??
+

@@ -1,0 +1,33 @@
+***OVERBOARD!
+
+RCJC Pad 1
+700BF4EA ????
+RCJC Pad 2
+700BF852 ????
+AnAc Pad 1
+700BF4E8 ????
+AnAc Pad 2
+700BF850 ????
+
+PAL2NTSC
+$30084C96 0040
+Y-Fix
+$80087160 0000
+Unendlich Zeit
+$8007EBEE 3C00
+Unendlich Runden
+$30037666 0040
+SuddenDeath-Modus (P1 & P2)
+$30032F82 0020
+*Munition alle Waffen (Note 1)
+Unendlich
+$8004916E 3C00
+Nimmt zu
+$30049168 0021
+*Unendlich Energie
+P1
+$800B56BE 3FC0
+P2
+$800B5726 3FC0
+P1 & P2
+$80032F82 2400

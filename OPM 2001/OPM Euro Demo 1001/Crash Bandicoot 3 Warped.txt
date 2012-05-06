@@ -1,0 +1,32 @@
+***CRASH BANDICOOT 3 WARPED
+
+RCJC Pad 1
+7006C116 ????
+RCJC Pad 2
+7006C166 ????
+AnAc Pad 1
+7006C114 ????
+AnAc Pad 2
+7006C164 ????
+
+PAL2NTSC
+$30052CFE 0040
+Y-Fix 1
+$80053C74 0000
+Unendlich Masken (nach Aufnahme)
+$300A7DC9 0002
+Unendlich Leben
+$300B36E9 0063
+99 Wumpa-Fruechte
+$300B36E5 0063
+Alle Kisten geoeffnet
+$300B370D 005D
+**Hyper Modus
+*An
+(Druecke L2)
+$7006C116 FEFF
+$30051FE4 0000
+*Aus
+(Druecke R2)
+$7006C116 FDFF
+$30051FE4 0005

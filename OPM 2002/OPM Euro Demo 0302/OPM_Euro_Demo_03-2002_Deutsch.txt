@@ -1,0 +1,318 @@
+
+//=========
+
+OPM Euro Demo 03/2002 Deutsch
+
+SCED03478
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1COOL BOARDERS 4
+
+RCJC Pad 1
+$700714BA ????
+RCJC Pad 2
+$700714DC ????
+AnAc Pad 1
+$700714B8 ????
+AnAc Pad 2
+$700714DA ????
+
+PAL2NTSC
+$3005C32E 0040
+Y-Fix 1
+$80059390 0000
+Y-Fix 2
+$8005953E 2400
+Max Punkte
+$8009E930 FFFF
+$3009E932 000E
+Jeder Trick bringt 4.000 Punkte
+$80036058 0FA0
+$8003605A 2442
+Immer erster
+$3004E3D6 0060
+Zeit eingefroren
+$800512EA 3C00
+Max Sprungkraft
+$8009EB2E 0600
+
+#1DESTRUCTION DERBY RAW
+
+PAL2NTSC
+$700370B8 0001
+$800370B8 0000
+$700A56A0 0001
+$800A56A0 0000
+$700A748C 0001
+$800A748C 0000
+$700BCD10 0001
+$800BCD10 0000
+Alle Wagen anwählbar
+$7003E2BE 1440
+$8003E2BE 1000
+$7003E82E 1040
+$8003E82E 2400
+Max Beschleunigung
+$300C582D 0064
+$300C582E 0064
+Max Drehzahl
+$300C582F 0064
+$300C5830 0064
+Max Bodenhaftung
+$300C5831 0064
+$300C5832 0064
+Max Bremsen
+$300C5833 0064
+$300C5834 0064
+Max Widerstandsfähigkeit
+$300C5835 0064
+$300C5836 0064
+Alle Eigenschaften auf Max
+$300C582D 0064
+$B0050002 0000
+$100C582E 6464
+
+#2Einspieler-Modus
+
+RCJC Pad 1
+$700E46A2 ????
+AnAc Pad 1
+$700E46A0 ????
+
+Unzerstörbar
+$700AE83A 0096
+$800AE838 0000
+$700AE83A 0096
+$B0030002 0000
+$100E3B40 0000
+Max Punkte
+$800C2904 270F
+Immer erster
+$300C29A4 0001
+
+#2Mehrspieler-Modus
+
+RCJC Pad 1
+$700E316E ????
+RCJC Pad 2
+$700E3176 ????
+AnAc Pad 1
+$700E316C ????
+AnAc Pad 2
+$700E3174 ????
+
+#3P1
+Unzerstörbar
+$700ACA2E 0096
+$800ACA2C 0000
+$700ACA2E 0096
+$B0030002 0000
+$100E2600 0000
+Max Punkte
+$800C1368 270F
+#3P2
+Unzerstörbar
+$700AD3E6 0096
+$800AD3E4 0000
+$700AD3E6 0096
+$B0030002 0000
+$100E2630 0000
+Max Punkte
+$800C144C 270F
+
+#1MONSTER AG
+
+RCJC Pad 1
+$700A1D26 ????
+RCJC Pad 2
+$700A1D48 ????
+AnAc Pad 1
+$700A1D24 ????
+AnAc Pad 2
+$700A1D46 ????
+
+PAL2NTSC
+$30082302 0040
+Y-Fix 1
+$80078230 0000
+Unendlich Gesundheit
+$8001DE8C 1021
+Max Schleimbalken
+$80053C74 0064
+$80053C76 2402
+#3Leben (Note 1)
+Unendlich
+$80053D6E 3C00
+Nehmen zu
+$80053D6C 1021
+#3Slow Motion 
+An
+(Drücke L3)
+$700A1D26 FFFD
+$80079B74 0000
+Aus
+(Drücke R3)
+$700A1D26 FFFB
+$80079B74 FFFF
+
+#1RAGE RACER
+
+RCJC Pad 1
+$701D062A ????
+RCJC Pad 2
+$701D0652 ????
+AnAc Pad 1
+$701D0628 ????
+AnAc Pad 2
+$701D0650 ????
+
+PAL2NTSC
+$3007596A 0040
+Y-Fix 1
+$8006CFC8 0000
+Kein Demoende durch Nichts Drücken
+$8001DD9A 3C00
+Hypermodus
+$80074D1E 1000
+Erdbeben
+$80035DBE 2400
+Spiegelverkehrte Strecke
+$301890B8 0001
+Unendlich Runden
+$8003CFEA A600
+Keine Rennzeit
+$8003CE46 3C00
+$8003CECE 3C00
+Immer erster
+$80042318 0001
+$8004231A 2406
+Max Geschwindigkeit
+(Drücke Kreis)
+$701D062A DFFF
+$800A5612 0FFF
+#3Zeitlimit (Note 1)
+Unendlich
+$8003DFC2 2400
+Nimmt zu
+$8003DFC0 0001
+#3Rückspiegel (Note 1)
+Eingeblendet
+$30188FFC 0001
+Ausgeblendet
+$30188FFC 0000
+#3Durch Wände Fahren (Note 2)
+An
+(Drücke L2 & R2 & Oben)
+$701D062A FCEF
+$80038612 2400
+$701D062A FCEF
+$80038DF2 1000
+$701D062A FCEF
+$80038EA2 1000
+Aus
+(Drücke L2 & R2 & Unten)
+$701D062A FCBF
+$80038612 0C01
+$701D062A FCBF
+$80038DF2 1040
+$701D062A FCBF
+$80038EA2 1040
+#3Durch Autos Fahren
+An
+(Drücke L1 & R1 & Oben)
+$701D062A F3EF
+$80035E3E 2400
+Aus
+(Drücke L1 & R1 & Unten)
+$701D062A F3BF
+$80035E3E 0C00
+
+#1RAYMAN 2
+
+RCJC Pad 1
+$700AF81E ????
+RCJC Pad 2
+$700AF840 ????
+AnAc Pad 1
+$700AF81C ????
+AnAc Pad 2
+$700AF83E ????
+
+PAL2NTSC
+$7001AD74 0008
+$3001AD72 0040
+Y-Fix 1
+$7001D0AC 0010
+$8001D0AC 0000
+Y-Fix 2
+$7001D258 0010
+$8001D25A 2400
+Hypermodus
+$7001A200 0005
+$8001A202 2400
+Alle Optionen anwählbar
+$70086D0E 1481
+$80086D0E 1000
+$70086D5A 1481
+$80086D5A 1000
+$70086F0E 1481
+$80086F0E 1000
+$70086F5A 1481
+$80086F5A 1000
+Speichern
+(Drücke Select im Pause-Menü)
+$700AF81E FFFE
+$300AA870 000A
+Unverwundbar
+$7014E09C 0000
+$3014E09C 0001
+$7014E09C 0001
+$3014E208 00FF
+Unendlich Gesundheit
+$7014E09C 0000
+$3014E208 00FF
+Habe alle Lums
+$300BC1B4 0014
+Habe alle Käfige
+$300BC1D8 0002
+
+#1SPIDER-MAN
+
+RCJC Pad 1
+$700AE2E6 ????
+RCJC Pad 2
+$700AE308 ????
+AnAc Pad 1
+$700AE2E4 ????
+AnAc Pad 2
+$700AE306 ????
+
+PAL2NTSC
+$30097A5E 0040
+Y-Fix 1
+$8008E5D0 0000
+Y-Fix 2
+$8008E77E 2400
+Schwebe-Modus
+(Springe & Halte R1)
+$700AE2E6 F7FF
+$80075F56 2400
+$700AE2E6 FFFF
+$80075F56 0086
+#3Unendlich :
+Gesundheit
+$300D671A 0064
+Netzflüssigkeit
+$800D6B5C 1000
+Netz-Patronen
+$300D6B60 0013
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: Nicht so weit hinter die Begrenzung fahren, sonst wird das Fahrzeug unkontrollierbar!
+
+//=========

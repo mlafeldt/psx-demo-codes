@@ -1,0 +1,29 @@
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+**Robot Ron
+Unendlich Leben
+$70140580 FFFF
+$80140582 2400
+Starte mit vielen Punkten
+$7014D198 0000
+$8014D198 FFFF
+**Yarozians
+Starte mit vielen Punkten
+$700BB0C0 0000
+$800BB0C0 FFFF
+*Leben (Note 1)
+Unendlich
+$700B059C FFFF
+$800B059C 0000
+Nehmen zu
+$700B059C FFFF
+$800B059C 0001

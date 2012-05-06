@@ -1,0 +1,10 @@
+**V-RALLY 2
+
+
+
+XPloderCheck
+$700B42A4 3800
+$000B42A4 0000
+
+Keine Rundenzeit
+$800C21E8 0000

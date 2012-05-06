@@ -1,0 +1,36 @@
+***TOY STORY 2
+
+RCJC Pad 1
+700D6312 ????
+RCJC Pad 2
+700D633A ????
+AnAc Pad 1
+700D6310 ????
+AnAc Pad 2
+700D6338 ????
+
+PAL2NTSC
+$30090952 0040
+Y-Fix
+$8008DAA8 0000
+Unendlich Gesundheit
+$80073092 2400
+Unverwundbar
+$800B9020 0001
+$800B9074 0040
+Max Geldstuecke
+$800B907E 0063
+*Leben (Note 1)
+Unendlich
+$80083D2A 2400
+Nehmen zu
+$80083D28 0001
+**Slow Motion
+*An
+(Druecke L1 Pad 2)
+$700D633A FBFF
+$8008F9A4 0000
+*Aus
+(Druecke L2 Pad 2)
+$700D633A FEFF
+$8008F9A4 FFFF

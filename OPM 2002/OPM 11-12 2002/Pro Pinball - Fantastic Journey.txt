@@ -1,0 +1,21 @@
+***PRO PINBALL - FANTASTIC JOURNEY
+
+RCJC Pad 1
+700947B2 ????
+RCJC Pad 2
+700947E2 ????
+AnAc Pad 1
+700947B0 ????
+AnAc Pad 2
+700947E0 ????
+
+PAL2NTSC
+$300733EE 0040
+Y-Fix 1
+$8006E4D8 0000
+Unendlich Zeit
+$300859BD 0000
+Unendlich Kugeln
+$300978F0 0001
+Schnelle Punktzunahme
+$800978E4 FFFF

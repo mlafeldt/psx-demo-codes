@@ -1,0 +1,89 @@
+***X-MEN - MUTANT ACADEMY 2
+
+RCJC Pad 1
+700E7AAA ????
+RCJC Pad 2
+700E7ACC ????
+AnAc Pad 1
+700E7AA8 ????
+AnAc Pad 2
+700E7ACA ????
+
+PAL2NTSC
+$300924B2 0040
+Y-Fix 1
+$80089C2C 0000
+Y-Fix 2
+$80089DDA 2400
+Kein Demoende durch Nichts Druecken
+$800B1530 0000
+Unendlich Kampfzeit
+$8003A112 3C00
+Unendlich Runden
+$8005ADFA A4E0
+$8005AE6A A4E0
+Beide Kaempfer unverwundbar
+$8001FC62 3C00
+SuddenDeath (P1 & P2)
+$8001FC62 A660
+Treffe überall (P1 & P2)
+$80024EF2 2400
+**Slow Motion 
+*An
+(Druecke L3)
+$700E7AAA FFFD
+$8008B660 0000
+*Aus
+(Druecke R3)
+$700E7AAA FFFB
+$8008B660 FFFF
+*P1 Codes
+Unendlich Energie
+$800B441C B400
+$800B441E B400
+Keine Energie
+$000B441C 0000
+SuddenDeath
+$900B441C B400
+$000B441C 0000
+Unendlich Super-Meter
+$800B44FA 1400
+Kein Super-Meter
+$800B44FA 0000
+Unendlich Megasuper-Meter
+$800B44FC 1E00
+Kein Megasuper-Meter
+$800B44FC 0000
+Unendlich Extremsuper-Meter
+$800B44FE 2800
+Kein Extremsuper-Meter
+$800B44FE 0000
+Unendlich Konter
+$300B4502 0000
+Keine Konter
+$300B4502 0003
+*P2/CPU Codes
+Unendlich Energie
+$800B4A70 B400
+$800B4A72 B400
+Keine Energie
+$000B4A70 0000
+SuddenDeath
+$900B4A70 B400
+$000B4A70 0000
+Unendlich Super-Meter
+$800B4B4E 1400
+Kein Super-Meter
+$800B4B4E 0000
+Unendlich Megasuper-Meter
+$800B4B50 1E00
+Kein Megasuper-Meter
+$800B4B50 0000
+Unendlich Extremsuper-Meter
+$800B4B52 2800
+Kein Extremsuper-Meter
+$800B4B52 0000
+Unendlich Konter
+$300B4B56 0000
+Keine Konter
+$300B4B56 0003

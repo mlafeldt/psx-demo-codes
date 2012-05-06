@@ -1,0 +1,22 @@
+***G-POLICE 1
+
+RCJC Pad 1
+70007572 ????
+RCJC Pad 2
+7000759A ????
+AnAc Pad 1
+70007570 ????
+AnAc Pad 2
+70007598 ????
+
+PAL2NTSC
+$300BD98A 0040
+Y-Fix 1
+$800BFE54 0000
+*Unendlich Schild
+(Analog-Modus ein Pad 2)
+$70007598 7300
+$801EF3E0 1389
+Unendlich Munition alle Waffen
+$8004746C 0063
+$8004746E 3413

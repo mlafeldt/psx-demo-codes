@@ -1,0 +1,44 @@
+***JINX
+
+//MAIN.EXE CRC-32: 0x7B8ECC7D
+
+RCJC Pad 1
+700A044A ????
+RCJC Pad 2
+700A0472 ????
+AnAc Pad 1
+700A0448 ????
+AnAc Pad 2
+700A0470 ????
+
+PAL2NTSC
+$300742E2 0040
+Y-Fix 1
+$8007131C 0000
+Y-Fix 2
+$800714CA 2400
+Unendlich Gesundheit
+$80060566 3C00
+Unendlich Leben
+$8006058C 0000
+Unverwundbar
+$800B06EC 05DC
+**Gegner einfrieren
+*An
+(Druecke L3)
+$700A044A FFFD
+$8005B150 0000
+*Aus
+(Druecke R3)
+$700A044A FFFB
+$8005B150 FFD0
+**Hyper Modus
+*An
+(Druecke R2 & L3)
+$700A044A FDFD
+$80073B52 2400
+*Aus
+(Druecke R2 & R3)
+$700A044A FDFB
+$80073B52 1040
+

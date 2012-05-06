@@ -1,0 +1,44 @@
+***COLONY WARS VENGEANCE
+
+RCJC Pad 1
+7005D6C2 ????
+RCJC Pad 2
+7005D6E2 ????
+AnAc Pad 1
+7005D6C0 ????
+AnAc Pad 2
+7005D6E0 ????
+
+PAL2NTSC
+$300857A2 0040
+Y-Fix 1
+$8007D8F4 0000
+Unendlich Schild
+$300568C8 0064
+Unendlich Panzerung
+$300568CC 0064
+Unendlich Raketen
+$700D7C72 AC22
+$800D7C64 0005
+$700D7C72 AC22
+$800D7C66 2402
+*Anti-Shield Laser
+Keine Ueberhitzung
+$8012CABC 0000
+Schnellfeuer
+$8012CAC0 0000
+*Laser
+Keine Ueberhitzung
+$8012CB14 0000
+Schnellfeuer
+$8012CB18 0000
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$7005D6E2 FBFF
+$8007F7F0 0000
+*Aus
+(Druecke L2 Pad 2)
+$7005D6E2 FEFF
+$8007F7F0 FFFF
+

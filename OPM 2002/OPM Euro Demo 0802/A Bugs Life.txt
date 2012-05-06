@@ -1,0 +1,48 @@
+***A BUG'S LIFE
+
+RCJC Pad 1
+700B5F52 ????
+RCJC Pad 2
+700B5F7A ????
+AnAc Pad 1
+700B5F50 ????
+AnAc Pad 2
+700B5F78 ????
+
+PAL2NTSC
+$3006AB2E 0040
+Y-Fix 1
+$80067C84 0000
+Hypermodus
+$8006A34E 2400
+Unverwundbar
+$300AA74A 0021
+Unendlich Gesundheit
+$300AA74C 0004
+Unendlich Leben
+$300AA758 0009
+Max Getreidekoerner
+$300AA759 0063
+Habe FLIK komplettiert
+$300AA75A 000F
+*Habe Rote Beere
+(Druecke Start Pad 2)
+$700B5F7A FFF7
+$300AA74F 0000
+*Habe Blaue Beere
+(Druecke Dreieck Pad 2)
+$700B5F7A EFFF
+$300AA74F 0001
+*Habe Gruene Beere
+(Druecke Kreis Pad 2)
+$700B5F7A DFFF
+$300AA74F 0002
+*Habe Goldene Beere
+(Druecke X Pad 2)
+$700B5F7A BFFF
+$300AA74F 0003
+*Habe Violette Beere
+(Druecke Viereck Pad 2)
+$700B5F7A 7FFF
+$300AA74F 0004
+

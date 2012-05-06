@@ -1,0 +1,40 @@
+***LILO & STITCH
+
+RCJC Pad 1
+700C6C6A ????
+RCJC Pad 2
+700C6C8C ????
+AnAc Pad 1
+700C6C68 ????
+AnAc Pad 2
+700C6C8A ????
+
+PAL2NTSC
+$30098936 0040
+Y-Fix 1
+$80094E54 0000
+Y-Fix 2
+$80095002 2400
+Kein Demoende durch Nichts Druecken
+$8008E0EA 1000
+Max Spezial-Attacke
+$8002586E 3C00
+$8002FF20 0014
+$8002FF22 2402
+*Unendlich:
+Demozeit
+$8008E1A0 0000
+Gesundheit
+$80055D6E 3C00
+Leben
+$80055DA0 0000
+**Debug-Menue
+*An
+(Druecke L3)
+$700C6C6A FFFD
+$300BA22C 0001
+*Aus
+(Druecke R3)
+$700C6C6A FFFB
+$300BA22C 0000
+

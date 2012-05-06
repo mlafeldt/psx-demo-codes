@@ -1,0 +1,34 @@
+**Silent Bomber Codes 
+JC
+700C07B0 ????
+PAL2NTSC
+$700BF5AC0001
+$800BF5AC0000
+Y-Fix
+$8008C4500000
+UE Vitalitaet
+$800E1B944000
+$800E1B960006
+Habe Napalm-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26020063
+Habe Paralyse-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26030063
+Habe Schwerkraft-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26040063
+Max E-Chips bei Aufnahme
+$300E260500FF
+Schild-Level 6
+$300E260800FF
+Alle Ziele zerstoert (Level 2)
+$300E2626000B
+UE Zeit
+$800E26580000
+Max Punkte (Level 2)
+$800E265CE0FF
+$800E265E05F5

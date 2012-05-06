@@ -1,0 +1,91 @@
+***FRONTSCHWEINE
+
+RCJC Pad 1
+70062E7A ????
+RCJC Pad 2
+70062E9C ????
+AnAc Pad 1
+70062E78 ????
+AnAc Pad 2
+70062E9A ????
+
+PAL2NTSC
+$300260B2 0040
+Y-Fix 1
+$800230A0 0000
+Y-Fix 2
+$8002324E 2400
+Zeit laeuft langsamer
+$3001DBB8 0001
+Unendlich Munition & Gegenstaende
+$800A9E68 0009
+$800A9E6A 3404
+Unverwundbar/Sudden Death (Note 2)
+$70062E7A F5FF
+$800A8D9A 3C00
+$70062E7A FAFF
+$800A8D9A AE00
+*Moon Jump
+(Halte Viereck)
+$700A5E6C 0020
+$800A5E6C 0120
+$70062E7A 7FFF
+$800F2194 1023
+$90062E7A 7FFF
+$800F2194 1021
+**Hypermodus Spielfiguren
+*Langsam
+(Druecke L3 & Dreieck)
+$70062E7A EFFD
+$3001DBCC 0001
+*Normal
+(Druecke L3 & L1)
+$70062E7A FBFD
+$3001DBCC 0002
+*Schneller
+(Druecke L3 & L2)
+$70062E7A FEFD
+$3001DBCC 0004
+*Noch schneller
+(Druecke L3 & R1)
+$70062E7A F7FD
+$3001DBCC 0006
+*Viel schneller
+(Druecke L3 & R2)
+$70062E7A FDFD
+$3001DBCC 0008
+**Geistermodus (Note 3)
+*An
+(Druecke R3 & Oben)
+$70062E7A FFEB
+$800B8AC2 2400
+*Aus
+(Druecke R3 & Unten)
+$70062E7A FFBB
+$800B8AC2 0C03
+**Ueber Wasser laufen
+*An
+(Druecke R3 & Links)
+$70062E7A FF7B
+$80090346 3400
+$70062E7A FF7B
+$8009034A AFC0
+*Aus
+(Druecke R3 & Rechts)
+$70062E7A FFDB
+$80090346 0802
+$70062E7A FFDB
+$8009034A AFC3
+**Schweine einfrieren
+*An
+(Druecke R3 & L2)
+$70062E7A FEFB
+$800AD7B0 0000
+*Aus
+(Druecke R3 & R2)
+$70062E7A FDFB
+$800AD7B0 0003
+
+Note 2: L1 & L2 drücken, wenn das eigene Team am Zug ist, R1 & R2 drücken, wenn der Gegner dran ist.
+Note 3: Man kann durch Wände, Bäume, Gegner u. Gegenstände gehen. Den Code ausschalten, um Items aufheben zu können.
+

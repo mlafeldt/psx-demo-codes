@@ -1,0 +1,18 @@
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+Hypermodus
+$8003CC36 2400
+**ROCKS 'N' GEMS
+Unendlich Zeit
+$00095334 0000
+Cheat-Modus aktiviert (?)
+$3009D5BB 0001

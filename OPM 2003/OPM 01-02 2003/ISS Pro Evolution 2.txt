@@ -1,0 +1,42 @@
+***ISS PRO EVOLUTION 2
+
+RCJC Pad 1
+70077A26 ????
+RCJC Pad 2
+70077A48 ????
+AnAc Pad 1
+70077A24 ????
+AnAc Pad 2
+70077A46 ????
+
+PAL2NTSC
+$3004BA8E 0040
+Y-Fix 1
+$80040834 0000
+Unendlich Spielzeit
+$80021FFE 3C00
+Jedes Tor zaehlt ??-fach
+$70101E1E 2462
+$30101E1C 00??
+*Alle Tore zaehlen fuer: (Note 1)
+Heimmannschaft
+$70101E22 A082
+$80101E04 0000
+$70101E22 A082
+$80101E06 2402
+Gastmannschaft
+$70101E22 A082
+$80101E04 0001
+$70101E22 A082
+$80101E06 2402
+*Heimmannschaft (Note 1)
+20 Tore
+$3007792C 0014
+0 Tore
+$3007792C 0000
+*Gastmannschaft (Note 1)
+20 Tore
+$3007792D 0014
+0 Tore
+$3007792D 0000
+

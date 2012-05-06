@@ -1,0 +1,123 @@
+**MILLENIUM SOLDIER-EXPENDABLE
+
+RCJC Pad 1
+700B3762 ????
+RCJC Pad 2
+700B3784 ????
+
+PAL2NTSC
+$7006CDE8 0008
+$3006CDE6 0040
+Y-Fix (Note 1)
+$7006FFA0 0010
+$8006FFA0 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke Select & Oben/Unten Pad 2)
+$900078023C0A
+$500078000050
+$0B000A3C8437
+$4A3500000000
+$06000B3CA0FF
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$5006FF980004
+$001E000CBEEF
+Unendlich Energie
+$800A6A08 03E6
+Unendlich Granaten
+$800A69EA 03E7
+Granaten-Modifizierer
+300A69EC 00??
+Max Punkte
+$800A69BC 967F
+$800A69BE 0098
+Habe Orbs
+$300A69C4 0003
+Habe Laser Sight
+$300A6A6A 0001
+Rapid Fire
+$800A69F6 0000
+*Leben (Note 1)
+Unendlich
+$7001E6AC FFFF
+$8001E6AE 2400
+Nehmen zu
+$7001E6AC FFFF
+$8001E6AC 0001
+*Zeit (Note 1)
+Unendlich
+$70036B50 FFFF
+$80036B52 2400
+Nimmt zu
+$70036B50 FFFF
+$80036B50 0001
+*Unendlich Munition:
+Spread Pulse Cannon
+$800A6A2C 03E7
+Multiple Warhead Rockets
+$800A6A36 03E7
+Spyra Missles
+$800A6A38 03E7
+Flame Thrower
+$800A6A3A 03E7
+Hominig Missiles
+$800A6A3C 03E7
+Portable Particle Accelerator
+$800A6A3E 03E7
+Vulcan Cannon
+$800A6A40 03E7
+Shotgun
+$800A6A42 03E7
+Phantasm
+$800A6A44 03E7
+Mines
+$800A6A46 03E7
+Reclaimed Alien Weapon
+$800A6A48 03E7
+Laser Guided Missiles
+$800A6A4A 03E7
+Pulse Cannon
+$800A6A4C 03E7
+Alle Waffen
+$800A6A2C 03E7
+$B00C0002 0000
+$100A6A36 03E7
+*Waffen-Modifizierer
+Inventarplatz 1
+300A69E4 00??
+Inventarplatz 2
+300A69E6 00??
+Inventarplatz 3
+300A69E8 00??
+
+Index fuer Granaten-Modifizierer
+
+01 - Napalm Grenade
+02 - Dynamite
+03 - Airstrike Beacon
+04 - Shatter Grenade
+
+Index fuer Waffen-Modifizierer
+
+01 - Spread Pulse Cannon
+06 - Multiple Warhead Rockets
+07 - Spyra Missles
+08 - Flame Thrower
+09 - Homing Missiles
+0A - Portable Particle Accelerator
+0B - Vulcan Cannon
+0C - Shotgun
+0D - Phantasm
+0E - Mines
+0F - Reclaimed Alien Weapon
+10 - Laser Guided Missiles
+11 - Pulse Cannon

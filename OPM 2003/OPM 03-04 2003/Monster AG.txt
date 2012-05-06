@@ -1,0 +1,24 @@
+***MONSTER AG
+
+//MAIN.EXE CRC-32: 0x4E1364CD
+
+RCJC Pad 1
+700A1E3E ????
+RCJC Pad 2
+700A1E60 ????
+AnAc Pad 1
+700A1E3C ????
+AnAc Pad 2
+700A1E5E ????
+
+PAL2NTSC
+$3008241A 0040
+Y-Fix 1
+$80078348 0000
+Unendlich Gesundheit
+$8001DE7C 0005
+$8001DE7E 3402
+Leben nehmen zu
+$80053D68 1021
+Max Schleimbalken
+$3009DE61 0064

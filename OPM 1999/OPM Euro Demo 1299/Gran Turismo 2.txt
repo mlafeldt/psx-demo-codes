@@ -1,0 +1,26 @@
+**GRAN TURISMO 2
+
+RCJC Pad 1
+701D76B2 ????
+RCJC Pad 2
+701D76D4 ????
+
+Dumme Gegner / Rennzeit 0:00:000
+$00049610 0000
+Unendlich Runden (Note 2)
+$B0060B64 0000
+$1008A02C 0000
+Immer auf Platz 1 (Note 2)
+$B0060B64 0100
+$1008A688 0100
+*Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$301FFC12 0000
+Verfolgerkamera 1
+$301FFC12 0001
+Verfolgerkamera 2
+$301FFC12 0002
+Skycam
+$301FFC12 0003
+
+Note 2: Nur im eigentlichen Rennen aktivieren!

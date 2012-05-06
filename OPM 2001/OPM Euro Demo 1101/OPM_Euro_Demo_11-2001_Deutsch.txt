@@ -1,0 +1,447 @@
+
+//=========
+
+OPM Euro Demo 11/2001 Deutsch
+
+SCED03474
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1ALADDIN - NASIRA'S REVENGE
+
+RCJC Pad 1
+$70080776 ????
+RCJC Pad 2
+$700807AA ????
+AnAc Pad 1
+$70080774 ????
+AnAc Pad 2
+$700807A8 ????
+
+PAL2NTSC
+$30068CCE 0040
+Y-Fix 1
+$80064A30 0000
+Y-Fix 2
+$80064BDE 2400
+#3Unendlich :
+Leben
+$80031066 3C00
+Gesundheit
+$800431C2 3C00
+Äpfel (nach Aufnahme)
+$900820E0 0000
+$800820E0 B000
+#3Hyper Modus
+An
+(Drücke L3)
+$70080776 FFFD
+$80063CB2 2400
+Aus
+(Drücke R3)
+$70080776 FFFB
+$80063CB2 1040
+
+#1BOMBERMAN WORLD
+
+RCJC Pad 1
+$70073D22 ????
+RCJC Pad 2
+$70073D44 ????
+
+PAL2NTSC
+$30044A5A 0040
+Y-Fix
+$8004DA44 0000
+Alle Spieler unverwundbar
+$8002A81E 3C00
+Unendlich Bomben (alle Spieler)
+$8002D79E 3C00
+#3Zeit (Note 1)
+Unendlich
+$800DD052 2400
+Nimmt zu
+$800DD050 0001
+#3Pause-Modus
+An
+(Drücke Select)
+$70073D22 FFFE
+$8004425A 2400
+Aus
+(Drücke Start)
+$70073D22 FFF7
+$8004425A 1440
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1)
+$70073D22 FBFF
+$30043E88 0002
+Hyper
+(Drücke R1)
+$70073D22 F7FF
+$30043E88 0000
+Normal
+(Drücke R2)
+$70073D22 FDFF
+$30043E88 0001
+#3P1
+Unverwundbar
+$800C76B2 2000
+Unendlich Bomben
+$300C76D4 0009
+#3P2
+Unverwundbar
+$800C778E 2000
+Unendlich Bomben
+$300C77B0 0009
+
+#1CRASH BASH
+
+RCJC Pad 1
+$700613B2 ????
+RCJC Pad 2
+$700613E6 ????
+AnAc Pad 1
+$700613B0 ????
+AnAc Pad 2
+$700613E4 ????
+
+PAL2NTSC
+$30033CB6 0040
+Y-Fix 1
+$80030720 0000
+Y-Fix 2
+$800308CE 2400
+Setze Zeit auf 1:30
+(Drücke R1 & R2)
+$700613B2 F5FF
+$50099208 0004
+$00300100 C0DE
+Setze Zeit auf 0:00
+(Drücke L1 & L2)
+$700613B2 FAFF
+$00099208 0000
+#3Hyper Modus
+An
+(Drücke L3)
+$700613B2 FFFD
+$800325AA 2400
+Aus
+(Drücke R3)
+$700613B2 FFFB
+$800325AA 1440
+#2Pogo Painter & Pogo-A-Gogo Modi
+Habe Turbo-Schuhe (Note 2 & 3)
+$700613B0 7300
+$300C2290 0001
+Gegner können nichts aufnehmen (Note 3)
+$700613B0 7300
+$B003001C 0000
+$100C2298 0000
+$700613B0 7300
+$B003001C 0000
+$100C22AC 0000
+#3Waffen-Modifizierer (Note 2)
+Habe Nichts
+(Drücke L2 & Viereck)
+$700613B2 7EFF
+$300C227C 0000
+Habe Normale Rakete
+(Drücke R2 & Viereck)
+$700613B2 7DFF
+$300C227C 0001
+Habe Spezial-Rakete
+(Drücke L1 & Viereck)
+$700613B2 7BFF
+$300C227C 0002
+Habe Laser
+(Drücke R1 & Viereck)
+$700613B2 77FF
+$300C227C 0003
+#2Polar Panic Modus (Note 3)
+Unendlich Energie P1
+$700613B0 7300
+$801E5790 0100
+Keine Energie für Gegner
+$700613B0 7300
+$B003013C 0000
+$101E58CC 0000
+
+#1FIFA 2000
+
+RCJC Pad 1
+$70045C8A ????
+RCJC Pad 2
+$70045CAC ????
+AnAc Pad 1
+$70045C88 ????
+AnAc Pad 2
+$70045CAA ????
+
+PAL2NTSC
+$300214AA 0040
+Y-Fix 1
+$8001E414 0000
+Y-Fix 2
+$8001E5C2 2400
+Unendlich Spielzeit
+$800981DA 2400
+Alle Optionen anwählbar
+$301528F0 0001
+$301528F2 0001
+Jedes Tor zählt ??-fach
+$300A2A84 00??
+#3Manchester United
+20 Tore
+$3003C164 0014
+0 Tore
+$3003C164 0000
+#3Bayern München
+20 Tore
+$3003C168 0014
+0 Tore
+$3003C168 0000
+#3Hyper Modus
+An
+(Drücke L3)
+$70045C8A FFFD
+$3002BFB8 0005
+Aus
+(Drücke R3)
+$70045C8A FFFB
+$3002BFB8 0001
+
+#1G-POLICE 1
+
+RCJC Pad 1
+$70007572 ????
+RCJC Pad 2
+$7000759A ????
+AnAc Pad 1
+$70007570 ????
+AnAc Pad 2
+$70007598 ????
+
+PAL2NTSC
+$300BD98A 0040
+Y-Fix
+$800BFE54 0000
+Unendlich Schild
+$801EF3E0 1389
+Unendlich Munition alle Waffen
+$5004746C 0004
+$63001334 C0DE
+
+#1LOMAX IM LEMMINGLAND
+
+RCJC Pad 1
+$70074F2A ????
+RCJC Pad 2
+$70074F32 ????
+
+PAL2NTSC
+$30063D76 0040
+Y-Fix
+$8005F96C 0000
+Unverwundbar
+$80074F86 FFFF
+Habe Helm
+$80074F78 FFFF
+99 Lemminge gerettet
+$30074F8C 0063
+Max Münzen
+$300750B0 0063
+#3Leben (Note 1)
+Unendlich
+$8001CA46 2400
+Nehmen zu
+$8001CA44 0001
+
+#1PRO PINBALL - BIG RACE USA
+
+RCJC Pad 1
+$700AB31A ????
+RCJC Pad 2
+$700AB34A ????
+AnAc Pad 1
+$700AB318 ????
+AnAc Pad 2
+$700AB348 ????
+
+PAL2NTSC
+$30087072 0040
+Y-Fix
+$8008212C 0000
+Unendlich Zeit
+$3009F215 0000
+Unendlich Kugeln
+$80050566 3C00
+Starte mit vielen Punkten
+$700AFD02 0000
+$800AFD00 C9FF
+$700AFD02 0000
+$800AFD02 3B9A
+Max Zähler
+$800AFD4C 423F
+$800AFD4E 000F
+
+#1SPYRO 3 - YEAR OF THE DRAGON
+
+RCJC Pad 1
+$7007839A ????
+RCJC Pad 2
+$700789A2 ????
+AnAc Pad 1
+$70078398 ????
+AnAc Pad 2
+$700789A0 ????
+
+PAL2NTSC
+$3006554E 0040
+Y-Fix 1
+$800612E0 0000
+Y-Fix 2
+$8006148E 2400
+Kein Demoende durch Nichts Drücken
+$80073944 0000
+Unendlich Gesundheit
+$30077508 0003
+Max Dracheneier
+$30073854 00FE
+Max Edelsteine
+$80073910 FFFE
+#3Leben (Note 1)
+Unendlich
+$80050CDA 2400
+Nehmen zu
+$80050CD8 0001
+#3Hyper Modus
+An
+(Analog-Modus ein)
+$70078398 7300
+$8005FD8A 2400
+Aus
+(Analog-Modus aus)
+$70078398 4100
+$8005FD8A 1040
+#2Skate Park
+Brauche nur 1 Dino einfangen
+$7008A606 AC62
+$5008A600 0004
+$0F000224 C0DE
+Starte mit 55.555 Punkten
+$7018CB98 0000
+$8018CB98 D903
+Jeder Trick bringt 1.000 Punkte
+$70090732 ACA2
+$50090728 0004
+$E8034224 C0DE
+#3Zeit einfrieren
+An
+(Drücke L3)
+$7007839A FFFD
+$8003D68A 3C00
+Aus
+(Drücke R3)
+$7007839A FFFB
+$8003D68A AC82
+
+#1X-MEN - MUTANT ACADEMY 2
+
+RCJC Pad 1
+$700E7AAA ????
+RCJC Pad 2
+$700E7ACC ????
+AnAc Pad 1
+$700E7AA8 ????
+AnAc Pad 2
+$700E7ACA ????
+
+PAL2NTSC
+$300924B2 0040
+Y-Fix 1
+$80089C2C 0000
+Y-Fix 2
+$80089DDA 2400
+Kein Demoende durch Nichts Drücken
+$800B1530 0000
+Unendlich Kampfzeit
+$8003A112 3C00
+Unendlich Runden
+$8005ADFA A4E0
+$8005AE6A A4E0
+Beide Kämpfer unverwundbar
+$8001FC62 3C00
+SuddenDeath (P1 & P2)
+$8001FC62 A660
+Treffe überall (P1 & P2)
+$80024EF2 2400
+#3Slow Motion 
+An
+(Drücke L3)
+$700E7AAA FFFD
+$8008B660 0000
+Aus
+(Drücke R3)
+$700E7AAA FFFB
+$8008B660 FFFF
+#3P1 Codes
+Unendlich Energie
+$800B441C B400
+$800B441E B400
+Keine Energie
+$000B441C 0000
+SuddenDeath
+$900B441C B400
+$000B441C 0000
+Unendlich Super-Meter
+$800B44FA 1400
+Kein Super-Meter
+$800B44FA 0000
+Unendlich Megasuper-Meter
+$800B44FC 1E00
+Kein Megasuper-Meter
+$800B44FC 0000
+Unendlich Extremsuper-Meter
+$800B44FE 2800
+Kein Extremsuper-Meter
+$800B44FE 0000
+Unendlich Konter
+$300B4502 0000
+Keine Konter
+$300B4502 0003
+#3P2/CPU Codes
+Unendlich Energie
+$800B4A70 B400
+$800B4A72 B400
+Keine Energie
+$000B4A70 0000
+SuddenDeath
+$900B4A70 B400
+$000B4A70 0000
+Unendlich Super-Meter
+$800B4B4E 1400
+Kein Super-Meter
+$800B4B4E 0000
+Unendlich Megasuper-Meter
+$800B4B50 1E00
+Kein Megasuper-Meter
+$800B4B50 0000
+Unendlich Extremsuper-Meter
+$800B4B52 2800
+Kein Extremsuper-Meter
+$800B4B52 0000
+Unendlich Konter
+$300B4B56 0000
+Keine Konter
+$300B4B56 0003
+
+Note 1 : Nur einen der Codes benutzen.
+Note 2 : Die Grafik wird zwar nicht immer korrekt angezeigt, aber der jeweilige Gegenstand ist definitiv vorhanden.
+Note 3 : Diese Codes werden erst aktiviert, wenn man den Analog-Modus (Pad 1) einschaltet. Bei Ladezeiten den Analog-Modus ausschalten, sonst könnte es zum Absturz kommen!
+
+//=========

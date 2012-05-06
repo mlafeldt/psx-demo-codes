@@ -1,0 +1,582 @@
+
+//=========
+
+"OPM Euro Demo 09/2002 Deutsch SCED03895"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***APE ESCAPE
+
+RCJC Pad 1
+700EC5B2 ????
+AnAc Pad 1
+700EC5B0 ????
+
+PAL2NTSC
+$34260C58 7688
+Y-Fix 1
+$842660C6 0AFA
+Brauche nur 1 Affen einfangen
+$34232DF1 59F6
+Unendlich Kekse
+$84231D1B 45FF
+Unendlich Sauerstoff
+$8422E808 BA4C
+99 Energie-Chips
+$842A4D09 3182
+Besitze alle Geraete
+$342A380A 6E41
+*Leben (Note 1)
+Unendlich
+$84232CFA 7C0E
+Nehmen zu
+$84232CF8 5811
+**Slow Motion
+*An
+(Druecke L1 & Links)
+$742B3F6F 88D5
+$84264E5E 388C
+*Aus
+(Druecke L1 & Rechts)
+$742B3F6F 8875
+$84264E5E C762
+
+***GRAN TURISMO
+
+RCJC Pad 1
+700BF7A2 ????
+RCJC Pad 2
+700BF7E2 ????
+AnAc Pad 1
+700BF7A0 ????
+AnAc Pad 2
+700BF7E0 ????
+
+PAL2NTSC
+$7420E440 900C
+$3420E44E 90BE
+$742CD404 D420
+$342CD40A D462
+Y-Fix 1
+$7421126E 8CAC
+$8421126E 8CBC
+$742D0012 7E02
+$842D0012 7E12
+Kein Demoende durch Nichts Druecken
+$7427086A CC90
+$8427086A 5CC2
+Unendlich Demozeit
+$7426DE8C 6CB9
+$8426DE8C F4AA
+Unendlich Runden
+$7420030D CB19
+$8420030D CB1B
+Stoppuhr 40x langsamer
+$742005F7 7F03
+$342005F7 7F2A
+Durch Autos fahren
+$74236507 058B
+$84236507 01CB
+**Durch Waende fahren
+*An
+(Druecke L3)
+$742E0C48 9114
+$34231521 9101
+*Aus
+(Druecke R3)
+$742E0C48 9112
+$34231521 91FE
+**Slow Motion
+*An
+(Druecke L1 Pad 2)
+$742E0C08 95D6
+$842CECEC 8C58
+*Aus
+(Druecke L2 Pad 2)
+$742E0C08 90D7
+$842CECEC 7396
+*Grip Modifizierer (Note 1)
+Asphalt
+$742380F2 5DE8
+$842380F6 C8B5
+Curbs
+$742380F2 5DE8
+$842380F4 FCA9
+$742380F2 5DE8
+$842380F6 C8B5
+Gras
+$742380F2 5DE8
+$842380F4 FCAA
+$742380F2 5DE8
+$842380F6 C8B5
+Sand
+$742380F2 5DE8
+$842380F4 FCAB
+$742380F2 5DE8
+$842380F6 C8B5
+
+***JINX
+
+RCJC Pad 1
+700A044A ????
+RCJC Pad 2
+700A0472 ????
+AnAc Pad 1
+700A0448 ????
+AnAc Pad 2
+700A0470 ????
+
+PAL2NTSC
+$3422B937 D51F
+Y-Fix 1
+$8422E8FA 964E
+Y-Fix 2
+$8422EF2F AF19
+Unendlich Gesundheit
+$8423FFB3 A7B5
+Unendlich Leben
+$8423FF59 9BCF
+Unverwundbar
+$842EFD35 98EA
+**Gegner einfrieren
+*An
+(Druecke L3)
+$742FFE92 6160
+$84204AB8 361E
+*Aus
+(Druecke R3)
+$742FFE92 6166
+$84204AB8 C9FF
+**Hyper Modus
+*An
+(Druecke R2 & L3)
+$742FFE92 6360
+$8422C0B4 9AA8
+*Aus
+(Druecke R2 & R3)
+$742FFE92 6366
+$8422C0B4 AEF8
+
+***LILO & STITCH
+
+RCJC Pad 1
+700C6C6A ????
+RCJC Pad 2
+700C6C8C ????
+AnAc Pad 1
+700C6C68 ????
+AnAc Pad 2
+700C6C8A ????
+
+PAL2NTSC
+$342C72EA 329C
+Y-Fix 1
+$842CB58F F3C3
+Y-Fix 2
+$842CABE9 ED8F
+Kein Demoende durch Nichts Druecken
+$842D1A30 6816
+Max Spezial-Attacke
+$8427A28E F60C
+$842705C1 6D4D
+$842705C3 4955
+*Unendlich:
+Demozeit
+$842D1B7B 79C1
+Gesundheit
+$8420A686 EE14
+Leben
+$8420A648 D23A
+**Debug-Menue
+*An
+(Druecke L3)
+$742996B4 F7DA
+$342E59F5 3910
+*Aus
+(Druecke R3)
+$742996B4 F7DC
+$342E59F5 3911
+
+***RIDGE RACER TYPE 4
+
+RCJC Pad 1
+701140D2 ????
+RCJC Pad 2
+701140FA ????
+AnAc Pad 1
+701140D0 ????
+AnAc Pad 2
+701140F8 ????
+
+PAL2NTSC
+$342CC58D B3A1
+Y-Fix 1
+$842C438B 3159
+Keine Rennzeit
+$8421BE48 449A
+$8421BE14 C84E
+Unendlich Runden
+$8421BF8D F9C7
+$8421BFB5 7FDF
+Immer erster
+$8421B1F1 7FE9
+*Turbo Boost
+(Druecke Kreis)
+$74344B11 2EB7
+$842EC482 BD84
+*Zeitlimit (Note 1)
+Unendlich
+$8434C0FC 782C
+Nimmt zu
+$8434C0FC 782D
+**Hyper Modus
+*An
+(Druecke Select & L2)
+$74344B11 0FB9
+$342CC9FF B767
+*Aus
+(Druecke Select & R2)
+$74344B11 0CB6
+$342CC9FF B762
+
+***SEA-MONKEYS
+
+RCJC Pad 1
+701457B6 ????
+RCJC Pad 2
+701457D8 ????
+AnAc Pad 1
+701457B4 ????
+AnAc Pad 2
+701457D6 ????
+
+PAL2NTSC
+$342C0B49 698F
+Y-Fix 1
+$842C7A40 2A3E
+Y-Fix 2
+$842C7896 3C0A
+Unendlich Zeit
+$842CF60C B6FE
+Unendlich Versuche
+$3431FDF7 776A
+
+***TEKKEN 3
+
+RCJC Pad 1
+700AED8C ????
+RCJC Pad 2
+700AEDB6 ????
+AnAc Pad 1
+700AED8A ????
+AnAc Pad 2
+700AEDB4 ????
+
+PAL2NTSC
+$342D3E74 5CEE
+Y-Fix 1
+$842DD0BA BECA
+Unendlich Menuezeit
+$743454B0 23E2
+$843454B2 F80A
+Unendlich Kampfzeit
+$8421BC38 F26C
+Keine Stage-Zeit (Arcade)
+$8421BC28 C25C
+*Optionen anwaehlbar
+(Druecke Select im Hauptmenue)
+$742F1755 7832
+$342C27B7 655E
+Treffe ueberall (P1 & P2)
+$84210C1C 5208
+*Stage-Modifizierer (Note 1)
+Paul's Stage
+$742EC333 433F
+$342EC335 C337
+Xiaoyu's Stage
+$742EC333 433F
+$342EC335 C334
+Lei's Stage
+$742EC333 433F
+$342EC335 C332
+Eddy's Stage
+$742EC333 433F
+$342EC335 C33D
+**P1 Codes
+Unendlich Energie
+$342F089E 784E
+Keine Energie
+$342F089E 7886
+*Charakter-Modifizierer (Note 1)
+Paul
+$342EC25E C410
+Lei
+$342EC25E C412
+Xiaoyu
+$342EC25E C417
+Eddy
+$342EC25E C418
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$342EC21A C44C
+Outfit 2
+$342EC21A C44D
+*Motion Capture Modifizierer (Note 1)
+Paul
+$342F9B31 FB8B
+$342F144E 94A2
+Lei
+$342F9B31 FB89
+$342F144E 94A0
+Xiaoyu
+$342F9B31 FB8C
+$342F144E 94A5
+Eddy
+$342F9B31 FB83
+$342F144E 94AA
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$342F1444 94AC
+Paul 2
+$342F1444 94AD
+Lei 1
+$342F1444 94A8
+Lei 2
+$342F1444 94A9
+Xiaoyu 1
+$342F1444 94A2
+Xiaoyu 2
+$342F1444 94A3
+Eddy 1
+$342F1444 94BC
+Eddy 2
+$342F1444 94BD
+**P2/CPU Codes
+Unendlich Energie
+$342EF0D8 A284
+Keine Energie
+$342EF0D8 A24C
+*Charakter-Modifizierer (Note 1)
+Paul
+$342EC25C C40E
+Lei
+$342EC25C C40C
+Xiaoyu
+$342EC25C C409
+Eddy
+$342EC25C C406
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$342EC218 C44A
+Outfit 2
+$342EC218 C44B
+*Motion Capture Modifizierer (Note 1)
+Paul
+$342F9F5F FF29
+$342EFCF8 9E68
+Lei
+$342F9F5F FF2B
+$342EFCF8 9E6A
+Xiaoyu
+$342F9F5F FF2E
+$342EFCF8 9E6F
+Eddy
+$342F9F5F FF21
+$342EFCF8 9E60
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$342EFCF2 9E72
+Paul 2
+$342EFCF2 9E73
+Lei 1
+$342EFCF2 9E76
+Lei 2
+$342EFCF2 9E77
+Xiaoyu 1
+$342EFCF2 9E7C
+Xiaoyu 2
+$342EFCF2 9E7D
+Eddy 1
+$342EFCF2 9E62
+Eddy 2
+$342EFCF2 9E63
+**P2-Kontrolle Modifizierer
+*Spieler
+(Druecke L1 & L2 Pad 2)
+$742F176F 6D2E
+$342EFC0B AFFB
+*CPU
+(Druecke R1 & R2 Pad 2)
+$742F176F 622D
+$342EFC0B AFFA
+
+***TOMB RAIDER
+
+RCJC Pad 1
+7008CC2A ????
+RCJC Pad 2
+7008CC52 ????
+
+PAL2NTSC
+$34231872 7482
+Y-Fix 1
+$84239531 0191
+Unendlich Demozeit
+$842042C8 2E16
+Sudden Death Gegner
+$842640A0 8C34
+Totgeborene Gegner (Uebersteuert Sudden Death)
+$8426AEAC 6EDA
+Ueberlebe tiefen Fall
+$842652EE 4C00
+*Unendlich:
+Gesundheit
+$842644DA 3DFB
+$842644D8 0A21
+$842644DE 3E34
+$842644DC 9815
+Luft
+$84264416 3ECE
+Medipacks
+$8426BEF2 D8A0
+**Alles ausser Lara einfrieren
+*An
+(Druecke L2 & R2 & Oben)
+$742D36F0 98AD
+$84278A62 C628
+*Aus
+(Druecke L2 & R2 & Unten)
+$742D36F0 98FD
+$84278A62 E268
+**Trockenschwimmen
+*An
+(Druecke L1 & R1 & Oben)
+$742D36F0 97AC
+$842647B3 0B35
+*Aus
+(Druecke L1 & R1 & Unten)
+$742D36F0 97FC
+$842647B3 0F51
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$742D3688 83B4
+$842046C4 3223
+$742D3688 83B4
+$842046C6 0624
+*Aus
+(Druecke R2 Pad 2)
+$742D3688 89B4
+$042046C4 3226
+**Matrix Lara
+*Stufe 1
+(Druecke Select & Dreieck Pad 2)
+$742D3688 9BC5
+$34263F81 672C
+*Stufe 2
+(Druecke Select & Kreis Pad 2)
+$742D3688 ABB5
+$34263F81 672D
+*Stufe 3
+(Druecke Select & X Pad 2)
+$742D3688 CBB5
+$34263F81 672E
+*Normal
+(Druecke Select & Viereck Pad 2)
+$742D3688 0BB5
+$34263F81 6729
+
+***TONY HAWK'S PRO SKATER 2
+
+RCJC Pad 1
+700CC856 ????
+RCJC Pad 2
+700CC878 ????
+AnAc Pad 1
+700CC854 ????
+AnAc Pad 2
+700CC876 ????
+
+PAL2NTSC
+$342EE94F 89B7
+Y-Fix 1
+$842F71A5 3129
+Y-Fix 2
+$842F77F3 03F5
+Hypermodus
+$84263379 5BAB
+Slow Motion
+$8426332D 6BDF
+Zeige Frame Rate
+$84263282 6C34
+Rodney Mullen & Created Skater anwaehlbar
+$842CC525 A359
+$842CC511 D365
+$842CC48A 88F2
+$842CBB29 F95F
+$842CBAC2 FA8C
+$842CBA4E D600
+Max Punkte
+$84232FBD A4A3
+$84232FBF 7F4B
+$84230E44 951C
+$84230E46 4ED2
+Trick-Multiplikator 10
+$84230C48 68EA
+$84230C4A 4CDC
+Immer perfekte Tricks
+$84230BB1 7763
+*Unendlich:
+Zeit
+$742BDD6D C66E
+$842BDD6D D1FC
+Objekte im Park Editor
+$842D096B 6790
+Manuals
+$842413D7 7925
+Spezial-Balken
+$842473AB 26E5
+$842473A9 0D15
+$84247296 2610
+$842782FE C6BC
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$34262CA8 4618
+Y-Fix 1
+$842770A0 2814
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$742111C5 70D9
+$84275DB1 3541
+$742111C5 70D9
+$842637E7 7B69
+*Hyper
+(Druecke R1 Pad 2)
+$742111C5 7CD9
+$84275DB1 CAAD
+$742111C5 7CD9
+$842637E7 4B19
+*Normal
+(Druecke R2 Pad 2)
+$742111C5 76D9
+$84275DB1 CAAD
+$742111C5 76D9
+$842637E7 7B69
+**CONEMAN
+Unendlich Leben
+$843305ED B185
+Unverwundbar
+$843309F1 B565
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

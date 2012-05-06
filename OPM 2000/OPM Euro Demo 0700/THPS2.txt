@@ -1,0 +1,106 @@
+**Tony Hawks Pro Skater 2 Demo SCED02660
+Unendlich Spezial-Balken
+$80018878 0FFF
+$8001887A 2402
+$80018942 3C00
+$80027816 2400
+Unendlich Manuals
+$8001E806 2400
+Max Punkte
+$8006D558 FFFF
+$8006D55A 2402
+$8006F4A0 FFFF
+$8006F4A2 2402
+*Objekte im Park Editor (Note 1)
+Unendlich
+$8008F380 0023
+Nehmen zu
+$3008F380 0021
+**Slow Motion
+*An
+(Druecke L3 & L1)
+$700CC8AA FBFD
+$800AA570 0000
+*Aus
+(Druecke L3 & R1)
+$700CC8AA F7FD
+$800AA570 FFFF
+Note 1: Nur einen der Codes benutzen.
+**************
+Spiele als Rodney Mullen
+$300E02E4 0008
+Spiele als Created Skater
+$800E02E4 000D
+Unendlich Objekte im Park Editor
+$800E44D8 00FF
+Unendlich Zeit
+$700E27C0 176F
+$800E27C0 0001
+Max. Punkte Tony Hawk (Single Session)
+$801EA36C 967F
+$801EA36E 0098
+Max. Punkte Chad Muska (Single Session)
+$801EA378 967F
+$801EA37A 0098
+Max. Punkte Rodney Mullen (Single Session)
+$801EA3EC 967F
+$801EA3EE 0098
+Max. Punkte Created Skater (Single Session)
+$801E4C54 967F
+$801E4C56 0098
+Max. Spezial-Balken Tony Hawk (Single Session)
+$801EB15C 0BC0
+Max. Spezial-Balken Chad Muska (Single Session)
+$801EB168 0BC0
+Max. Spezial-Balken Rodney Mullen (Single Session)
+$801EB1DC 0BC0
+Max. Spezial-Balken Created Skater (Single Session)
+$801E5A44 0BC0
+Max. Super Spezial-Balken Tony Hawk (Single Session)
+$801EB160 0300
+Max. Super Spezial-Balken Chad Muska (Single Session)
+$801EB16C 0300
+Max. Super Spezial-Balken Rodney Mullen (Single Session)
+$801EB1E0 0300
+Max. Super Spezial-Balken Created Skater (Single Session)
+$801E5A48 0300
+Trick-Punkte x 10 Tony Hawk (Single Session)
+$701EAAE8 0001
+$801EAAE8 000A
+Trick-Punkte x 10 Chad Muska (Single Session)
+$701EAAF4 0001
+$801EAAF4 000A
+Trick-Punkte x 10 Rodney Mullen (Single Session)
+$701EAB68 0001
+$801EAB68 000A
+Trick-Punkte x 10 Created Skater (Single Session)
+$701E53D0 0001
+$801E53D0 000A
+Immer perfekte Tricks Tony Hawk (Single Session)
+$301EB204 0001
+Immer perfekte Tricks Chad Muska (Single Session)
+$301EB210 0001
+Immer perfekte Tricks Rodney Mullen (Single Session)
+$301EB284 0001
+Immer perfekte Tricks Created Skater (Single Session)
+$301E5AEC 0001
+Moon Jump Tony Hawk (Single Session) (Drücke L2)
+$700CC8AA FEFF
+$801EA230 1010
+Moon Jump Chad Muska (Single Session) (Drücke L2)
+$700CC8AA FEFF
+$801EA23C 1010
+Moon Jump Rodney Mullen (Single Session) (Drücke L2)
+$700CC8AA FEFF
+$801EA2B0 1010
+Moon Jump Created skater (Single Session) (Drücke L2)
+$700CC8AA FEFF
+$801E4B18 1010
+*-----------------------------------------------------
+*Konvertiert mit Code Solution 2k v2.4.1.1
+*(C)opyright 2000-01 by Thorsten Kaben - DarkSoft 2001
+*Support@DarkSoft2001.de - http://www.darksoft2001.de/
+*-----------------------------------------------------
+
+//========
+

@@ -1,0 +1,41 @@
+***CROC - LEGEND OF THE GOBBOS
+
+RCJC Pad 1
+70083F52 ????
+RCJC Pad 2
+7008407A ????
+AnAc Pad 1
+70083F50 ????
+AnAc Pad 2
+70084078 ????
+
+PAL2NTSC
+$30062222 0040
+Y-Fix 1
+$8005F3A8 0000
+Max Diamanten
+$8007C980 03E7
+Max Gobbos
+$3007C988 0009
+Alle Kristalle gefunden
+$3007CAE4 00FF
+*MoonJump
+(Druecke L3 & X)
+$70083F52 BFFD
+$80034F8C 0200
+$70083F52 FFFF
+$80034F8C 0002
+*Leben (Note 1)
+Unendlich
+$800346AA 2402
+Nehmen zu
+$800346A8 0001
+**Hyper Modus
+*An
+(Druecke L3 & R1)
+$70083F52 F7FD
+$3001AF04 0002
+*Aus
+(Druecke L3 & L1)
+$70083F52 FBFD
+$3001AF04 0001

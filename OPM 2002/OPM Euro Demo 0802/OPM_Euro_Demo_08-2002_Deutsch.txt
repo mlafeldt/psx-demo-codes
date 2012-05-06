@@ -1,0 +1,464 @@
+
+//=========
+
+OPM Euro Demo 08/2002 Deutsch
+
+SCED03894
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1A BUG'S LIFE
+
+RCJC Pad 1
+$700B5F52 ????
+RCJC Pad 2
+$700B5F7A ????
+AnAc Pad 1
+$700B5F50 ????
+AnAc Pad 2
+$700B5F78 ????
+
+PAL2NTSC
+$3006AB2E 0040
+Y-Fix 1
+$80067C84 0000
+Hypermodus
+$8006A34E 2400
+Unverwundbar
+$300AA74A 0021
+Unendlich Gesundheit
+$300AA74C 0004
+Unendlich Leben
+$300AA758 0009
+Max Getreidekörner
+$300AA759 0063
+Habe FLIK komplettiert
+$300AA75A 000F
+Habe Rote Beere
+(Drücke Start Pad 2)
+$700B5F7A FFF7
+$300AA74F 0000
+Habe Blaue Beere
+(Drücke Dreieck Pad 2)
+$700B5F7A EFFF
+$300AA74F 0001
+Habe Grüne Beere
+(Drücke Kreis Pad 2)
+$700B5F7A DFFF
+$300AA74F 0002
+Habe Goldene Beere
+(Drücke X Pad 2)
+$700B5F7A BFFF
+$300AA74F 0003
+Habe Violette Beere
+(Drücke Viereck Pad 2)
+$700B5F7A 7FFF
+$300AA74F 0004
+
+#1COLONY WARS VENGEANCE
+
+RCJC Pad 1
+$7005D6C2 ????
+RCJC Pad 2
+$7005D6E2 ????
+AnAc Pad 1
+$7005D6C0 ????
+AnAc Pad 2
+$7005D6E0 ????
+
+PAL2NTSC
+$300857A2 0040
+Y-Fix 1
+$8007D8F4 0000
+Unendlich Schild
+$300568C8 0064
+Unendlich Panzerung
+$300568CC 0064
+Unendlich Raketen
+$700D7C72 AC22
+$800D7C64 0005
+$700D7C72 AC22
+$800D7C66 2402
+#3Anti-Shield Laser
+Keine Überhitzung
+$8012CABC 0000
+Schnellfeuer
+$8012CAC0 0000
+#3Laser
+Keine Überhitzung
+$8012CB14 0000
+Schnellfeuer
+$8012CB18 0000
+#3Slow Motion 
+An
+(Drücke L1 Pad 2)
+$7005D6E2 FBFF
+$8007F7F0 0000
+Aus
+(Drücke L2 Pad 2)
+$7005D6E2 FEFF
+$8007F7F0 FFFF
+
+#1CROC - LEGEND OF THE GOBBOS
+
+RCJC Pad 1
+$70083F52 ????
+RCJC Pad 2
+$7008407A ????
+AnAc Pad 1
+$70083F50 ????
+AnAc Pad 2
+$70084078 ????
+
+PAL2NTSC
+$30062222 0040
+Y-Fix 1
+$8005F3A8 0000
+Max Diamanten
+$8007C980 03E7
+Max Gobbos
+$3007C988 0009
+Alle Kristalle gefunden
+$3007CAE4 00FF
+Moon Jump
+(Drücke L3 & X)
+$70083F52 BFFD
+$80034F8C 0200
+$70083F52 FFFF
+$80034F8C 0002
+#3Leben (Note 1)
+Unendlich
+$800346AA 2402
+Nehmen zu
+$800346A8 0001
+#3Hyper Modus
+An
+(Drücke L3 & R1)
+$70083F52 F7FD
+$3001AF04 0002
+Aus
+(Drücke L3 & L1)
+$70083F52 FBFD
+$3001AF04 0001
+
+#1DESTRUCTION DERBY RAW
+
+PAL2NTSC
+$700370B8 0001
+$800370B8 0000
+$700A56A0 0001
+$800A56A0 0000
+$700A748C 0001
+$800A748C 0000
+$700BCD10 0001
+$800BCD10 0000
+Alle Wagen anwählbar
+$7003E2BE 1440
+$8003E2BE 1000
+$7003E82E 1040
+$8003E82E 2400
+Max Beschleunigung
+$300C582D 0064
+$300C582E 0064
+Max Drehzahl
+$300C582F 0064
+$300C5830 0064
+Max Bodenhaftung
+$300C5831 0064
+$300C5832 0064
+Max Bremsen
+$300C5833 0064
+$300C5834 0064
+Max Widerstandsfähigkeit
+$300C5835 0064
+$300C5836 0064
+Alle Eigenschaften auf Max
+$300C582D 0064
+$B0050002 0000
+$100C582E 6464
+
+#2Einspieler-Modus
+
+RCJC Pad 1
+$700E46A2 ????
+AnAc Pad 1
+$700E46A0 ????
+
+Unzerstörbar
+$700AE83A 0096
+$800AE838 0000
+$700AE83A 0096
+$B0030002 0000
+$100E3B40 0000
+Max Punkte
+$800C2904 270F
+Immer erster
+$300C29A4 0001
+
+#2Mehrspieler-Modus
+
+RCJC Pad 1
+$700E316E ????
+RCJC Pad 2
+$700E3176 ????
+AnAc Pad 1
+$700E316C ????
+AnAc Pad 2
+$700E3174 ????
+
+#3P1
+Unzerstörbar
+$700ACA2E 0096
+$800ACA2C 0000
+$700ACA2E 0096
+$B0030002 0000
+$100E2600 0000
+Max Punkte
+$800C1368 270F
+#3P2
+Unzerstörbar
+$700AD3E6 0096
+$800AD3E4 0000
+$700AD3E6 0096
+$B0030002 0000
+$100E2630 0000
+Max Punkte
+$800C144C 270F
+
+#1DEVIL DICE
+
+RCJC Pad 1
+$70194D92 ????
+RCJC Pad 2
+$70194DBA ????
+AnAc Pad 1
+$70194D90 ????
+AnAc Pad 2
+$70194DB8 ????
+
+PAL2NTSC
+$30126E16 0040
+Y-Fix 1
+$8010E098 0000
+#2Trial-Modus
+Max Punkte
+$8018A424 423F
+$8018A426 000F
+#3Zeit (Note 1)
+Unendlich
+$800A379C 0000
+Nimmt zu
+$800A379C 0001
+#2Puzzle-Modus
+#3Schritte (Note 1)
+Unendlich
+$800EDF18 0000
+Nehmen zu
+$800EDF18 0001
+
+#1G-POLICE 1
+
+RCJC Pad 1
+$70007572 ????
+RCJC Pad 2
+$7000759A ????
+AnAc Pad 1
+$70007570 ????
+AnAc Pad 2
+$70007598 ????
+
+PAL2NTSC
+$300BD98A 0040
+Y-Fix 1
+$800BFE54 0000
+Unendlich Schild
+(Analog-Modus ein Pad 2)
+$70007598 7300
+$801EF3E0 1389
+Unendlich Munition alle Waffen
+$8004746C 0063
+$8004746E 3413
+
+#1PONG
+
+RCJC Pad 1
+$701FE512 ????
+RCJC Pad 2
+$701FE53A ????
+AnAc Pad 1
+$701FE510 ????
+AnAc Pad 2
+$701FE538 ????
+
+PAL2NTSC
+$300A98F6 0040
+Y-Fix 1
+$800AB32C 0000
+Kein Timeout
+$800DCEC8 0000
+$800DD020 0000
+Anzahl der Punkte P1
+$301F7F74 00??
+Anzahl der Punkte P2
+$301F80CC 00??
+#3Stage-Modifizierer (Note 1)
+Penguin Pranks
+$300DD084 0000
+Soccer
+$300DD084 0001
+Log Jam
+$300DD084 0002
+Balloons
+$300DD084 0003
+Polar Pivot
+$300DD084 0005
+Jungle Spikes
+$300DD084 0006
+#3Hypermodus
+An
+(Drücke L3)
+$701FE512 FFFD
+$800A9116 2400
+Aus
+(Drücke R3)
+$701FE512 FFFB
+$800A9116 1040
+
+#1R-TYPE DELTA
+
+RCJC Pad 1
+$7018095A ????
+RCJC Pad 2
+$7018097C ????
+AnAc Pad 1
+$70180958 ????
+AnAc Pad 2
+$7018097A ????
+
+PAL2NTSC
+$7012D87C 0008
+$3012D87A 0040
+Y-Fix 1
+$70132514 0010
+$80132514 0000
+Y-Fix 2
+$701326C0 0010
+$801326C2 2400
+Unendlich Credits
+$3001B14C 0009
+Unendlich Leben
+$3001B14E 0009
+Schnelle Punktzunahme
+$8017E58C FFFF
+Max Punkte
+$8017E58C 967F
+$8017E58E 0098
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$7018097C FBFF
+$8012D0FA 1040
+$7018097C FBFF
+$80133FAC 0000
+Hyper
+(Drücke R1 Pad 2)
+$7018097C F7FF
+$8012D0FA 2400
+$7018097C F7FF
+$80133FAC FFFF
+Normal
+(Drücke R2 Pad 2)
+$7018097C FDFF
+$8012D0FA 1040
+$7018097C FDFF
+$80133FAC FFFF
+
+#1STUART LITTLE 2
+
+RCJC Pad 1
+$700CEC7E ????
+RCJC Pad 2
+$700CECEE ????
+AnAc Pad 1
+$700CEC7C ????
+AnAc Pad 2
+$700CECEC ????
+
+PAL2NTSC
+$300A3492 0040
+Y-Fix 1
+$800A0650 0000
+Hypermodus
+$000A2FF0 0000
+Unendlich Leben
+$300CF061 0063
+Unendlich Herzen
+$300CF062 0008
+Max Herzanzahl
+$300CF063 0008
+Unverwundbar
+$300CF064 00F0
+Unendlich Zeit
+$000227C0 0000
+Unendlich Bälle
+$8005749E 2402
+Sudden Death
+(Drücke L3)
+$700CEC7E FFFD
+$300CF060 0001
+Fliegen
+(Halte Dreieck)
+$700CEC7E EFFF
+$3007BB18 0023
+$700CEC7E FFFF
+$3007BB18 0021
+
+#1VICTORY BOXING 2
+
+RCJC Pad 1
+$7005AB62 ????
+RCJC Pad 2
+$7005AB84 ????
+AnAc Pad 1
+$7005AB60 ????
+AnAc Pad 2
+$7005AB82 ????
+
+PAL2NTSC
+$30027392 0040
+Y-Fix 1
+$80028EEC 0000
+Y-Fix 2
+$8002909A 2400
+Hypermodus
+$80026B42 2400
+Setze Zeit auf 3:00
+(Drücke R3)
+$7005AB62 FFFB
+$8007EEF6 00B4
+Setze Zeit auf 0
+(Drücke L3)
+$7005AB62 FFFD
+$8007EEF6 0000
+#2P1
+Unendlich Kraft
+$8005A0AC 21C8
+Unendlich Energie
+$8005A0AE 21C8
+Keine Knock Outs
+$3005A0B0 0000
+#2CPU
+Keine Kraft
+$8005A55C 0000
+Keine Energie
+$8005A55E 0000
+5 Knock Outs
+$3005A560 0005
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

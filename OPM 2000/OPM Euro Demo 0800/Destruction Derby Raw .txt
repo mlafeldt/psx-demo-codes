@@ -1,0 +1,80 @@
+**Destruction Derby Raw Codes
+RCJC - Einspieler-Modus
+700F21AE ????
+RCJC - Mehrspieler-Modus P1
+700F0C7A ????
+RCJC - Mehrspieler-Modus P2
+700E31AC ????
+PAL2NTSC (Note 1)
+$700370B80001
+$800370B80000
+$700A56A00001
+$800A56A00000
+$700A748C0001
+$800A748C0000
+$700BCD100001
+$800BCD100000
+Max Beschleunigung
+$300C582D0064
+$300C582E0064
+Max Drehzahl
+$300C582F0064
+$300C58300064
+Max Bodenhaftung
+$300C58310064
+$300C58320064
+Max Bremsen
+$300C58330064
+$300C58340064
+Max Widerstandsfaehigkeit
+$300C58350064
+$300C58360064
+Alle Eigenschaften auf Maximum
+$B00600020000
+$100C582C6464
+*Einspieler-Modus
+Unzerstoerbar
+$700AE83A0096
+$800AE8380000
+$700AE83A0096
+$B00300020000
+$100E3B400000
+Habe 5000 Punkte
+(Druecke L2 & R2)
+$700F21AEFCFF 
+$800C29041388
+Max Punkte
+$800C2904270F
+Immer Erster
+$300C29A40001 
+*Mehrspieler-Modus
+*P1
+Unzerstoerbar
+$700ACA2E0096
+$800ACA2C0000
+$700ACA2E0096
+$B00300020000
+$100E26000000
+Habe 5000 Punkte
+(Druecke Select)
+$700F0C7AFFFE
+$800C13681388
+Max Punkte
+$800C1368270F
+*P2
+Unzerstoerbar
+$700AD3E60096
+$800AD3E40000
+$700AD3E60096
+$B00300020000
+$100E26300000
+Habe 5000 Punkte
+(Druecke Select)
+$700E31ACFFFE
+$800C144C1388
+Max Punkte
+$800C144C270F
+
+
+Note 1: Um die Bildschirmposition zu korrigieren, 
+die eingebaute Option des Spiels verwenden. 

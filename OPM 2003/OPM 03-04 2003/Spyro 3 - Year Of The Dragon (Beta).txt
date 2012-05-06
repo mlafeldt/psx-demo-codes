@@ -1,0 +1,58 @@
+***SPYRO 3 - YEAR OF THE DRAGON
+
+//BETA DEMO!!
+//SPYRO3.EXE CRC-32: 0xBAC9EA09
+
+RCJC Pad 1
+70077C66 ????
+RCJC Pad 2
+7007825A ????
+AnAc Pad 1
+70077C64 ????
+AnAc Pad 2
+70078258 ????
+
+PAL2NTSC
+$3006519E 0040
+Y-Fix 1
+$80060F30 0000
+Y-Fix 2
+$800610DE 2400
+Kein Demoende durch Nichts Druecken
+$3004183A 0020
+Unendlich Gesundheit
+$30076DD4 0003
+Max Dracheneier
+$30073130 0096
+Max Edelsteine
+$800731E4 FFFE
+*Leben (Note 1)
+Unendlich
+$80050904 0000
+Nehmen zu
+$80050904 0001
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$70077C64 7300
+$3005F9D8 0000
+*Aus
+(Analog-Modus aus)
+$70077C64 4100
+$3005F9D8 000B
+**Skate Park
+Brauche nur 1 Dino einfangen
+$700894D6 AC62
+$800894D0 000F
+$700894D6 AC62
+$800894D2 2402
+**Zeit einfrieren
+*An
+(Druecke L3)
+$70077C66 FFFD
+$8003D4CE 3C00
+*Aus
+(Druecke R3)
+$70077C66 FFFB
+$8003D4CE AC82
+

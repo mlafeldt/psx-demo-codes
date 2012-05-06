@@ -1,0 +1,59 @@
+***ACE COMBAT 3 - ELECTROSPHERE
+
+RCJC Pad 1
+700C6042 ????
+RCJC Pad 2
+700C6064 ????
+AnAc Pad 1
+700C6040 ????
+AnAc Pad 2
+700C6062 ????
+
+PAL2NTSC
+$300A912A 0040
+Y-Fix 1
+$800AF024 0000
+Unendlich Zeit
+$8005AC72 2400
+$8005AC8A 2400
+Unendlich Energie
+$3013E5D2 0064
+Schnellfeuer
+$8007818A 3C00
+Keine Anzeigen
+$3013E1C8 0001
+Unsichtbarer Jet
+$0013E344 0000
+*Raketen (Note 1)
+Unendlich
+$80078272 2400
+Nehmen zu
+$80078270 0001
+**Pause-Modus
+*An
+(Druecke Select Pad 2)
+$700C6064 FFFE
+$800A892A 2400
+*Aus
+(Druecke Start Pad 2)
+$700C6064 FFF7
+$800A892A 1440
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700C6064 FBFF
+$800A84D8 0005
+$700C6064 FBFF
+$800A8DCC 0000
+*Hyper
+(Druecke R1 Pad 2)
+$700C6064 F7FF
+$800A84D8 0000
+$700C6064 F7FF
+$800A8DCC 0001
+*Normal
+(Druecke R2 Pad 2)
+$700C6064 FDFF
+$800A84D8 0005
+$700C6064 FDFF
+$800A8DCC 0001

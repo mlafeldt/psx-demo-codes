@@ -1,0 +1,32 @@
+***CRASH BANDICOOT
+
+RCJC Pad 1
+70007572 ????
+RCJC Pad 2
+7000759A ????
+AnAc Pad 1
+70007570 ????
+AnAc Pad 2
+70007598 ????
+
+PAL2NTSC
+$300441EA 0040
+Y-Fix 1
+$80044E98 0000
+Kein Demoende durch Nichts Druecken
+$8001E78A 2400
+Unendlich Masken (nach Aufnahme)
+$30096D8D 0002
+Unendlich Leben
+$300A3855 0063
+99 Wumpa-Fruechte
+$300A3851 0063
+**Hyper Modus
+*An
+(Druecke R1 & R2)
+$70007572 F5FF
+$8004365E 2400
+*Aus
+(Druecke L1 & L2)
+$70007572 FAFF
+$8004365E 1440

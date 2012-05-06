@@ -1,0 +1,53 @@
+***HUGO - DIAMANTENFIEBER
+
+RCJC Pad 1
+70094A52 ????
+RCJC Pad 2
+70094A74 ????
+AnAc Pad 1
+70094A50 ????
+AnAc Pad 2
+70094A72 ????
+
+PAL2NTSC
+$30068F3A 0040
+Y-Fix
+$80069D74 0000
+Alles gefunden
+$30166724 004A
+$30166730 0004
+*Lebensenergie auffuellen
+(Druecke R1 & R2)
+$70094A52 F5FF
+$3016671C 000A
+*Leben (Note 1)
+Unendlich
+$80044DEA 2400
+Nehmen zu
+$80044DE8 0001
+**Pause-Modus
+*An
+(Druecke Start)
+$70094A52 FFF7
+$8006873A 2400
+*Aus
+(Druecke Dreieck)
+$70094A52 EFFF
+$8006873A 1440
+**Hypermodus
+*Normale Geschwindigkeit
+(Druecke L1 Pad 2)
+$70094A74 FBFF
+$30068BDC 0001
+*Doppelte Geschwindigkeit
+(Druecke L2 Pad 2)
+$70094A74 FEFF
+$30068BDC 0002
+*Dreifache Geschwindigkeit
+(Druecke R1 Pad 2)
+$70094A74 F7FF
+$30068BDC 0003
+*Vierfache Geschwindigkeit
+(Druecke R2 Pad 2)
+$70094A74 FDFF
+$30068BDC 0004

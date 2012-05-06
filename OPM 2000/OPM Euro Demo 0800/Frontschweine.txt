@@ -1,0 +1,128 @@
+**Frontschweine Codes
+RCJC
+70062F8A ????
+PAL2NTSC
+$7002EAB80001
+$8002EAB80000
+Y-Fix
+$800230A00000
+Mehr Zeit fuer Aktion
+(Druecke L1 & R1)
+$70062F8AF3FF
+$8002D7300F00
+Weniger Zeit fuer Aktion (Note 1)
+(Druecke L2 & R2)
+$70062F8AFCFF
+$8002D730FF00
+UE MU & Gegenstaende
+$800A9E680000
+$800A9E6A0000
+*Einspieler-Modus
+*P1 (Note 2)
+UE Energie Schwein 1
+$8010C2009600
+UE Energie Schwein 2
+$8010B0B89600
+UE Energie Schwein 3
+$80109F709600
+UE Energie alle Schweine
+$B00311480000
+$10109F709600
+*CPU
+SuddenDeath Schwein 1 
+(Druecke R2 & Oben)
+$70062F8AFDEF
+$80108A580000
+SuddenDeath Schwein 2
+(Druecke R2 & Rechts)
+$70062F8AFDDF
+$801079100000
+SuddenDeath Schwein 3 
+(Druecke R2 & Unten)
+$70062F8AFDBF
+$801067C80000
+SuddenDeath Schwein 4 
+(Druecke R2 & Links)
+$70062F8AFD7F
+$80103A280000
+SuddenDeath alle Schweine
+(Druecke R1 & R2)
+$70062F8AF5FF
+$80103A280000
+$70062F8AF5FF
+$B00311480000
+$101067C80000
+*Mehrspieler-Modus
+*P1
+UE Energie Schwein 1 (Note 2)
+$801090609600
+UE Energie Schwein 2 (Note 2)
+$80107F189600
+UE Energie Schwein 3 (Note 2)
+$80106DD09600
+UE Energie Schwein 4 (Note 2)
+$80105C889600
+UE Energie alle Schweine (Note 2)
+$B00411480000
+$10105C889600
+SuddenDeath Schwein 1 
+(Druecke L2 & Oben)
+$70062F8AFEEF
+$801090600000
+SuddenDeath Schwein 2
+(Druecke L2 & Rechts)
+$70062F8AFEDF
+$80107F180000
+SuddenDeath Schwein 3 
+(Druecke L2 & Unten)
+$70062F8AFEBF
+$80106DD00000
+SuddenDeath Schwein 4 
+(Druecke L2 & Links)
+$70062F8AFE7F
+$80105C880000
+SuddenDeath alle Schweine
+(Druecke L1 & L2)
+$70062F8AFAFF
+$B00411480000
+$10105C880000
+*P2
+UE Energie Schwein 1 (Note 2)
+$80104B409600
+UE Energie Schwein 2 (Note 2)
+$801039F89600
+UE Energie Schwein 3 (Note 2)
+$801028B09600
+UE Energie Schwein 4 (Note 2)
+$801017689600
+UE Energie alle Schweine (Note 2)
+$B00411480000
+$101017689600
+SuddenDeath Schwein 1 
+(Druecke R2 & Oben)
+$70062F8AFDEF
+$80104B400000
+SuddenDeath Schwein 2
+(Druecke R2 & Rechts)
+$70062F8AFDDF
+$801039F80000
+SuddenDeath Schwein 3 
+(Druecke R2 & Unten)
+$70062F8AFDBF
+$801028B00000
+SuddenDeath Schwein 4 
+(Druecke R2 & Links)
+$70062F8AFD7F
+$801017680000
+SuddenDeath alle Schweine
+(Druecke R1 & R2)
+$70062F8AF5FF
+$B00411480000
+$101017680000
+
+
+Note 1: Damit ist sofort die andere Mannschaft am Zug. 
+Note 2: Diese Codes duerfen erst waehrend der 
+eigentlichen Mission eingeschaltet werden!
+
+

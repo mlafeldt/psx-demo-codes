@@ -1,0 +1,26 @@
+***TOMMI MÄKINEN RALLY
+
+RCJC Pad 1
+700BD61A ????
+RCJC Pad 2
+700BD63C ????
+AnAc Pad 1
+700BD618 ????
+AnAc Pad 2
+700BD63A ????
+
+PAL2NTSC
+$3007C40A 0040
+Y-Fix 1
+$80077844 0000
+Y-Fix 2
+$800779F2 2400
+Immer erster
+$300BA8E0 0001
+Stoppuhr eingefroren
+$30030452 0080
+*Checkpoint-Zeit (Note 1)
+Unendlich
+$80032808 0000
+Nimmt zu
+$80032808 0001

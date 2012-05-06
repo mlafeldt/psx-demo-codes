@@ -1,0 +1,34 @@
+***GHOUL PANIC
+
+RCJC Pad 1
+701EBA42 ????
+RCJC Pad 2
+701EBA64 ????
+AnAc Pad 1
+701EBA40 ????
+AnAc Pad 2
+701EBA62 ????
+
+PAL2NTSC
+$301D8A0A 0040
+Y-Fix 1
+$801D09A4 0000
+Unendlich Munition (P1 & P2)
+$8019DCEE 2402
+*Zeit ausschalten
+(Druecke R3)
+$701EBA42 FFFB
+$801ECCF8 8000
+*Setze Zeit auf 0
+(Druecke L3)
+$701EBA42 FFFD
+$801ECCF8 0001
+**Slow Motion 
+*An
+(Druecke L1)
+$701EBA42 FBFF
+$801D243C 0000
+*Aus
+(Druecke L2)
+$701EBA42 FEFF
+$801D243C FFFF

@@ -1,0 +1,45 @@
+***PONG
+
+RCJC Pad 1
+701FE512 ????
+RCJC Pad 2
+701FE53A ????
+AnAc Pad 1
+701FE510 ????
+AnAc Pad 2
+701FE538 ????
+
+PAL2NTSC
+$300A98F6 0040
+Y-Fix 1
+$800AB32C 0000
+Kein Timeout
+$800DCEC8 0000
+$800DD020 0000
+Anzahl der Punkte P1
+$301F7F74 00??
+Anzahl der Punkte P2
+$301F80CC 00??
+*Stage-Modifizierer (Note 1)
+Penguin Pranks
+$300DD084 0000
+Soccer
+$300DD084 0001
+Log Jam
+$300DD084 0002
+Balloons
+$300DD084 0003
+Polar Pivot
+$300DD084 0005
+Jungle Spikes
+$300DD084 0006
+**Hypermodus
+*An
+(Druecke L3)
+$701FE512 FFFD
+$800A9116 2400
+*Aus
+(Druecke R3)
+$701FE512 FFFB
+$800A9116 1040
+

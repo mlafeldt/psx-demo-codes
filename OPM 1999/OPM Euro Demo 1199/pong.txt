@@ -1,0 +1,23 @@
+**PONG
+
+
+Kein Timeout
+$800DCEC8 0000
+$800DD020 0000
+Anzahl der Tore P1
+$301F7F74 00??
+Anzahl der Tore P2
+$301F80CC 00??
+*Stage-Modifizierer 
+Penguin Pranks
+$300DD084 0000 
+Soccer
+$300DD084 0001 
+Log Jam
+$300DD084 0002 
+Balloons
+$300DD084 0003 
+Polar Pivot
+$300DD084 0005 
+Jungle Spikes
+$300DD084 0006 

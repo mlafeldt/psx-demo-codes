@@ -1,0 +1,388 @@
+
+//=========
+
+"OPM Euro Demo 07/2002 Deutsch SCED03893"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***3D LEMMINGS
+
+RCJC Pad 1
+70148C22 ????
+RCJC Pad 2
+70148C4A ????
+
+PAL2NTSC
+$3420C696 C294
+Unendlich Zeit
+$0426BEB2 D8E0
+
+***GHOUL PANIC
+
+RCJC Pad 1
+701EBA42 ????
+RCJC Pad 2
+701EBA64 ????
+AnAc Pad 1
+701EBA40 ????
+AnAc Pad 2
+701EBA62 ????
+
+PAL2NTSC
+$343881C5 33A5
+Y-Fix 1
+$84380274 B602
+Unendlich Munition (P1 & P2)
+$843CD735 4115
+*Zeit ausschalten
+(Druecke R3)
+$743BB09E BBA4
+$843BC634 0AFA
+*Setze Zeit auf 0
+(Druecke L3)
+$743BB09E BBA2
+$843BC634 8AFB
+**Slow Motion
+*An
+(Druecke L1)
+$743BB09E BFA0
+$84382FF3 E195
+*Aus
+(Druecke L2)
+$743BB09E BAA1
+$84382FF3 1E59
+
+***JACKIE CHAN'S STUNTMASTER
+
+RCJC Pad 1
+700E83DE ????
+RCJC Pad 2
+700E8412 ????
+AnAc Pad 1
+700E83DC ????
+AnAc Pad 2
+700E8410 ????
+
+PAL2NTSC
+$3421F61C A04E
+Y-Fix 1
+$84270E44 66D2
+Y-Fix 2
+$84270CB2 505E
+Unendlich Gesundheit
+$34361F05 A7DB
+Unendlich Leben
+$34361C82 A698
+Sudden Death
+$342D66FC 240E
+Habe alle roten Drachen
+$342B0DBC 8264
+Habe alle goldenen Drachen
+$342B0DBF 8168
+
+***PRO PINBALL - BIG RACE USA
+
+RCJC Pad 1
+700AB31A ????
+RCJC Pad 2
+700AB34A ????
+AnAc Pad 1
+700AB318 ????
+AnAc Pad 2
+700AB348 ????
+
+PAL2NTSC
+$342D8A98 F8BE
+Y-Fix 1
+$842DDBF7 B98D
+Unendlich Zeit
+$342C09FE 7828
+Unendlich Kugeln
+$8420FE80 AA73
+$8420FE82 8E7A
+Starte mit vielen Punkten
+$742F07EB 773D
+$842F07E9 BEBF
+$742F07EB 773D
+$842F07EB 4CD4
+Max Zaehler
+$842F07A5 35B4
+$842F07A7 7786
+
+***STAR WARS - JEDI POWER BATTLES
+
+RCJC Pad 1
+700B457E ????
+RCJC Pad 2
+700B45A0 ????
+AnAc Pad 1
+700B457C ????
+AnAc Pad 2
+700B459E ????
+
+PAL2NTSC
+$34227D7B 192F
+Y-Fix 1
+$8422ECFA 9A52
+Y-Fix 2
+$8422E32F AB1D
+Unendlich Credits
+$842EC5F9 3A7D
+Viele Punkte
+$842EC5F1 8746
+$342EC5F3 C578
+Unendlich Lebensenergie
+$342EC5F5 C583
+Max Lebensenergie
+$342EC5F7 C585
+Unendlich Macht
+$342EC5CD B55B
+Max Macht
+$342EC5CF B55D
+Unendlich Spezialgegenstaende
+$842EC5C3 B64F
+*Demozeit (Note 1)
+Unendlich
+$8427012F 550F
+Nimmt zu
+$84270129 69FC
+**Hypermodus
+*Normal
+(Druecke L1 Pad 2)
+$742EBE7A 1BC6
+$3426300A 6ABF
+*Schneller
+(Druecke L2 Pad 2)
+$742EBE7A 1EC7
+$3426300A 6ABC
+*Noch schneller
+(Druecke R1 Pad 2)
+$742EBE7A 17C6
+$3426300A 6ABD
+*Viel schneller
+(Druecke R2 Pad 2)
+$742EBE7A 1DC6
+$3426300A 6ABA
+
+***STREETFIGHTER EX2 PLUS
+
+RCJC Pad 1
+701EC272 ????
+RCJC Pad 2
+701EC294 ????
+AnAc Pad 1
+701EC270 ????
+AnAc Pad 2
+701EC292 ????
+
+PAL2NTSC
+$34397545 1709
+Y-Fix 1
+$84390A02 AC20
+Unendlich Menuezeit
+$74349F2F DA35
+$04349F2F 25B9
+Unendlich Kampfzeit
+$74351482 5558
+$04351482 AA96
+**P1 Codes
+Unendlich Energie
+$343B6478 2890
+Sudden Death
+$343B6478 2858
+Unendlich SuperCombo-Energie
+$343B6479 29CF
+Keine SuperCombo-Energie
+$343B6479 2959
+Max Punkte
+$843B6600 8CE1
+$843B6602 1A14
+**Immer Excel (Note 2)
+*An
+(Druecke Start & L2)
+$743BC8BE 8281
+$843B6422 E740
+*Aus
+(Druecke Start & L1)
+$743BC8BE 8780
+$843B6422 18AE
+**P2 Codes
+Unendlich Energie
+$343B8DFD 4125
+Sudden Death
+$343B8DFD 41ED
+Unendlich SuperCombo-Energie
+$343B8DFC 4278
+Keine SuperCombo-Energie
+$343B8DFC 42EE
+**Immer Excel (Note 2)
+*An
+(Druecke Start & L2 Pad 2)
+$743BC858 826B
+$843B8DA7 CEAB
+*Aus
+(Druecke Start & L1 Pad 2)
+$743BC858 876A
+$843B8DA7 3143
+
+***VIVA FOOTBALL
+
+RCJC Pad 1
+7007026A ????
+RCJC Pad 2
+7007028C ????
+AnAc Pad 1
+70070268 ????
+AnAc Pad 2
+7007028A ????
+
+PAL2NTSC
+$342641EF 29BF
+Y-Fix 1
+$8426A55D DD35
+Y-Fix 2
+$84269BBB D701
+Unendlich Spielzeit
+$7428C5E1 1BAF
+$3428C5E1 B7AD
+**Hypermodus
+*An
+(Druecke L3)
+$7422F9BF 6A45
+$3427ED65 85D7
+*Aus
+(Druecke R3)
+$7422F9BF 6A43
+$3427ED65 85D4
+*Alle Tore zaehlen fuer: (Note 1)
+England
+$742C623A 216D
+$342C6208 1256
+Argentinien
+$742C623A 216D
+$342C627C 22A6
+*England
+20 Tore
+$342D9F33 FD99
+0 Tore
+$342D9F33 FD8D
+Jedes Tor zaehlt ??-fach
+$742C623A 216D
+$300999A0 00??
+*Argentinien
+20 Tore
+$342D9F37 FD85
+0 Tore
+$342D9F37 FD91
+Jedes Tor zaehlt ??-fach
+$742C623A 216D
+$300999F4 00??
+
+***WCW NITRO
+
+RCJC Pad 1
+7006AB12 ????
+RCJC Pad 2
+7006AC4E ????
+AnAc Pad 1
+7006AB10 ????
+AnAc Pad 2
+7006AC4C ????
+
+PAL2NTSC
+$34278F0F E7D9
+Y-Fix 1
+$84262D99 5569
+Alle Optionen anwaehlbar
+$7422A72F C311
+$8422A72F C371
+$7422A70B C7F5
+$8422A70B C395
+Schnelle Heilung
+$74223A44 4CEC
+$84223A46 687A
+Keine Heilung
+$74223A44 4CEC
+$84223A46 6870
+*Lebensenergie auffuellen
+(Druecke L2 & R2)
+$742351C7 B118
+$843A6076 25B3
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$34262CA8 4618
+Y-Fix 1
+$842770A0 2814
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$742111C5 70D9
+$84275DB1 3541
+$742111C5 70D9
+$842637E7 7B69
+*Hyper
+(Druecke R1 Pad 2)
+$742111C5 7CD9
+$84275DB1 CAAD
+$742111C5 7CD9
+$842637E7 4B19
+*Normal
+(Druecke R2 Pad 2)
+$742111C5 76D9
+$84275DB1 CAAD
+$742111C5 76D9
+$842637E7 7B69
+**BOUNCER 2
+Max Diamanten
+$8435B75F C25D
+*Leben (Note 1)
+Unendlich
+$74351406 55D4
+$84351404 8E1A
+Nehmen zu
+$74351406 55D4
+$84351406 AA1B
+**SUPER BUB
+Kann durch Waende gehen
+$74316FB9 085C
+$84316FB9 3D0B
+$74316F15 094F
+$84316F15 3D5F
+*P1 Codes
+Unendlich Zeit fuer Aktion
+$8431F8B6 709E
+Starte mit 1 Sieg
+$7431DB9D 5563
+$3431DB9D 5562
+*Habe Superkugeln
+(Druecke L2)
+$74211038 84DF
+$3431F8BE 72AD
+$74211038 84DF
+$3431F8BC 72AF
+*P2/CPU Codes
+Unendlich Zeit fuer Aktion
+$8430187C 9604
+Starte mit 1 Sieg
+$7431F858 72C8
+$3431F858 72C9
+*Habe Superkugeln
+(Druecke L2 Pad 2)
+$742111C5 75DA
+$34301874 9407
+$742111C5 75DA
+$34301876 9401
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: In normaler Welt aktivieren, um Excel-Fähigkeiten auch dort anwenden zu können.
+In Excel-Phase aktivieren, um unendlich Excel-Zeit zu erlangen.
+
+//=========

@@ -1,0 +1,348 @@
+
+//=========
+
+"OPM Euro Demo 01/02 2003 Deutsch SCED03903"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***COOL BOARDERS 4
+
+RCJC Pad 1
+700714BA ????
+RCJC Pad 2
+700714DC ????
+AnAc Pad 1
+700714B8 ????
+AnAc Pad 2
+700714DA ????
+
+PAL2NTSC
+$3005C32E 0040
+Y-Fix 1
+$80059390 0000
+Y-Fix 2
+$8005953E 2400
+Max Punkte
+$8009E930 FFFF
+$3009E932 000E
+Jeder Trick bringt 4.000 Punkte
+$80036058 0FA0
+$8003605A 2442
+Immer erster
+$3004E3D6 0060
+Zeit eingefroren
+$300512EA 0000
+Max Sprungkraft
+$8009EB2E 0600
+
+***ISS PRO EVOLUTION 2
+
+RCJC Pad 1
+70077A26 ????
+RCJC Pad 2
+70077A48 ????
+AnAc Pad 1
+70077A24 ????
+AnAc Pad 2
+70077A46 ????
+
+PAL2NTSC
+$3004BA8E 0040
+Y-Fix 1
+$80040834 0000
+Unendlich Spielzeit
+$80021FFE 3C00
+Jedes Tor zaehlt ??-fach
+$70101E1E 2462
+$30101E1C 00??
+*Alle Tore zaehlen fuer: (Note 1)
+Heimmannschaft
+$70101E22 A082
+$80101E04 0000
+$70101E22 A082
+$80101E06 2402
+Gastmannschaft
+$70101E22 A082
+$80101E04 0001
+$70101E22 A082
+$80101E06 2402
+*Heimmannschaft (Note 1)
+20 Tore
+$3007792C 0014
+0 Tore
+$3007792C 0000
+*Gastmannschaft (Note 1)
+20 Tore
+$3007792D 0014
+0 Tore
+$3007792D 0000
+
+***JINX
+
+//MAIN.EXE CRC-32: 0xCB72D853
+
+RCJC Pad 1
+700B1EE2 ????
+RCJC Pad 2
+700B1F0A ????
+AnAc Pad 1
+700B1EE0 ????
+AnAc Pad 2
+700B1F08 ????
+
+PAL2NTSC
+$300857EE 0040
+Y-Fix 1
+$80082858 0000
+Y-Fix 2
+$80082A06 2400
+Unendlich Gesundheit
+$8006C716 3C00
+Unendlich Leben
+$8006C86C 0000
+Unverwundbar (Charakter & Gegner)
+$80063288 0000
+$8006329C 05DC
+$8006329E 2402
+Max Cherry Bombs
+$800CC9A4 03E7
+$300CC9A6 0001
+Max Fire Balls
+$800CC9AC 03E7
+$300CC9AE 0001
+Max Sterne
+$300CC9FC 0063
+Dumme Gegner
+$0001F310 0000
+**Gegner kleben fest
+*An
+(Druecke L3)
+$700B1EE2 FFFD
+$8001F2BA 3400
+*Aus
+(Druecke R3)
+$700B1EE2 FFFB
+$8001F2BA 0040
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$700B1F0A F7FF
+$8008505C 0000
+*Aus
+(Druecke R2 Pad 2)
+$700B1F0A FDFF
+$8008505C 000B
+
+***STAR TREK - INVASION
+
+RCJC Pad 1
+7006D13A ????
+RCJC Pad 2
+7006D162 ????
+AnAc Pad 1
+7006D138 ????
+AnAc Pad 2
+7006D160 ????
+
+PAL2NTSC
+$3004F7C2 0040
+Y-Fix 1
+$80019DB4 0000
+Unendlich Energie (*)
+$8006618C 03E8
+Unendlich Hilfsenergie (*)
+$70062264 0000
+$30062265 00FF
+Alle Optionen freigeschaltet (*)
+$3007A37C 0041
+$3007A3FC 0041
+$3007A404 0041
+$3007A42C 0041
+*Energie-Torpedos (Note 1)
+Unendlich
+$7007EF74 FFFF
+$8007EF74 0000
+Nehmen zu
+$7007EF74 FFFF
+$8007EF74 0001
+*Zeit (Note 1)
+Unendlich
+$7008F194 FFFF
+$8008F194 0000
+Nimmt zu (*)
+$7008F194 FFFF
+$8008F194 0001
+**Slow Motion
+*An
+(Druecke L3)
+$7006D13A FFFD
+$8001BCB0 0000
+*Aus
+(Druecke R3)
+$7006D13A FFFB
+$8001BCB0 FFFF
+
+***TONY HAWK'S PRO SKATER 2
+
+RCJC Pad 1
+700CC856 ????
+RCJC Pad 2
+700CC878 ????
+AnAc Pad 1
+700CC854 ????
+AnAc Pad 2
+700CC876 ????
+
+PAL2NTSC
+$300B12A6 0040
+Y-Fix 1
+$800A8B7C 0000
+Y-Fix 2
+$800A8D2A 2400
+Hypermodus
+$8003C8A8 0000
+Slow Motion
+$8003C8FC 0000
+Zeige Frame Rate
+$8003C950 0000
+Rodney Mullen & Created Skater anwaehlbar
+$80093ECE 1000
+$80093EFA 1000
+$80093F66 3C00
+$800940F2 1000
+$8009411E 1000
+$80094192 3C00
+Max Punkte
+$8006D558 FFFF
+$8006D55A 2402
+$8006F4A0 FFFF
+$8006F4A2 2402
+Trick-Multiplikator 10
+$8006F6AC 000A
+$8006F6AE 2402
+Immer perfekte Tricks
+$8006F154 0000
+*Unendlich:
+Zeit
+$700E27B0 1760
+$800E27B0 0001
+Objekte im Park Editor
+$8008F380 0023
+Manuals
+$8001E804 0000
+Spezial-Balken
+$80018878 0FFF
+$8001887A 2402
+$80018942 3C00
+$8002781E 3C00
+
+***TREASURE PLANET
+
+RCJC Pad 1
+700C463E ????
+RCJC Pad 2
+700C46AE ????
+AnAc Pad 1
+700C463C ????
+AnAc Pad 2
+700C46AC ????
+
+PAL2NTSC
+$300A19B6 0040
+Y-Fix 1
+$8009A7F0 0000
+Hypermodus
+$8009D3A0 0000
+Schnelle Geldzunahme
+$300C23A8 00FF
+Unverwundbar
+$300C4DCE 0019
+*Unendlich:
+Leben
+$300C4DC9 0009
+Gesundheit
+$300C4DCA 0003
+Schild
+$300C4DCB 0008
+Checkpoint-Zeit (Montressor-Rennen)
+$700E0128 AE00
+$800E012A 3C00
+
+***WORMS WORLD PARTY
+
+RCJC Pad 1
+701E5D1A ????
+RCJC Pad 2
+701E5D3C ????
+AnAc Pad 1
+701E5D18 ????
+AnAc Pad 2
+701E5D3A ????
+
+PAL2NTSC
+$30037EC6 0040
+Y-Fix 1
+$80038FA0 0000
+Y-Fix 2
+$8003914E 2400
+Sudden Death alle Wuermer
+$70076C40 0084
+$80076C42 AC80
+*Sofortiger Sieg fuer Team 1
+(Druecke L2 & R2)
+$701E5D1A FCFF
+$30153DA4 0001
+*Zeit nimmt zu
+(Halte R3)
+$70086B18 00A0
+$80086B18 FFEC
+$701E5D1A FFFB
+$80086B18 00A0
+*Setze Zeit auf 0
+(Druecke L3)
+$701E5D1A FFFD
+$001A5830 0000
+*Unendlich alle Waffen/Gegenstaende
+Team 1
+$70153DAC FFFF
+$B0400004 0000
+$10153DB0 FFFF
+Team 2
+$70153FC4 FFFF
+$B0400004 0000
+$10153FC8 FFFF
+
+***WRC ARCADE
+
+//WRC.EXE CRC-32: 0x95504537
+
+RCJC Pad 1
+7009F306 ????
+RCJC Pad 2
+7009F3AA ????
+AnAc Pad 1
+7009F304 ????
+AnAc Pad 2
+7009F3A8 ????
+
+PAL2NTSC
+$30077822 0040
+Y-Fix 1
+$80075608 0000
+Y-Fix 2
+$800757B6 2400
+Stoppuhr eingefroren
+$3005C562 0020
+*Fliegen
+(Halte L3 & X)
+$7009F306 BFFD
+$80056088 0000
+$9009F306 BFFD
+$80056088 FFC0
+
+(*) Codes von Nachbrenner
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

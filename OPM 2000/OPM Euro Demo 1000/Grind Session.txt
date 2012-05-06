@@ -1,0 +1,61 @@
+**GRIND SESSION
+
+JC
+700B82CC ????
+
+PAL2NTSC
+$7007F1D00008
+$8007F1CC0000
+$7007F1D203E0
+$8007F1CE2402
+$70080A880010
+$80080A880000
+$70080C340010
+$80080C362400
+Max Spezial-Balken
+$800A3998D000
+Max Punkte
+$800A9DA0E0FF
+$800A9DA205F5
+Starte mit Max Punkten
+$700A9DA00000
+$800A9DA0FFFF
+$700A9DA20000
+$800A9DA2000F
+UE Zeit (Note 1)
+$800A9E50FFFF
+$300A9E520005
+Zeit nimmt zu (Note 1) (by Nachbrenner)
+$8003C1641021
+**Stoppuhr angehalten (Note 1)
+*An
+(Druecke L1 & R1 & Oben)
+$700B82CC100C
+$8003C1680000
+*Aus
+(Druecke L1 & R1 & Unten)
+$700B82CC400C
+$8003C16804D0
+Vandalismus komplett
+$300A39A8000A
+Techniklinien komplett
+$300A39AC000A
+Perferkt Grinden
+$800A9AD40000
+$800A9AD80000
+**LEVEL-CODES 
+*Da Banks (NYC)
+Habe alle Punkte 
+$800A54802710
+Habe alle Pro-Punkte 
+$800A54C04E20
+Habe alle Stereos 
+$300A5500000A
+Habe alle Techniklinien 
+$300A5540000A
+*Slam City Jam 
+Beste Plazierung 
+$800A548C0001
+
+
+Note 1: Immer nur einen Code verwenden!

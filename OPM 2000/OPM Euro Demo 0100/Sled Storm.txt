@@ -1,0 +1,65 @@
+**Sled Storm Codes
+RJC P1
+$700CB6F2 ????
+RJC P2
+$700CB75C ????
+PAL2NTSC
+$7009AD400001
+$8009AD400000
+Y-Fix 
+$8007A2180000
+Immer auf Platz 1
+$800CBD280001
+Viele Punkte
+$800CBD30FFFF
+$300CBD32000E
+Rennzeit 00:00:00
+$800CBD480000
+*Charakter-Modifizierer (Note 1&2)
+Ryan
+$800B35F60000
+Jackal
+$800B35F60001
+Tracey
+$800B35F60002 
+Gio
+$800B35F60003 
+Travis
+$800B35F60004 
+Nadia
+$800B35F60005 
+Jay
+$800B35F60006 
+Sergei
+$800B35F60007 
+*Stage-Modifizierer (Note 1)
+Forest Stage
+$800B35BA0000
+Kodiak Canyon
+$800B35BA0002
+Super Snocross 1
+$800B35BA0009
+*Tageszeit-Modifizierer (Note 1)
+Tag
+$300B35C20000
+Nebel
+$300B35C20001
+*Wetter-Modifizierer (Note 1)
+Schnee
+$300B35C40000
+Regen
+$300B35C40001
+Klar
+$300B35C40002 
+P1 kann durch Gegner fahren
+$300CBC840027
+P2 kann durch Gegner fahren
+$300CC1B40027
+P3 kann durch Gegner fahren
+$300CC6E40027
+P4 kann durch Gegner fahren
+$300CCC140027
+
+Note 1: Immer nur einen Code aktivieren! 
+Note 2: Diese Codes funktionieren nur, wenn 
+man als Strecke "Super Snocross 1" auswaehlt.

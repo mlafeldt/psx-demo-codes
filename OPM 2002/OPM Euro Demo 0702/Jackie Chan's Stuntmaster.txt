@@ -1,0 +1,27 @@
+***JACKIE CHAN'S STUNTMASTER
+
+RCJC Pad 1
+700E83DE ????
+RCJC Pad 2
+700E8412 ????
+AnAc Pad 1
+700E83DC ????
+AnAc Pad 2
+700E8410 ????
+
+PAL2NTSC
+$30040CCA 0040
+Y-Fix 1
+$8002F4A4 0000
+Y-Fix 2
+$8002F652 2400
+Unendlich Gesundheit
+$301314D4 00C8
+Unendlich Leben
+$30131750 000A
+Sudden Death
+$30089C16 00C0
+Habe alle roten Drachen
+$300EF751 000A
+Habe alle goldenen Drachen
+$300EF752 0003

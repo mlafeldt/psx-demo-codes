@@ -1,0 +1,30 @@
+***DEVIL DICE
+
+RCJC Pad 1
+70194D92 ????
+RCJC Pad 2
+70194DBA ????
+AnAc Pad 1
+70194D90 ????
+AnAc Pad 2
+70194DB8 ????
+
+PAL2NTSC
+$30126E16 0040
+Y-Fix 1
+$8010E098 0000
+**Trial-Modus
+Max Punkte
+$8018A424 423F
+$8018A426 000F
+*Zeit (Note 1)
+Unendlich
+$800A379C 0000
+Nimmt zu
+$800A379C 0001
+**Puzzle-Modus
+*Schritte (Note 1)
+Unendlich
+$800EDF18 0000
+Nehmen zu
+$800EDF18 0001

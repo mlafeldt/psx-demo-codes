@@ -1,0 +1,121 @@
+***THE ITALIAN JOB
+
+RCJC Pad 1 - ItalianJob Modus
+70178794 ????
+RCJC Pad 2 - ItalianJob Modus
+701787D6 ????
+RCJC Pad 1 - Challenge Modus
+70136BAC ????
+RCJC Pad 2 - Challenge Modus
+70136BEE ????
+
+PAL2NTSC
+$70027754 0008
+$30027752 0040
+Y-Fix 1
+$7002835C 0010
+$8002835C 0000
+Y-Fix 2
+$70028508 0010
+$8002850A 2400
+**ItalianJob Modus
+Kein Schaden
+$7005812C 00C4
+$3005812E 0080
+Unendlich Zeit
+$70055F48 0058
+$30055F4A 0040
+Spritztour
+$700F256C 66F4
+$800F256C 0000
+*Nitro Boost (Note 2)
+(Druecke R2 & X)
+$70178794 BDFF
+$5005F58C 0004
+$??004224 C0DE
+$90178794 BDFF
+$5005F58C 0004
+$2110A200 DEAD
+*Fliegen
+(Halte L1 & X)
+$70178794 BBFF
+$3005F79C 0023
+$90178794 BBFF
+$3005F79C 0021
+*Notbremse
+(Druecke Kreis)
+$7005F77A 2400
+$8005F77A 0C01
+$70178794 DFFF
+$8005F77A 2400
+$70178794 DFFF
+$00116134 0000
+**Spielgeschwindigkeit
+*Normal
+(Druecke L1 Pad 2)
+$701787D6 FBFF
+$3008CB10 0002
+*Schneller
+(Druecke L2 Pad 2)
+$701787D6 FEFF
+$3008CB10 0000
+*Langsamer
+(Druecke R1 Pad 2)
+$701787D6 F7FF
+$3008CB10 0004
+*Noch langsamer
+(Druecke R2 Pad 2)
+$701787D6 FDFF
+$3008CB10 000A
+**Challenge Modus
+Kein Schaden
+$7004ED14 00C4
+$3004ED16 0080
+Unendlich Zeit
+$70068E50 0058
+$30068E52 0040
+Brauche nur 1 Fahne
+$70068A7A 2442
+$30068A78 0015
+*Nitro Boost (Note 2)
+(Druecke R2 & X)
+$70136BAC BDFF
+$50056144 0004
+$??004224 C0DE
+$90136BAC BDFF
+$50056144 0004
+$2110A200 DEAD
+*Fliegen
+(Halte L1 & X)
+$70136BAC BBFF
+$30056328 0023
+$90136BAC BBFF
+$30056328 0021
+*Notbremse
+(Druecke Kreis)
+$70056332 2400
+$80056332 0C01
+$70136BAC DFFF
+$80056332 2400
+$70136BAC DFFF
+$000C6B5C 0000
+**Spielgeschwindigkeit
+*Normal
+(Druecke L1 Pad 2)
+$70136BEE FBFF
+$300898A4 0002
+*Schneller
+(Druecke L2 Pad 2)
+$70136BEE FEFF
+$300898A4 0000
+*Langsamer
+(Druecke R1 Pad 2)
+$70136BEE F7FF
+$300898A4 0004
+*Noch langsamer
+(Druecke R2 Pad 2)
+$70136BEE FDFF
+$300898A4 000A
+
+Note 2 : Durch die entsprechenden Werte kann man im Prinzip so schnell fahren, wie man will. Man sollte es aber nicht übertreiben, da das Fahrzeug bei zu hoher Geschwindigkeit unkontrollierbar wird. Versuche daher die folgenden Werte : 02 - Schneller; 03 - Noch schneller; 04 - Viel schneller; 05 - ... usw.
+Zum Lenken den Analog-Modus benutzen.

@@ -1,0 +1,24 @@
+***LOMAX IM LEMMINGLAND
+
+RCJC Pad 1
+70074F2A ????
+RCJC Pad 2
+70074F32 ????
+
+PAL2NTSC
+$30063D76 0040
+Y-Fix
+$8005F96C 0000
+Unverwundbar
+$80074F86 FFFF
+Habe Helm
+$80074F78 FFFF
+99 Lemminge gerettet
+$30074F8C 0063
+Max Muenzen
+$300750B0 0063
+*Leben (Note 1)
+Unendlich
+$8001CA46 2400
+Nehmen zu
+$8001CA44 0001

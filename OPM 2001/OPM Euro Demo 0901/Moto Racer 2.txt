@@ -1,0 +1,43 @@
+***MOTO RACER 2
+
+RCJC Pad 1
+700EF73A ????
+RCJC Pad 2
+700EF75C ????
+AnAc Pad 1
+700EF738 ????
+AnAc Pad 2
+700EF75A ????
+
+PAL2NTSC
+$3009FB5A 0040
+$3010CDA6 0040
+$30123802 0040
+Y-Fix
+$800A16B4 0000
+$8010DF70 0000
+$801249CC 0000
+Rundenzeiten 00:00:00
+$3002C6FE 0060
+*Unendlich Checkpoint-Zeit
+(Druecke L1 & R1 nach Rennstart)
+$700EF73A F3FF
+$8002C65E 3C00
+**Pause-Modus
+*An
+(Druecke Start)
+$700EF73A FFF7
+$8009F30A 2400
+*Aus
+(Druecke Dreieck)
+$700EF73A EFFF
+$8009F30A 1440
+**Slow Motion 
+*An
+(Druecke L3)
+$700EF73A FFFD
+$800A3228 0000
+*Aus
+(Druecke R3)
+$700EF73A FFFB
+$800A3228 FFFF

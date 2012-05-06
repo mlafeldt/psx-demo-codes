@@ -1,0 +1,48 @@
+***DIE MUMIE
+
+RCJC Pad 1
+7009E49A ????
+RCJC Pad 2
+7009E4BE ????
+AnAc Pad 1
+7009E498 ????
+AnAc Pad 2
+7009E4BC ????
+
+PAL2NTSC
+$3006DB42 0040
+Y-Fix 1
+$8006E5F0 0000
+Y-Fix 2
+$8006E79E 2400
+Unendlich Leben
+$7009EA18 0003
+$3009EA18 00FF
+Unendlich Energie
+$300FF7E4 0064
+*Habe:
+Unendlich Pistolen MU
+$8009EA36 80FF
+Unendlich Schrotflinten MU
+$8009EA3A 80FF
+Unendlich Maschinengewehr MU
+$8009EA3E 80FF
+Unendlich Dynamit-Stangen
+$8009EA42 80FF
+Unendlich Wurfbomben
+$8009EA46 80FF
+Grosses Schwert
+$8009EA4A 80FF
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$7009E4BE FBFF
+$8006D7E4 0000
+*Hyper
+(Druecke R1 Pad 2)
+$7009E4BE F7FF
+$8006D7E4 0002
+*Normal
+(Druecke R2 Pad 2)
+$7009E4BE FDFF
+$8006D7E4 0001

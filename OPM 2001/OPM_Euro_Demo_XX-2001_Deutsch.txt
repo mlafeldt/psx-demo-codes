@@ -1,0 +1,17 @@
+
+//=========
+
+OPM Euro Demo XX/2001 Deutsch
+
+SCED03479
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@XploderFreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

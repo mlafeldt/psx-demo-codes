@@ -1,0 +1,43 @@
+***FIFA 2000
+
+RCJC Pad 1
+70045C8A ????
+RCJC Pad 2
+70045CAC ????
+AnAc Pad 1
+70045C88 ????
+AnAc Pad 2
+70045CAA ????
+
+PAL2NTSC
+$300214AA 0040
+Y-Fix 1
+$8001E414 0000
+Y-Fix 2
+$8001E5C2 2400
+Unendlich Spielzeit
+$800981DA 2400
+Alle Optionen anwaehlbar
+$301528F0 0001
+$301528F2 0001
+Jedes Tor zaehlt ??-fach
+$300A2A84 00??
+*Manchester United
+20 Tore
+$3003C164 0014
+0 Tore
+$3003C164 0000
+*Bayern Muenchen
+20 Tore
+$3003C168 0014
+0 Tore
+$3003C168 0000
+**Hyper Modus
+*An
+(Druecke L3)
+$70045C8A FFFD
+$3002BFB8 0005
+*Aus
+(Druecke R3)
+$70045C8A FFFB
+$3002BFB8 0001

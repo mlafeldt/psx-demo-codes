@@ -1,0 +1,92 @@
+***LEGEND OF DRAGOON
+
+RCJC Pad 1
+700C84A0 ????
+RCJC Pad 2
+700C8530 ????
+AnAc Pad 1
+700C849E ????
+AnAc Pad 2
+700C852E ????
+
+PAL2NTSC
+$30040486 0040
+Y-Fix 1
+$800412C0 0000
+Max Gold
+$800C433C E0FF
+$800C433E 05F5
+Spielzeit 0:00:00
+$000C4348 0000
+**Keine Zwischenkaempfe (Note 1)
+*An
+(Druecke L3)
+$700C84A0 FFFD
+$800EE95E AC80
+*Aus
+(Druecke R3)
+$700C84A0 FFFB
+$800EE95E AC82
+*Dart Codes
+Unendlich HP
+$800C45DC 270F
+Unendlich MP
+$800C45DE 03E7
+Unendlich SP
+$800C45E0 03E7
+Max Level
+$300C45E6 003C
+Max Dragoon Level
+$300C45E7 0005
+Max EXP
+$800C45D4 E0FF
+$800C45D6 05F5
+*Lavitz Codes
+Unendlich HP
+$800C4608 270F
+Unendlich MP
+$800C460A 03E7
+Unendlich SP
+$800C460C 03E7
+Max Level
+$300C4612 003C
+Max Dragoon Level
+$300C4613 0005
+Max EXP
+$800C4600 E0FF
+$800C4602 05F5
+*Shana Codes
+Unendlich HP
+$800C4634 270F
+Unendlich MP
+$800C4636 03E7
+Unendlich SP
+$800C4638 03E7
+Max Level
+$300C463E 003C
+Max Dragoon Level
+$300C463F 0005
+Max EXP
+$800C462C E0FF
+$800C462E 05F5
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700C8530 FBFF
+$8003F7D4 0005
+$700C8530 FBFF
+$80040128 0000
+*Hyper
+(Druecke R1 Pad 2)
+$700C8530 F7FF
+$8003F7D4 0000
+$700C8530 F7FF
+$80040128 0001
+*Normal
+(Druecke R2 Pad 2)
+$700C8530 FDFF
+$8003F7D4 0005
+$700C8530 FDFF
+$80040128 0001
+
+Note 1: Nachdem man auf der Landkarte einen anderen Abschnitt betreten hat, muss der Code erneut aktiviert werden.

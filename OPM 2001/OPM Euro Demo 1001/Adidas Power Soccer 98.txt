@@ -1,0 +1,47 @@
+***ADIDAS POWER SOCCER 98
+
+RCJC Pad 1
+700E3CCE ????
+RCJC Pad 2
+700E3CF2 ????
+AnAc Pad 1
+700E3CCC ????
+AnAc Pad 2
+700E3CF0 ????
+
+PAL2NTSC
+$300B1EDE 0040
+Y-Fix
+$800B381C 0000
+Unendlich Spielzeit
+$3001F646 0020
+Jedes Tor zaehlt ??-fach
+$3008F314 00??
+*Heimmannschaft
+20 Tore
+$301044DC 0014
+0 Tore
+$301044DC 0000
+*Gastmannschaft
+20 Tore
+$301044DE 0014
+0 Tore
+$301044DE 0000
+**Pause-Modus
+*An
+(Druecke Start)
+$700E3CCE FFF7
+$800B1632 2400
+*Aus
+(Druecke Dreieck)
+$700E3CCE EFFF
+$800B1632 1440
+**Slow Motion 
+*An
+(Druecke L3)
+$700E3CCE FFFD
+$800B550C 0000
+*Aus
+(Druecke R3)
+$700E3CCE FFFB
+$800B550C FFFF

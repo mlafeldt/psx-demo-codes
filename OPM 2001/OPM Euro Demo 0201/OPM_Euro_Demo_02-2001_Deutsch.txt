@@ -1,0 +1,271 @@
+
+//=========
+
+OPM Euro Demo 02/2001 Deutsch
+
+SCED02667
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@XploderFreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1BUGS BUNNY & TAZ - TIME BUSTERS
+
+RCJC Pad 1
+$7009C21E ????
+RCJC Pad 2
+$7009C240 ????
+AnAc Pad 1
+$7009C21C ????
+AnAc Pad 2
+$7009C23E ????
+
+PAL2NTSC
+$3007DDB6 0040
+Y-Fix 1
+$80075994 0000
+Y-Fix 2
+$80075B42 2400
+Unendlich Karotten
+$30018058 0064
+Unendlich Clipboards
+$3001809F 0003
+Gegner punkten nicht
+(The Pelota Game)
+$30098B29 0000
+#3Unendlich Gesundheit
+Bugs Bunny
+$700EBFF8 0005
+$300EBFF8 0006
+Taz
+$700EC1A8 0005
+$300EC1A8 0006
+Bugs & Taz
+$7001D4B0 1023
+$8001D4B0 0023
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$7009C240 FBFF
+$3006BB14 0005
+Hyper
+(Drücke R1 Pad 2)
+$7009C240 F7FF
+$3006BB14 0000
+Normal
+(Drücke R2 Pad 2)
+$7009C240 FDFF
+$3006BB14 0002
+
+#1CHICKEN RUN 
+
+RCJC Pad 1
+$700A5BA2 ????
+RCJC Pad 2
+$700A5BC4 ????
+AnAc Pad 1
+$700A5BA0 ????
+AnAc Pad 2
+$700A5BC2 ????
+
+PAL2NTSC
+$30084E52 0040
+Y-Fix 1
+$8008063C 0000
+Y-Fix 2
+$800807EA 2400
+Kein Demoende durch Nichts Drücken
+$800956EC 0000
+Vibration: An
+$300A5D88 0001
+Habe alle Kartenteile
+$B0070002 0000
+$1009F092 0101
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$700A5BC4 FBFF
+$8007EFA0 0005
+$700A5BC4 FBFF
+$800820D4 0000
+Hyper
+(Drücke R1 Pad 2)
+$700A5BC4 F7FF
+$8007EFA0 0000
+$700A5BC4 F7FF
+$800820D4 FFFF
+Normal
+(Drücke R2 Pad 2)
+$700A5BC4 FDFF
+$8007EFA0 0005
+$700A5BC4 FDFF
+$800820D4 FFFF
+#3Demozeit (Note 1)
+Unendlich
+$8002CF7A 3400
+Nimmt zu
+$8002CF74 0001
+#3Rosenkohl (Note 1)
+Unendlich
+$3009F070 000F
+Nimmt zu
+$80060610 0001
+#3Zeit eingefroren (Fowl Shot)
+An
+(Drücke L3)
+$700A5BA2 FFFD
+$8006C2AA 3C00
+Aus
+(Drücke R3)
+$700A5BA2 FFFB
+$8006C2AA AC62
+#3Inventar Modifizierer
+Inventarplatz 1
+$8009F0A2 00??
+Inventarplatz 2
+$8009F0A4 00??
+Inventarplatz 3
+$8009F0A6 00??
+Inventarplatz 4
+$8009F0A8 00??
+Inventarplatz 5
+$8009F0AA 00??
+Inventarplatz 6
+$8009F0AC 00??
+
+#1SYDNEY 2000
+
+RCJC Pad 1
+$7009F262 ????
+RCJC Pad 2
+$7009F286 ????
+AnAc Pad 1
+$7009F260 ????
+AnAc Pad 2
+$7009F284 ????
+
+XPloderCheckPlus
+$7001201C 4800
+$80012020 E080
+$70050E9C 4800
+$80050EA0 E080
+$700C001C 4800
+$800C0020 E080
+XPloderCheckPlus (alternativ)
+$9001201C 4800
+$500005F4 0004
+$00388040 DEAD
+$7001201C 4800
+$000005F4 0000
+$7001201C 4800
+$80012020 E080
+PAL2NTSC
+$70059F04 0008
+$30059F02 0040
+$7005CF1C 0008
+$3005CF1A 0040
+Y-Fix 1
+$70056C18 0010
+$80056C18 0000
+$70058178 0010
+$80058178 0000
+#3Pause-Modus
+An
+(Drücke Select)
+$7009F262 FFFE
+$80058CCE 2400
+Aus
+(Drücke Start)
+$7009F262 FFF7
+$80058CCE 1440
+
+#1TOMB RAIDER IV - DIE LETZTE OFFENBARUNG
+
+RCJC Pad 1
+$700A1DF2 ????
+RCJC Pad 2
+$700A1E16 ????
+AnAc Pad 1
+$700A1DF0 ????
+AnAc Pad 2
+$700A1E14 ????
+
+PAL2NTSC
+$3006B73E 0040
+Y-Fix 1
+$80067670 0000
+Kein Demoende durch Nichts Drücken
+$8009E3B8 0000
+Fackel brennt bis fallengelassen
+$700A2FAC 0007
+$300A2FCE 000F
+Spider Lara
+$800A2FB6 0001
+Habe antike Münze
+$300A30C1 00FF
+Habe Edelstein
+$300A30C2 0001
+Lara fliegt
+(Halte Viereck)
+$700A1DF2 7FFF
+$801CD098 FFC0
+Weiter Sprung
+(Drücke Viereck & Oben)
+$700A1DF2 7FEF
+$801CD096 00B6
+#3Unendlich:
+Sprinten
+$8009F494 0078
+Luft
+$800A2FBE 0708
+Gesundheit
+$801CD09A 0400
+Kleine Medipacks 
+$800A310C FFFF
+Grosse Medipacks 
+$800A310E FFFF
+Magnesiumfackeln 
+$800A3110 FFFF
+Alle Gegenstände
+$B0030002 0000
+$100A310C FFFF
+#3Unendlich Munition:
+UZI
+$800A3114 FFFF
+Revolver
+$800A3116 FFFF
+Gewehr
+$800A3118 FFFF
+$800A311A FFFF
+Alle Waffen
+$B0040002 0000
+$100A3114 FFFF
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$700A1E16 FBFF
+$8006BE3C 0002
+Hyper
+(Drücke R1 Pad 2)
+$700A1E16 F7FF
+$8006BE3C 0000
+Normal
+(Drücke R2 Pad 2)
+$700A1E16 FDFF
+$8006BE3C 0001
+
+Index für Inventar Modifizierer
+
+00 - Nothing (Nichts)
+01 - Old Butter Knife (Altes Buttermesser)
+02 - Broken Shears (Zerbrochene Schere)
+03 - Wire Cutters (Drahtschneider)
+06 - Boots (Stiefel)
+0A - Matches (Streichhölzer)
+0B - Fireworks (Feuerwerkskörper)
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

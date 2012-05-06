@@ -1,0 +1,71 @@
+***CRASH TEAM RACING
+
+RCJC Pad 1
+700995F6 ????
+RCJC Pad 2
+70099618 ????
+AnAc Pad 1
+700995F4 ????
+AnAc Pad 2
+70099616 ????
+
+PAL2NTSC
+$3007B12A 0040
+Y-Fix 1
+$8007BF64 0000
+Y-Fix 2
+$8007C112 2400
+Kein Demoende durch Nichts Druecken
+$8003C196 2400
+**Einspieler-Modus
+Starte in letzter Runde
+$701EBE60 0000
+$301EBE60 0002
+Rennzeit 0:00:00
+$80037F18 0021
+Max Wumpa-Fruechte
+$301EBE50 0064
+Pick-Up Modifizierer
+$301EBE54 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3)
+$700995F6 FFFD
+$301EBE55 0009
+**Zweispieler-Modus
+*P1
+Starte in letzter Runde
+$701E9B34 0000
+$301E9B34 0002
+Max Wumpa-Fruechte
+$301E9B24 0064
+Pick-Up Modifizierer
+$301E9B28 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3)
+$700995F6 FFFD
+$301E9B29 0009
+*P2
+Starte in letzter Runde
+$701EA3BC 0000
+$301EA3BC 0002
+Max Wumpa-Fruechte
+$301EA3AC 0064
+Pick-Up Modifizierer
+$301EA3B0 00??
+*Pick-Up 9mal verfuegbar
+(Druecke L3 Pad 2)
+$70099618 FFFD
+$301EA3B1 0009
+
+Index fuer Pick-Up Modifizierer
+
+00 - Turbo-Boost
+01 - Kanonenkugel-Bombe
+02 - Zielsuchende Rakete
+03 - TNT Box
+04 - Reagenzglas
+05 - Sprungfeder
+07 - Voodoo-Maske
+08 - Uhr
+09 - Blitzkugel
+0F - Nichts

@@ -1,0 +1,38 @@
+***FUSSBALL LIVE! 2
+
+RCJC Pad 1
+7007E886 ????
+RCJC Pad 2
+7007E8A8 ????
+AnAc Pad 1
+7007E884 ????
+AnAc Pad 2
+7007E8A6 ????
+
+PAL2NTSC
+$3002CA0A 0040
+Y-Fix 1
+$80023EC0 0000
+Unendlich Spielzeit
+$800B75A6 AE40
+Jedes Tor zaehlt ??-fach
+$300B636C 00??
+*Deutschland
+20 Tore
+$30112358 0014
+0 Tore
+$30112358 0000
+*Niederlande
+20 Tore
+$3011235A 0014
+0 Tore
+$3011235A 0000
+**Slow Motion 
+*An
+(Druecke L3)
+$7007E886 FFFD
+$30026A9C 0000
+*Aus
+(Druecke R3)
+$7007E886 FFFB
+$30026A9C 0001

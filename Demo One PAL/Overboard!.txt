@@ -1,0 +1,33 @@
+**OVERBOARD!
+
+RCJC Pad 1
+700BD2AA ????
+RCJC Pad 2
+700BD612 ????
+
+PAL2NTSC
+$70083B44 0008
+$30083B42 0040
+Y-Fix
+$7008600C 0010
+$8008600C 0000
+Unendlich Energie
+$800B7736 3FC0
+*Alle Schaetze gefunden
+(Druecke Viereck)
+$700BD2AA 7FFF
+$301EA420 0010
+*Leben (Note 1)
+Unendlich
+$70036234 002C
+$80036236 3C00
+Nehmen zu
+$70036234 002C
+$80036230 0001
+*Munition alle Waffen (Note 1)
+Unendlich
+$700491D8 0078
+$800491DA 3C00
+Nimmt zu
+$700491D8 0078
+$300491D4 0021

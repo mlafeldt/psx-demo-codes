@@ -1,0 +1,165 @@
+
+//=========
+
+Future Demo Disc 12
+
+SCED00364
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1CRASH BANDICOOT
+
+RCJC Pad 1
+$70007572 ????
+RCJC Pad 2
+$7000759A ????
+AnAc Pad 1
+$70007570 ????
+AnAc Pad 2
+$70007598 ????
+
+PAL2NTSC
+$300441EA 0040
+Y-Fix 1
+$80044E98 0000
+Kein Demoende durch Nichts Drücken
+$8001E78A 2400
+Unendlich Masken (nach Aufnahme)
+$30096D8D 0002
+Unendlich Leben
+$300A3855 0063
+99 Wumpa-Früchte
+$300A3851 0063
+#3Hyper Modus
+An
+(Drücke R1 & R2)
+$70007572 F5FF
+$8004365E 2400
+Aus
+(Drücke L1 & L2)
+$70007572 FAFF
+$8004365E 1440
+
+#1DIE HARD TRILOGY
+
+RCJC Pad 1
+$7001AF02 ????
+RCJC Pad 2
+$7001AF82 ????
+AnAc Pad 1
+$7001AF00 ????
+AnAc Pad 2
+$7001AF80 ????
+
+PAL2NTSC
+$30077D3A 0040
+Y-Fix 1 (Note 1)
+$800797C4 0000
+Bild nach oben/unten schieben (Note 1)
+(Drücke Oben/Unten Pad 2)
+$900078023C0A
+$500078000050
+$01000A3C82AF
+$4A3500000000
+$07000B3CC497
+$6B3500000000
+$00004895EFFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BFFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$500797BC0004
+$001E000CBEEF
+$0007978C0000
+Unendlich Zeit
+$80022006 2400
+Unendlich Munition alle Waffen
+$8003FDEE 2400
+Unendlich Lebensenergie
+$80040E5E 2400
+Max Punkte
+$800B0F84 FFFF
+$800B0F86 FFFF
+Habe Leuchtspurgeschosse
+$301EE056 0001
+#3Raketen (Note 1)
+Unendlich
+$8004139E 2400
+Nehmen zu
+$8004139C 0001
+#3Granaten (Note 1)
+Unendlich
+$800413FE 2400
+Nehmen zu
+$800413FC 0001
+#3Waffen Modifizierer
+Habe Pistole 
+(Drücke Dreieck Pad 2)
+$7001AF82 EFFF
+$B0020008 0000
+$101EE050 0001
+Habe MP5 
+(Drücke Kreis Pad 2)
+$7001AF82 DFFF
+$B0020008 0000
+$101EE050 0003
+Habe Schrotflinte 
+(Drücke X Pad 2)
+$7001AF82 BFFF
+$B0020008 0000
+$101EE050 0004
+Habe M16 
+(Drücke Viereck Pad 2)
+$7001AF82 7FFF
+$B0020008 0000
+$101EE050 0005
+Habe M60 Maschinengewehr 
+(Drücke Select Pad 2)
+$7001AF82 FFFE
+$B0020008 0000
+$101EE050 0006
+Habe AK 47 
+(Drücke Start Pad 2)
+$7001AF82 FFF7
+$B0020008 0000
+$101EE050 0007
+
+#1FORMULA 1
+
+RCJC Pad 1
+$700D1CE6 ????
+RCJC Pad 2
+$700D1CEE ????
+AnAc Pad 1
+$700D1CE4 ????
+AnAc Pad 2
+$700D1CEC ????
+
+PAL2NTSC
+$30096DF6 0040
+Unendlich Checkpoint-Zeit
+$8002B172 3C00
+Immer gute Traktion & Haftung
+$3005938A 00A0
+#3Rundenzeit eingefroren
+An
+(Drücke L2 & R2 & Oben)
+$700D1CE6 FCEF
+$80019DC2 2400
+Aus
+(Drücke L2 & R2 & Unten)
+$700D1CE6 FCBF
+$80019DC2 0C00
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

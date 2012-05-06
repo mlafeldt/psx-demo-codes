@@ -1,0 +1,37 @@
+***TOCA 2 TOURING CARS
+
+RCJC Pad 1
+700E1CB6 ????
+RCJC Pad 2
+700E1CD8 ????
+AnAc Pad 1
+700E1CB4 ????
+AnAc Pad 2
+700E1CD6 ????
+
+PAL2NTSC
+$300C03F6 0040
+Y-Fix 1
+$800BCB40 0000
+Y-Fix 2
+$800BCCEE 2400
+Immer gute Traktion & Haftung
+$3005A21A 0040
+**Zeit eingefroren
+*An
+(Druecke L2 & R2 & Oben)
+$700E1CB6 FCEF
+$800A2A9A 3C00
+*Aus
+(Druecke L2 & R2 & Unten)
+$700E1CB6 FCBF
+$800A2A9A AF84
+**Durch Waende fahren
+*An
+(Druecke L3)
+$700E1CB6 FFFD
+$8005F3F2 1000
+*Aus
+(Druecke R3)
+$700E1CB6 FFFB
+$8005F3F2 0620

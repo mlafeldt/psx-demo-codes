@@ -1,0 +1,29 @@
+**SHEEP, DOG 'N' WOLF
+
+RCJC Pad 1
+700B2232 ????
+RCJC Pad 2
+700B2262 ????
+Analog Activator Pad 1
+700BC544 000?
+Analog Activator Pad 2
+700BC634 000?
+
+PAL2NTSC
+$700920DC 0008
+$300920DA 0040
+Y-Fix
+$70092F14 0010
+$80092F14 0000
+Blinder Hund
+$7006EDF4 082C
+$8006EDF6 3C00
+**Slow Motion 
+*An
+(Aktiviere Analog LED Pad 2)
+$700BC634 0001
+$8009497C 0000
+*Aus
+(Deaktiviere Analog LED Pad 2)
+$700BC634 0000
+$8009497C FFFF

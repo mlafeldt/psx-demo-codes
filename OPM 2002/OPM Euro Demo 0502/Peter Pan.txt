@@ -1,0 +1,29 @@
+***PETER PAN
+
+RCJC Pad 1
+700ED3DA ????
+RCJC Pad 2
+700ED3FC ????
+AnAc Pad 1
+700ED3D8 ????
+AnAc Pad 2
+700ED3FA ????
+
+PAL2NTSC
+$300D1AB6 0040
+Y-Fix 1
+$800CA270 0000
+Y-Fix 2
+$800CA41E 2400
+Kein Demoende durch Nichts Druecken
+$8006A6EE 3C00
+*Unverwundbar
+(Analog-Modus ein)
+$700ED3D8 7300
+$8010D3E6 0100
+Unendlich Herzen
+$300EE94A 000A
+Max Herzanzahl
+$300EE950 000A
+Max Federn
+$800EE94E 03E7

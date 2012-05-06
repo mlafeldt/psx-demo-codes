@@ -1,0 +1,32 @@
+***TAI FU
+
+RCJC Pad 1
+7007AEB2 ????
+RCJC Pad 2
+7007AED4 ????
+AnAc Pad 1
+7007AEB0 ????
+AnAc Pad 2
+7007AED2 ????
+
+PAL2NTSC
+$3006BB16 0040
+Y-Fix 1
+$800646C0 0000
+Kein Demoende durch Nichts Druecken
+$00021CF0 0000
+Unendlich Leben
+$301272D4 0064
+Unendlich Gesundheit
+$301265AE 00A0
+Unendlich Chi
+$30127306 0008
+**Hyper Modus
+*An
+(Druecke L3)
+$7007AEB2 FFFD
+$3006AA94 0000
+*Aus
+(Druecke R3)
+$7007AEB2 FFFB
+$3006AA94 0005

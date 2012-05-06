@@ -1,0 +1,85 @@
+***CHICKEN RUN 
+
+RCJC Pad 1
+700A5BA2 ????
+RCJC Pad 2
+700A5BC4 ????
+AnAc Pad 1
+700A5BA0 ????
+AnAc Pad 2
+700A5BC2 ????
+
+PAL2NTSC
+$30084E52 0040
+Y-Fix 1
+$8008063C 0000
+Y-Fix 2
+$800807EA 2400
+Kein Demoende durch Nichts Druecken
+$800956EC 0000
+Vibration: An
+$300A5D88 0001
+Habe alle Kartenteile
+$B0070002 0000
+$1009F092 0101
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700A5BC4 FBFF
+$8007EFA0 0005
+$700A5BC4 FBFF
+$800820D4 0000
+*Hyper
+(Druecke R1 Pad 2)
+$700A5BC4 F7FF
+$8007EFA0 0000
+$700A5BC4 F7FF
+$800820D4 FFFF
+*Normal
+(Druecke R2 Pad 2)
+$700A5BC4 FDFF
+$8007EFA0 0005
+$700A5BC4 FDFF
+$800820D4 FFFF
+*Demozeit (Note 1)
+Unendlich
+$8002CF7A 3400
+Nimmt zu
+$8002CF74 0001
+*Rosenkohl (Note 1)
+Unendlich
+$3009F070 000F
+Nimmt zu
+$80060610 0001
+**Zeit eingefroren (Fowl Shot)
+*An
+(Druecke L3)
+$700A5BA2 FFFD
+$8006C2AA 3C00
+*Aus
+(Druecke R3)
+$700A5BA2 FFFB
+$8006C2AA AC62
+*Inventar Modifizierer
+Inventarplatz 1
+$8009F0A2 00??
+Inventarplatz 2
+$8009F0A4 00??
+Inventarplatz 3
+$8009F0A6 00??
+Inventarplatz 4
+$8009F0A8 00??
+Inventarplatz 5
+$8009F0AA 00??
+Inventarplatz 6
+$8009F0AC 00??
+
+Index für Inventar Modifizierer
+
+00 - Nothing (Nichts)
+01 - Old Butter Knife (Altes Buttermesser)
+02 - Broken Shears (Zerbrochene Schere)
+03 - Wire Cutters (Drahtschneider)
+06 - Boots (Stiefel)
+0A - Matches (Streichhölzer)
+0B - Fireworks (Feuerwerkskörper)

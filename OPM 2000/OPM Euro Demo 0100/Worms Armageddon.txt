@@ -1,0 +1,95 @@
+**Worms Armageddon Codes
+RCJC
+$701E5DDA ????
+PAL2NTSC
+$700270E00001
+$800270E00000
+Y-Fix 
+$800388EC0000
+UE Demozeit
+$801A1B1493E0
+Mehr Zeit fuer Aktion
+(Druecke L1 & R1)
+$701E5DDAF3FF
+$801A1B1CAFC8
+Weniger Zeit fuer Aktion
+(Druecke L2 & R2)
+$701E5DDAFCFF
+$801A1B1C0000
+*P1
+UE alle Waffen (Note 1)
+$B04000040000
+$10151BC800FF
+UE Energie Wurm 1
+$9015117C0000
+$3015117C0064
+UE Energie Wurm 2
+$901512180000
+$301512180064
+UE Energie Wurm 3
+$901512B40000
+$301512B40064
+UE Energie Wurm 4
+$901513500000
+$301513500064
+Sudden Death Wurm 1 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$3015117C0000
+Sudden Death Wurm 2 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301512180000
+Sudden Death Wurm 3 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301512B40000
+Sudden Death Wurm 4 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$301513500000
+Sudden Death alle Wuermer 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$B004009C0000
+$1015117C0000
+*P2
+UE alle Waffen (Note 1)
+$B04000040000
+$10151DE000FF
+UE Energie Wurm 1
+$901514280000
+$301514280064
+UE Energie Wurm 2
+$901514C40000
+$301514C40064
+UE Energie Wurm 3
+$901515600000
+$301515600064
+UE Energie Wurm 4
+$901515FC0000
+$301515FC0064
+Sudden Death Wurm 1 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301514280000
+Sudden Death Wurm 2 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301514C40000
+Sudden Death Wurm 3 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301515600000
+Sudden Death Wurm 4 
+(Druecke Select & L2)
+$701E5DDAFEFE
+$301515FC0000
+Sudden Death alle Wuermer 
+(Druecke Select & L1)
+$701E5DDAFBFE
+$B004009C0000
+$101514280000
+
+Note 1: Nicht alle Waffen sind jederzeit zugaenglich. 
+Teilweise kann es im Spiel auch zu Grafikfehlern kommen. 

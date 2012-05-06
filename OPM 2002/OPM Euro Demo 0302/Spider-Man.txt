@@ -1,0 +1,30 @@
+***SPIDER-MAN
+
+RCJC Pad 1
+700AE2E6 ????
+RCJC Pad 2
+700AE308 ????
+AnAc Pad 1
+700AE2E4 ????
+AnAc Pad 2
+700AE306 ????
+
+PAL2NTSC
+$30097A5E 0040
+Y-Fix 1
+$8008E5D0 0000
+Y-Fix 2
+$8008E77E 2400
+*Schwebe-Modus
+(Springe & Halte R1)
+$700AE2E6 F7FF
+$80075F56 2400
+$700AE2E6 FFFF
+$80075F56 0086
+*Unendlich :
+Gesundheit
+$300D671A 0064
+Netzfluessigkeit
+$800D6B5C 1000
+Netz-Patronen
+$300D6B60 0013

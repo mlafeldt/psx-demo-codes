@@ -1,0 +1,35 @@
+***PANDEMONIUM 2
+
+RCJC Pad 1
+700B003A ????
+RCJC Pad 2
+70000002 ????
+
+PAL2NTSC
+$30084C12 0040
+Y-Fix
+$8008A500 0000
+Unverwundbar
+$8005994A 3C00
+Unendlich Leben
+$80051756 2402
+Max Muenzen
+$800B3560 FFFE
+**Gegner einfrieren
+*An
+(Druecke L1 & L2)
+$700B003A FAFF
+$8001B01A 2400
+*Aus
+(Druecke R1 & R2)
+$700B003A F5FF
+$8001B01A 0040
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$70000002 FBFF
+$8008C268 0000
+*Aus
+(Druecke L2 Pad 2)
+$70000002 FEFF
+$8008C268 FFFF

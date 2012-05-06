@@ -1,0 +1,263 @@
+
+//=========
+
+OPM Euro Demo 03/2001 Deutsch
+
+SCED02668
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@XploderFreax.de">misfire</A>
+ (*) Codes von <A HREF="MAILTO:Hardy@XploderFreax.de">Hardy</A>
+(**) Codes von <A HREF="MAILTO:Nachbrenner@XploderFreax.de">Nachbrenner</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1BATMAN OF THE FUTURE (*)
+
+RCJC Pad 1
+$70082C9A ????
+RCJC Pad 2
+$70082CBC ????
+AnAc Pad 1
+$70082C98 ????
+AnAc Pad 2
+$70082CBA ????
+
+PAL2NTSC
+$3005619E 0040
+Y-Fix 1
+$8005F428 0000
+Y-Fix 2
+$8005F5D6 2400
+Unendlich Gesundheit
+$800235A2 3C00
+SuddenDeath Gegner
+$3002318E 0020
+Unendlich Dark Knight Diskusse
+$80031C3A 3C00
+Habe 99 Leben
+(Drücke L3)
+$70082C9A FFFD
+$30082D0C 0063
+#3Leben (Note 1)
+Unendlich
+$8002688E 2400
+Nehmen zu
+$8002688C 0001
+
+#1FORMEL EINS 2000
+
+RCJC Pad 1
+$700E27A2 ????
+RCJC Pad 2
+$700E27C6 ????
+AnAc Pad 1
+$700E27A0 ????
+AnAc Pad 2
+$700E27C4 ????
+
+XPloderCheckPlus
+$500005F4 0004
+$00388040 DEAD
+$700C99F4 4800
+$800C99F8 E080
+XPloderCheckPlus & BreakPoints
+$900C99F4 4800
+$500005F4 0004
+$00388040 DEAD
+$700C99F4 4800
+$000005F4 0000
+$700C99F4 4800
+$800C99F8 E080
+ModChipCheck
+$700F5DE4 0008
+$B0030008 0000
+$100F5DE6 3C00
+PAL2NTSC
+$700C9A64 0008
+$300C9A62 0040
+Immer erster
+$7006E70A 0C01
+$300E1003 0001
+Immer gute Traktion & Haftung
+$70060CCE A646
+$30060CCE 0040
+
+#1GRAN TURISMO 2
+
+RCJC Pad 1
+$701D76B2 ????
+RCJC Pad 2
+$701D76D4 ????
+AnAc Pad 1
+$701D76B0 ????
+AnAc Pad 2
+$701D76D2 ????
+
+Dumme Gegner / Rennzeit 0:00:000
+$00049610 0000
+Unendlich Runden (Note 2)
+$701D76B0 7300
+$B0060B64 0000
+$1008A02C 0000
+Immer auf Platz 1 (Note 2)
+$701D76B0 7300
+$B0060B64 0100
+$1008A688 0100
+Hypermodus
+$30055458 0002
+Durch Autos fahren
+$70035302 0C01
+$80035302 2400
+#3Durch Wände fahren
+An
+(Drücke L3 & L2)
+$701D76B2 FEFD
+$8003523A 2400
+Aus
+(Drücke L3 & R2)
+$701D76B2 FDFD
+$8003523A 1440
+#3Gegner kleben auf Strasse fest
+An
+(Drücke R3 & L2)
+$701D76B2 FEFB
+$800352F6 3C00
+Aus
+(Drücke R3 & R2)
+$701D76B2 FDFB
+$800352F6 0800
+#3Kamera-Modifizierer (Note 1)
+Cockpitansicht
+$301FFC12 0000
+Verfolgerkamera 1
+$301FFC12 0001
+Verfolgerkamera 2
+$301FFC12 0002
+Skycam
+$301FFC12 0003
+
+#1MAT HOFFMAN'S PRO BMX
+
+RCJC Pad 1
+$700B15AA ????
+AnAc Pad 1
+$700B15A8 ????
+
+PAL2NTSC
+$30016DFE 0040
+Y-Fix 1
+$800125C4 0000
+Y-Fix 2
+$80012772 2400
+Unendlich Zeit
+$7002BDAA 0001
+$3002BDAA 0000
+Max Punkte
+$700632F0 09B8
+$800632EC FFFF
+$700632F0 09B8
+$800632EE 2402
+$70064D38 0004
+$80064D34 FFFF
+$70064D38 0004
+$80064D36 2402
+Unendlich Spezial-Balken
+$7007D4C0 01F4
+$8007D4BC 0FFF
+$7007D4C0 01F4
+$8007D4BE 2402
+$7007D5C8 01F8
+$8007D5CA 3C00
+$7008CC80 01F8
+$8008CC82 3C00
+#3Hyper Modus
+An
+(Drücke L3)
+$700B15AA FFFD
+$3002DE88 0002
+Aus
+(Drücke R3)
+$700B15AA FFFB
+$3002DE88 0001
+
+#1MUPPET MONSTER ADVENTURE
+
+RCJC Pad 1
+$700B98AA ????
+RCJC Pad 2
+$700B98CE ????
+AnAc Pad 1
+$700B98A8 ????
+AnAc Pad 2
+$700B98CC ????
+
+PAL2NTSC
+$300989CE 0040
+Y-Fix 1
+$80096570 0000
+Unendlich Demozeit
+$300251A6 0080
+Unendlich Leben
+$300B2C24 0063
+Unendlich Gesundheit
+$300B2C25 0004
+Max Sterne
+$800B2C1A FFF0
+Max Muppet-Münzen
+$800B2C22 0100
+
+#1STAR TREK - INVASION
+
+RCJC Pad 1
+$7006D13A ????
+RCJC Pad 2
+$7006D162 ????
+AnAc Pad 1
+$7006D138 ????
+AnAc Pad 2
+$7006D160 ????
+
+PAL2NTSC
+$3004F7C2 0040
+Y-Fix 1
+$80019DB4 0000
+Unendlich Energie (**)
+$8006618C 03E8
+Unendlich Hilfsenergie (**)
+$70062264 0000
+$30062265 00FF
+Alle Optionen freigeschaltet (**)
+$3007A37C 0041
+$3007A3FC 0041
+$3007A404 0041
+$3007A42C 0041
+#3Energie-Torpedos (Note 1)
+Unendlich
+$7007EF74 FFFF
+$8007EF74 0000
+Nehmen zu
+$7007EF74 FFFF
+$8007EF74 0001
+#3Zeit (Note 1)
+Unendlich
+$7008F194 FFFF
+$8008F194 0000
+Nimmt zu
+$7008F194 FFFF
+$8008F194 0001
+#3Slow Motion
+An
+(Drücke L3)
+$7006D13A FFFD
+$8001BCB0 0000
+Aus
+(Drücke R3)
+$7006D13A FFFB
+$8001BCB0 FFFF
+
+Note 1: Nur einen der Codes benutzen.
+Note 2: Analog-Modus (Pad 1) im eigentlichen Rennen einschalten; bei Ladezeiten ausschalten!
+
+//=========

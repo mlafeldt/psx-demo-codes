@@ -1,0 +1,461 @@
+
+//=========
+
+"OPM Euro Demo 11/12 2002 Deutsch SCED03897"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***DAVID BECKHAM SOCCER
+
+RCJC Pad 1
+700BDA2E ????
+RCJC Pad 2
+700BDA52 ????
+AnAc Pad 1
+700BDA2C ????
+AnAc Pad 2
+700BDA50 ????
+
+PAL2NTSC
+$342F0236 82B4
+Y-Fix 1
+$842F2D21 4DE1
+Y-Fix 2
+$842F239F 476D
+Unendlich Spielzeit
+$842D9101 2B67
+Jedes Tor zaehlt ??-fach
+$30096E88 00??
+*Deutschland (Note 1)
+20 Tore
+$3429E6C6 989C
+0 Tore
+$3429E6C6 9888
+*England (Note 1)
+20 Tore
+$3429E6C2 9898
+0 Tore
+$3429E6C2 988C
+
+***DRIVER 2
+
+RCJC Pad 1
+700A3B52 ????
+RCJC Pad 2
+700A3B74 ????
+AnAc Pad 1
+700A3B50 ????
+AnAc Pad 2
+700A3B72 ????
+
+PAL2NTSC
+$342247A7 3379
+Y-Fix 1
+$84228565 F13D
+Ueberspringe Videosequenz
+$843F62C0 12C2
+Kein Schaden
+$842C9DED 0BB9
+Spritztour (**)
+$842369ED 05D9
+$842369F1 15C5
+$842369F9 15CD
+**Durch Autos fahren
+*An
+(Druecke R3 & Oben)
+$742FC1BB 3E57
+$84246642 2A78
+*Aus
+(Druecke R3 & Unten)
+$742FC1BB 3E07
+$84246642 0278
+**Passanten einfrieren
+*An
+(Druecke R3 & Links)
+$742FC1BB 3EC7
+$8424067E 5AAC
+*Aus
+(Druecke R3 & Rechts)
+$742FC1BB 3E67
+$8424067E 72AD
+
+***FIREBUGS
+
+RCJC Pad 1
+700C3548 ????
+RCJC Pad 2
+700C356C ????
+AnAc Pad 1
+700C3546 ????
+AnAc Pad 2
+700C356A ????
+
+PAL2NTSC
+$742C671B 25A5
+$342C6705 1587
+$743DBF5F 3D81
+$343DBF59 3DC3
+Y-Fix 1
+$742C96E0 16DA
+$842C96E0 16CA
+$743D7C96 FA02
+$843D7C96 FA12
+Stoppuhr eingefroren
+$742C9AC2 A51F
+$342C9AC2 0A1C
+**Waffen Modifizierer (01 - 0C)
+*P1
+Primaerwaffe
+(Druecke L3)
+$7429CFA7 4E2F
+$3016ED6C 00??
+Sekundaerwaffe
+(Druecke R3)
+$7429CFA7 4E29
+$3016ED6D 00??
+*P2
+Primaerwaffe
+(Druecke L3 Pad 2)
+$7429CF83 4E0B
+$3017006C 00??
+Sekundaerwaffe
+(Druecke R3 Pad 2)
+$7429CF83 4E0D
+$3017006D 00??
+
+***MOHO
+
+RCJC Pad 1
+700F2516 ????
+RCJC Pad 2
+700F2542 ????
+AnAc Pad 1
+700F2514 ????
+AnAc Pad 2
+700F2540 ????
+
+PAL2NTSC
+$34242D59 53E5
+Y-Fix 1
+$842475F7 1BEB
+Y-Fix 2
+$84247406 0876
+Unendlich Gesundheit
+$742A39AF 5C5B
+$34390A7E BC80
+$742A39AF 5E58
+$34392BFF DDE1
+$742A39AF 5858
+$34392CE6 CEC6
+Unendlich Energie
+$842118E6 822F
+$842118E4 BE3E
+$842118E2 96DE
+$842118E0 2C32
+*Zeit zuruecksetzen
+(Druecke L2 & R2)
+$742ADEC8 2891
+$8428E880 9C08
+
+***PRO PINBALL - FANTASTIC JOURNEY
+
+RCJC Pad 1
+700947B2 ????
+RCJC Pad 2
+700947E2 ????
+AnAc Pad 1
+700947B0 ????
+AnAc Pad 2
+700947E0 ????
+
+PAL2NTSC
+$3422C808 A61C
+Y-Fix 1
+$84231E0C 8ADA
+Unendlich Zeit
+$342DA356 E236
+Unendlich Kugeln
+$342C831B 0188
+Schnelle Punktzunahme
+$842C830F 0E51
+
+***RAYMAN 2
+
+RCJC Pad 1
+700AF81E ????
+RCJC Pad 2
+700AF840 ????
+AnAc Pad 1
+700AF81C ????
+AnAc Pad 2
+700AF83E ????
+
+PAL2NTSC
+$742456A0 4E32
+$342456A6 4E74
+Y-Fix 1
+$74242B4F 41A5
+$84242B4F 41B5
+Y-Fix 2
+$742429BB 4F53
+$842429B9 6B41
+Hypermodus
+$742459D3 2FDE
+$842459D1 0BD9
+Alle Optionen anwaehlbar
+$742D97D5 1146
+$842D97D5 15C7
+$742D9781 0172
+$842D9781 05F3
+$742D95D5 1748
+$842D95D5 13C9
+$742D9581 0774
+$842D9581 03F5
+*Speichern
+(Druecke Select im Pausen-Menue)
+$742F02F6 7DBB
+$342F52A8 5230
+Unverwundbar
+$7431EA5A 94A8
+$3431EA5A 94A9
+$7431EA5A 94A9
+$3431E8CE 82C9
+Unendlich Gesundheit
+$7431EA5A 94A8
+$3431E8CE 82C9
+Habe alle Lums
+$342E3A6E 6C8C
+Habe alle Kaefige
+$342E3A02 6CBE
+
+***SPYRO 3 - YEAR OF THE DRAGON
+
+//BETA DEMO!!
+//SPYRO3.EXE CRC-32: 0xBAC9EA09
+
+RCJC Pad 1
+70077C66 ????
+RCJC Pad 2
+7007825A ????
+AnAc Pad 1
+70077C64 ????
+AnAc Pad 2
+70078258 ????
+
+PAL2NTSC
+$3423AB7B D749
+Y-Fix 1
+$8423F5E5 B15D
+Y-Fix 2
+$8423EA3A B208
+Kein Demoende durch Nichts Druecken
+$3421E2DC 9C4A
+Unendlich Gesundheit
+$34229602 1463
+Max Dracheneier
+$3422CAD6 B816
+Max Edelsteine
+$8422CA02 579B
+*Leben (Note 1)
+Unendlich
+$8420F2DC 9E4A
+Nehmen zu
+$8420F2DC 9E4B
+**Hyper Modus
+*An
+(Analog-Modus ein)
+$74228781 8030
+$34200230 7EEE
+*Aus
+(Analog-Modus aus)
+$74228781 B220
+$34200230 7EE5
+**Skate Park
+Brauche nur 1 Dino einfangen
+$742D6E3C B0E4
+$842D6E3A 1C8B
+$742D6E3C B0E4
+$842D6E38 3880
+**Zeit einfrieren
+*An
+(Druecke L3)
+$74228783 0CD3
+$84262F2F 7BE9
+*Aus
+(Druecke R3)
+$74228783 0CD5
+$84262F2F EB5B
+
+***STAR TREK - INVASION
+
+RCJC Pad 1
+7006D13A ????
+RCJC Pad 2
+7006D162 ????
+AnAc Pad 1
+7006D138 ????
+AnAc Pad 2
+7006D160 ????
+
+PAL2NTSC
+$34210D25 67B1
+Y-Fix 1
+$84246650 1E6A
+Unendlich Energie (*)
+$84239B59 F4C4
+Unendlich Hilfsenergie (*)
+$7423D8B0 B4C4
+$3423D8B1 B53A
+Alle Optionen freigeschaltet (*)
+$342258AA 467F
+$3422582A 46FF
+$34225FD1 3BA6
+$34225FF9 3B4E
+*Energie-Torpedos (Note 1)
+Unendlich
+$742214A2 6D6C
+$842214A2 9282
+Nehmen zu
+$742214A2 6D6C
+$842214A2 9283
+*Zeit (Note 1)
+Unendlich
+$742D0B7F 8649
+$842D0B7F 79A5
+Nimmt zu (*)
+$742D0B7F 8649
+$842D0B7F 79A4
+**Slow Motion
+*An
+(Druecke L3)
+$74232BDF A8CB
+$84244753 3D85
+*Aus
+(Druecke R3)
+$74232BDF A8CD
+$84244753 C269
+
+***TOCA - WORLD TOURING CARS
+
+//BETA DEMO!!
+//WTC.EXE CRC-32: 0xF652D1A3
+
+RCJC Pad 1
+7005B626 ????
+RCJC Pad 2
+7005B648 ????
+AnAc Pad 1
+7005B624 ????
+AnAc Pad 2
+7005B646 ????
+
+PAL2NTSC
+$3421EB6D 8593
+Y-Fix 1
+$842618E6 8232
+Y-Fix 2
+$84261F33 53FD
+*Zeit zuruecksetzen
+(Druecke L2 & R2)
+$74204DC1 DBDA
+$04200167 6BB7
+*Immer erster
+(Freies Rennen)
+$842A03BB 8673
+Immer gute Traktion & Haftung (*)
+$742293A7 AFA1
+$342293A7 0FB5
+**Alle Replay-Kameras anwaehlbar (*)
+*An
+(Druecke L3 & L1)
+$74204DC1 DCDB
+$342DB2DA E099
+*Aus
+(Druecke L3 & R1)
+$74204DC1 D0DB
+$342DB2DA E08D
+**Durch Autos fahren (*)
+*An
+(Druecke L3 & Oben)
+$74204DC1 D8CB
+$842C0A92 6A9C
+*Aus
+(Druecke L3 & Unten)
+$74204DC1 D89B
+$842C0A92 6EDC
+**Durch Waende fahren (*)
+*An
+(Druecke L3 & Links)
+$74204DC1 D85B
+$842C0A2A 7A04
+*Aus
+(Druecke L3 & Rechts)
+$74204DC1 D8FB
+$842C0A2A 7A44
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$34262CA8 4618
+Y-Fix 1
+$842770A0 2814
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$742111C5 70D9
+$84275DB1 3541
+$742111C5 70D9
+$842637E7 7B69
+*Hyper
+(Druecke R1 Pad 2)
+$742111C5 7CD9
+$84275DB1 CAAD
+$742111C5 7CD9
+$842637E7 4B19
+*Normal
+(Druecke R2 Pad 2)
+$742111C5 76D9
+$84275DB1 CAAD
+$742111C5 76D9
+$842637E7 7B69
+**DOGTAIL
+Unverwundbar
+$842C904E 002A
+Unendlich Leben
+$342C703C 20A8
+Max Knochen
+$342C77DF 25B2
+Habe alle Schluessel
+$342C7018 2095
+*Moon Jump
+(Halte X)
+$74211038 C5DE
+$842C948A 04F2
+$94211038 C5DE
+$842C948A 04D2
+**TERRA INCOGNITA
+Unendlich Zeit
+$8435F2C8 8836
+Unendlich Herzen
+$8432428A F1A5
+Max Herzanzahl
+$3432E989 8569
+Max Items
+$3432E9D9 9524
+Max Schluessel
+$3432E9E5 8558
+Keine Anzeigen
+$3432E999 956D
+
+(*) Codes von Nachbrenner
+(**) Code von gothi
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

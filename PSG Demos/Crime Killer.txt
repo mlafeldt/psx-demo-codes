@@ -1,0 +1,19 @@
+**CRIME KILLER
+
+RCJC Pad 1
+70007572 ????
+RCJC Pad 2
+7000759A ????
+AnAc Pad 1
+70007570 ????
+AnAc Pad 2
+70007598 ????
+
+PAL2NTSC
+$7005C44E 8C42
+$3005C44E 0040
+Y-Fix
+$70011BCC 0010
+$80011BCC 0000
+
+Kein Demoende durch Nichts Druecken

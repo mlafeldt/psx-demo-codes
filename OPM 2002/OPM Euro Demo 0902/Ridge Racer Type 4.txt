@@ -1,0 +1,42 @@
+***RIDGE RACER TYPE 4
+
+RCJC Pad 1
+701140D2 ????
+RCJC Pad 2
+701140FA ????
+AnAc Pad 1
+701140D0 ????
+AnAc Pad 2
+701140F8 ????
+
+PAL2NTSC
+$30093E66 0040
+Y-Fix 1
+$8009B860 0000
+Keine Rennzeit
+$8004449E AC60
+$800444C2 1000
+Unendlich Runden
+$8004455A 1000
+$80044562 A600
+Immer erster
+$80044B26 A440
+*Turbo Boost
+(Druecke Kreis)
+$701140D2 DFFF
+$800B3F68 0B6F
+*Zeitlimit (Note 1)
+Unendlich
+$8011CB38 0000
+Nimmt zu
+$8011CB38 0001
+**Hyper Modus
+*An
+(Druecke Select & L2)
+$701140D2 FEFE
+$30093214 0000
+*Aus
+(Druecke Select & R2)
+$701140D2 FDFE
+$30093214 0005
+

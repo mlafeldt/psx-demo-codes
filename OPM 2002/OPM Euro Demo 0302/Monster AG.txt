@@ -1,0 +1,36 @@
+***MONSTER AG
+
+//MAIN.EXE CRC-32: 0x19C1481F
+
+RCJC Pad 1
+700A1D26 ????
+RCJC Pad 2
+700A1D48 ????
+AnAc Pad 1
+700A1D24 ????
+AnAc Pad 2
+700A1D46 ????
+
+PAL2NTSC
+$30082302 0040
+Y-Fix 1
+$80078230 0000
+Unendlich Gesundheit
+$8001DE8C 1021
+Max Schleimbalken
+$80053C74 0064
+$80053C76 2402
+*Leben (Note 1)
+Unendlich
+$80053D6E 3C00
+Nehmen zu
+$80053D6C 1021
+**Slow Motion 
+*An
+(Druecke L3)
+$700A1D26 FFFD
+$80079B74 0000
+*Aus
+(Druecke R3)
+$700A1D26 FFFB
+$80079B74 FFFF

@@ -1,0 +1,115 @@
+***TOMB RAIDER II
+
+RCJC Pad 1
+70097D5A ????
+RCJC Pad 2
+70097D82 ????
+AnAc Pad 1
+70097D58 ????
+AnAc Pad 2
+70097D80 ????
+
+PAL2NTSC
+$3008B5D6 0040
+Y-Fix
+$80083B30 0000
+$80083B6C 0000
+$80083BEE 2400
+Sudden Death Gegner
+$8004C90A A480
+Totgeborene Gegner (Uebersteuert Sudden Death)
+$80043256 A600
+Ueberlebe tiefen Fall
+$8004978C 0000
+Fackel brennt ewig
+$8004CBA0 0030
+$8004CBA2 2402
+Spider Lara
+$30097DBE 0001
+Habe alle Waffen
+$30093DE8 000B
+$80093E44 3464
+$80093E48 3560
+Habe alle Items
+$30093E7C 0006
+Alle Geheimnisse gefunden
+$300E993A 000F
+Zeit eingefroren
+$3003DEFA 00A0
+*Unendlich:
+Gesundheit
+$8004DF6C 03E8
+$8004DF6E 3402
+$8004DF70 0022
+$8004DF72 A602
+Luft
+$8004E08A 3C00
+Magnesiumfackeln
+$80093DF6 0032
+Grosse Medipacks
+$80093DF8 0032
+Kleine Medipacks
+$80093DFA 0032
+Alle Gegenstaende
+$B0030002 0000
+$10093DF6 0032
+*Unendlich Munition:
+Automatik
+$80097E6C 1770
+Uzis
+$80097E70 1770
+Schrotflinte
+$80097E74 1770
+Harpune
+$80097E78 1770
+Granatwerfer
+$80097E7C 1770
+M16
+$80097E80 1770
+Alle Waffen
+$B0060004 0000
+$10097E6C 1770
+**Hypermodus
+*Normale Geschwindigkeit
+(Druecke L1 Pad 2)
+$70097D82 FBFF
+$3007EF94 0001
+*Doppelte Geschwindigkeit
+(Druecke L2 Pad 2)
+$70097D82 FEFF
+$3007EF94 0002
+*Dreifache Geschwindigkeit
+(Druecke R1 Pad 2)
+$70097D82 F7FF
+$3007EF94 0003
+*Vierfache Geschwindigkeit
+(Druecke R2 Pad 2)
+$70097D82 FDFF
+$3007EF94 0004
+**Durch die Luft laufen
+*An
+(Druecke R1 & R2 & Oben)
+$70097D5A F5EF
+$8002A172 AE00
+*Aus
+(Druecke R1 & R2 & Unten)
+$70097D5A F5BF
+$8002A172 AE11
+**Matrix Lara
+*Stufe 1
+(Druecke Select & Dreieck Pad 2)
+$70097D82 EFFE
+$3004E694 0003
+*Stufe 2
+(Druecke Select & Kreis Pad 2)
+$70097D82 DFFE
+$3004E694 0002
+*Stufe 3
+(Druecke Select & X Pad 2)
+$70097D82 BFFE
+$3004E694 0001
+*Normal
+(Druecke Select & Viereck Pad 2)
+$70097D82 7FFE
+$3004E694 0006
+

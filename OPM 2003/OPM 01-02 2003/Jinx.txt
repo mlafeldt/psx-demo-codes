@@ -1,0 +1,56 @@
+***JINX
+
+//MAIN.EXE CRC-32: 0xCB72D853
+
+RCJC Pad 1
+700B1EE2 ????
+RCJC Pad 2
+700B1F0A ????
+AnAc Pad 1
+700B1EE0 ????
+AnAc Pad 2
+700B1F08 ????
+
+PAL2NTSC
+$300857EE 0040
+Y-Fix 1
+$80082858 0000
+Y-Fix 2
+$80082A06 2400
+Unendlich Gesundheit
+$8006C716 3C00
+Unendlich Leben
+$8006C86C 0000
+Unverwundbar (Charakter & Gegner)
+$80063288 0000
+$8006329C 05DC
+$8006329E 2402
+Max Cherry Bombs
+$800CC9A4 03E7
+$300CC9A6 0001
+Max Fire Balls
+$800CC9AC 03E7
+$300CC9AE 0001
+Max Sterne
+$300CC9FC 0063
+Dumme Gegner
+$0001F310 0000
+**Gegner kleben fest
+*An
+(Druecke L3)
+$700B1EE2 FFFD
+$8001F2BA 3400
+*Aus
+(Druecke R3)
+$700B1EE2 FFFB
+$8001F2BA 0040
+**Hyper Modus
+*An
+(Druecke R1 Pad 2)
+$700B1F0A F7FF
+$8008505C 0000
+*Aus
+(Druecke R2 Pad 2)
+$700B1F0A FDFF
+$8008505C 000B
+

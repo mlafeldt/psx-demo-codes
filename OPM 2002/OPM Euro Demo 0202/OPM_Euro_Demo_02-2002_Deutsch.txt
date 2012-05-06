@@ -1,0 +1,411 @@
+
+//=========
+
+OPM Euro Demo 02/2002 Deutsch
+
+SCED03477
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1CRASH TEAM RACING
+
+RCJC Pad 1
+$700995F6 ????
+RCJC Pad 2
+$70099618 ????
+AnAc Pad 1
+$700995F4 ????
+AnAc Pad 2
+$70099616 ????
+
+PAL2NTSC
+$3007B12A 0040
+Y-Fix 1
+$8007BF64 0000
+Y-Fix 2
+$8007C112 2400
+Kein Demoende durch Nichts Drücken
+$8003C196 2400
+#2Einspieler-Modus
+Starte in letzter Runde
+$701EBE60 0000
+$301EBE60 0002
+Rennzeit 0:00:00
+$80037F18 0021
+Max Wumpa-Früchte
+$301EBE50 0064
+Pick-Up Modifizierer
+$301EBE54 00??
+Pick-Up 9mal verfügbar
+(Drücke L3)
+$700995F6 FFFD
+$301EBE55 0009
+#2Zweispieler-Modus
+#3P1
+Starte in letzter Runde
+$701E9B34 0000
+$301E9B34 0002
+Max Wumpa-Früchte
+$301E9B24 0064
+Pick-Up Modifizierer
+$301E9B28 00??
+Pick-Up 9mal verfügbar
+(Drücke L3)
+$700995F6 FFFD
+$301E9B29 0009
+#3P2
+Starte in letzter Runde
+$701EA3BC 0000
+$301EA3BC 0002
+Max Wumpa-Früchte
+$301EA3AC 0064
+Pick-Up Modifizierer
+$301EA3B0 00??
+Pick-Up 9mal verfügbar
+(Drücke L3 Pad 2)
+$70099618 FFFD
+$301EA3B1 0009
+
+#1DEAD OR ALIVE
+
+RCJC Pad 1
+$70091552 ????
+RCJC Pad 2
+$70091574 ????
+AnAc Pad 1
+$70091550 ????
+AnAc Pad 2
+$70091572 ????
+
+PAL2NTSC
+$3002FC7A 0040
+Y-Fix 1
+$8002128C 0000
+Unendlich Kampfzeit
+$800B31A2 2400
+Keine Stage-Zeit
+$800B32B2 2400
+Beide Kämpfer unverwundbar
+$800DB05C 0021
+$800DB320 0021
+#3P1
+Unendlich Energie
+$80096DE8 00A0
+Keine Energie
+$80096DE8 0000
+Sudden Death
+$80096DE8 0001
+#3P2/CPU
+Unendlich Energie
+$80096E40 00A0
+Keine Energie
+$80096E40 0000
+Sudden Death
+$80096E40 0001
+
+#1FIFA 2002
+
+RCJC Pad 1
+$7004BD62 ????
+RCJC Pad 2
+$7004BD82 ????
+AnAc Pad 1
+$7004BD60 ????
+AnAc Pad 2
+$7004BD80 ????
+
+XPloderCheckPlus
+$700B48C4 E180
+$800B48C4 E080
+PAL2NTSC
+$3002590E 0040
+Y-Fix 1
+$80022C94 0000
+Y-Fix 2
+$80022E42 2400
+Unendlich Spielzeit
+$70092BF4 0010
+$B002002C 0000
+$10092BF6 ACA0
+Jedes Tor zählt ??-fach
+$700B1956 2442
+$300B1954 00??
+#3Alle Tore zählen für : (Note 1)
+Frankreich
+$700B1944 1880
+$800B1948 0000
+$700B1944 1880
+$800B194A 2443
+Brasilien
+$700B1944 1880
+$800B1948 0004
+$700B1944 1880
+$800B194A 2443
+#3Frankreich
+20 Tore
+$30042708 0014
+0 Tore
+$30042708 0000
+#3Brasilien
+20 Tore
+$3004270C 0014
+0 Tore
+$3004270C 0000
+#3Hyper Modus
+An
+(Drücke L3)
+$7004BD62 FFFD
+$80020E26 2400
+Aus
+(Drücke R3)
+$7004BD62 FFFB
+$80020E26 1040
+
+#1GUNFIGHTER - THE LEGEND OF JESSE JAMES
+
+RCJC Pad 1
+$7007DFFE ????
+RCJC Pad 2
+$7007E022 ????
+AnAc Pad 1
+$7007DFFC ????
+AnAc Pad 2
+$7007E020 ????
+
+PAL2NTSC
+$300555B6 0040
+Y-Fix 1
+$80056090 0000
+Y-Fix 2
+$8005623E 2400
+Unendlich Gesundheit
+$300E2E9C 0004
+Kein Nachladen
+$300E2EA0 0006
+Keine Gesamtzeit
+$8003F4E2 AE00
+#3Verbleibende Zeit (Note 1)
+Unendlich
+$8003F4CE 3C00
+Nimmt zu
+$8003F4C8 1021
+#3Hypermodus
+Normal
+(Drücke L1 Pad 2)
+$7007E022 FBFF
+$30055258 0001
+Schneller
+(Drücke L2 Pad 2)
+$7007E022 FEFF
+$30055258 0002
+Noch schneller
+(Drücke R1 Pad 2)
+$7007E022 F7FF
+$30055258 0004
+Viel schneller
+(Drücke R2 Pad 2)
+$7007E022 FDFF
+$30055258 0008
+
+#1THE ITALIAN JOB
+
+PAL2NTSC
+$70027F50 0008
+$30027F4E 0040
+$7006138C 0008
+$3006138A 0040
+Y-Fix 1
+$70028B58 0010
+$80028B58 0000
+$7006207C 0010
+$8006207C 0000
+Y-Fix 2
+$70028D04 0010
+$80028D06 2400
+$70062228 0010
+$8006222A 2400
+Überspringe FMV-Sequenzen
+$70060212 ACA2
+$80060212 3C00
+
+#2ITALIAN JOB-MODUS
+
+RCJC Pad 1
+$7017AE34 ????
+RCJC Pad 2
+$7017AE76 ????
+AnAc Pad 1
+$7017AE32 ????
+AnAc Pad 2
+$7017AE74 ????
+
+Kein Schaden
+$700592C0 00C4
+$300592C2 0080
+Unendlich Zeit
+$70057148 0058
+$3005714A 0040
+Unendlich Demozeit
+$70078164 FFFF
+$80078166 2400
+Werde niemals eingelocht 
+$700847E2 AC31
+$300847E2 0020
+Nitro Boost
+(Drücke R2 & X)
+$7017AE34 BDFF
+$80060870 0003
+$7017AE34 BDFF
+$80060872 2442
+$7017AE34 FFFF
+$80060870 1021
+$7017AE34 FFFF
+$80060872 00A2
+Fliegen
+(Halte L1 & X)
+$7017AE34 BBFF
+$30060A80 0023
+$7017AE34 FFFF
+$30060A80 0021
+Notbremse
+(Drücke Kreis)
+$7017AE34 DFFF
+$80060A5E 2400
+$7017AE34 FFFF
+$80060A5E 0C01
+$7017AE34 DFFF
+$001188F4 0000
+#3Spielgeschwindigkeit
+Normal
+(Drücke L1 Pad 2)
+$7017AE76 FBFF
+$3008DCF0 0002
+Schneller
+(Drücke L2 Pad 2)
+$7017AE76 FEFF
+$3008DCF0 0000
+Langsamer
+(Drücke R1 Pad 2)
+$7017AE76 F7FF
+$3008DCF0 0004
+Noch langsamer
+(Drücke R2 Pad 2)
+$7017AE76 FDFF
+$3008DCF0 000A
+
+#2CHALLENGE MODUS
+
+RCJC Pad 1
+$70129B44 ????
+RCJC Pad 2
+$70129B86 ????
+AnAc Pad 1
+$70129B42 ????
+AnAc Pad 2
+$70129B84 ????
+
+Unendlich Zeit
+$70055BC4 0058
+$30055BC6 0040
+Brauche nur 1 Fahne
+$70055816 2442
+$80055814 0014
+Nitro Boost
+(Drücke R2 & X)
+$70129B44 BDFF
+$8005F64C 0002
+$70129B44 BDFF
+$8005F64E 2442
+$70129B44 FFFF
+$8005F64C 1021
+$70129B44 FFFF
+$8005F64E 00A2
+Fliegen
+(Halte L1 & X)
+$70129B44 BBFF
+$3005F830 0023
+$70129B44 FFFF
+$3005F830 0021
+Notbremse
+(Drücke Kreis)
+$70129B44 DFFF
+$8005F83A 2400
+$70129B44 FFFF
+$8005F83A 0C01
+$70129B44 DFFF
+$000C7604 0000
+#3Spielgeschwindigkeit
+Normal
+(Drücke L1 Pad 2)
+$70129B86 FBFF
+$30089434 0002
+Schneller
+(Drücke L2 Pad 2)
+$70129B86 FEFF
+$30089434 0000
+Langsamer
+(Drücke R1 Pad 2)
+$70129B86 F7FF
+$30089434 0004
+Noch langsamer
+(Drücke R2 Pad 2)
+$70129B86 FDFF
+$30089434 000A
+
+#1TOY STORY 2
+
+RCJC Pad 1
+$700D6312 ????
+RCJC Pad 2
+$700D633A ????
+AnAc Pad 1
+$700D6310 ????
+AnAc Pad 2
+$700D6338 ????
+
+PAL2NTSC
+$30090952 0040
+Y-Fix 1
+$8008DAA8 0000
+Unendlich Gesundheit
+$80073092 2400
+Unverwundbar
+$800B9020 0001
+$800B9074 0040
+Max Geldstücke
+$800B907E 0063
+#3Leben (Note 1)
+Unendlich
+$80083D2A 2400
+Nehmen zu
+$80083D28 0001
+#3Slow Motion
+An
+(Drücke L3)
+$700D6312 FFFD
+$8008F9A4 0000
+Aus
+(Drücke R3)
+$700D6312 FFFB
+$8008F9A4 FFFF
+
+Index für Pick-Up Modifizierer
+
+00 - Turbo-Boost
+01 - Kanonenkugel-Bombe
+02 - Zielsuchende Rakete
+03 - TNT Box
+04 - Reagenzglas
+05 - Sprungfeder
+07 - Voodoo-Maske
+08 - Uhr
+09 - Blitzkugel
+0F - Nichts
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

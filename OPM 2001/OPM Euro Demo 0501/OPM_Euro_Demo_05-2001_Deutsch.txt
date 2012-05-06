@@ -1,0 +1,189 @@
+
+//=========
+
+OPM Euro Demo 05/2001 Deutsch
+
+SCED03468
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@XploderFreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1C12 - FINAL RESISTANCE
+
+RCJC Pad 1
+$70108C8E ????
+RCJC Pad 2
+$70108CB0 ????
+AnAc Pad 1
+$70108C8C ????
+AnAc Pad 2
+$70108CAE ????
+
+PAL2NTSC
+$300B5D16 0040
+Y-Fix 1
+$800A4864 0000
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$70108CB0 FBFF
+$800A6268 0000
+$70108CB0 FBFF
+$800A7DB4 0005
+Hyper
+(Drücke R1 Pad 2)
+$70108CB0 F7FF
+$800A6268 FFFF
+$70108CB0 F7FF
+$800A7DB4 0000
+Normal
+(Drücke R2 Pad 2)
+$70108CB0 FDFF
+$800A6268 FFFF
+$70108CB0 FDFF
+$800A7DB4 0005
+#3Habe:
+Alle Primärwaffen
+$300D2ED4 00FF
+$300F9544 0001
+$B0040004 0000
+$100F957C 0001
+Alle Sekundärwaffen
+$800F9546 1000
+$B0040004 0000
+$100F957E 1000
+Medibox
+$300F9558 0001
+Alien-Keycard
+$300F955C 0001
+Keycard
+$300F956C 0001
+Eingangscodes
+$300F95B8 0001
+#3Unendlich:
+Gesundheit
+$8003A478 0023
+Schild
+$8003A404 0023
+$300F9548 0063
+Munition alle Waffen
+$B0060002 0000
+$100F9534 03E7
+Rote Alien-Sporen
+$300F95F0 0063
+Blaue Alien-Sporen
+$300F95F4 0063
+Gelbe Alien-Sporen
+$300F95F8 0063
+Alle Alien-Sporen
+$B0030004 0000
+$100F95F0 0063
+Alien-Gesundheit
+$300F960C 0063
+$300F9610 0063
+
+#1FORMEL EINS 2000
+
+RCJC Pad 1
+$700E27A2 ????
+RCJC Pad 2
+$700E27C6 ????
+AnAc Pad 1
+$700E27A0 ????
+AnAc Pad 2
+$700E27C4 ????
+
+XPloderCheckPlus
+$500005F4 0004
+$00388040 DEAD
+$700C99F4 4800
+$800C99F8 E080
+XPloderCheckPlus & BreakPoints
+$900C99F4 4800
+$500005F4 0004
+$00388040 DEAD
+$700C99F4 4800
+$000005F4 0000
+$700C99F4 4800
+$800C99F8 E080
+ModChipCheck
+$700F5DE4 0008
+$B0030008 0000
+$100F5DE6 3C00
+PAL2NTSC
+$700C9A64 0008
+$300C9A62 0040
+Immer erster
+$7006E70A 0C01
+$300E1003 0001
+Immer gute Traktion & Haftung
+$70060CCE A646
+$30060CCE 0040
+
+#1KILLER LOOP
+
+RCJC Pad 1
+$7008633A ????
+AnAc Pad 1
+$70086338 ????
+
+PAL2NTSC
+$3005CD66 0040
+Y-Fix 1
+$80062010 0000
+Y-Fix 2
+$800621BE 2400
+Rundenzeiten 00:00:00
+$8001DD94 0021
+Gesamtzeit 00:00:00
+$8001DDFC 0021
+
+#1WIPEOUT 3
+
+RCJC Pad 1
+$701CC102 ????
+RCJC Pad 2
+$701CC12A ????
+AnAc Pad 1
+$701CC100 ????
+AnAc Pad 2
+$701CC128 ????
+
+PAL2NTSC
+$3015918E 0040
+Y-Fix 1
+$80156ED4 0000
+Y-Fix 2
+$80157082 2400
+Gesamtzeit 0:00.00
+$8010D504 0021
+Keine Rundenzeiten
+$8010D570 0021
+Immer erster
+$3010D5A6 0000
+Checkpoint-Zeit eingefroren
+$8010D64E 3C00
+Unendlich Energie
+$8014F9BC 0021
+Waffen- & Powerups Modifizierer
+$801F611E ??01
+$301F6120 00??
+
+Index für Waffen- & Powerups Modifizierer
+
+01 - Autopilot
+02 - Invisibility
+03 - Energy withdraw
+04 - Powerwall
+05 - Gravity shield
+06 - Mines
+07 - Multiple-Rockets
+08 - Plasmabeam
+0A - Earthquake-Disruptor
+0B - Reflector
+0C - Rocket
+
+//=========

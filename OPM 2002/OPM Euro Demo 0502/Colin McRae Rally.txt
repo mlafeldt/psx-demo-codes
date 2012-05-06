@@ -1,0 +1,23 @@
+***COLIN MCRAE RALLY
+
+RCJC Pad 1
+700C5006 ????
+RCJC Pad 2
+700C5028 ????
+AnAc Pad 1
+700C5004 ????
+AnAc Pad 2
+700C5026 ????
+
+PAL2NTSC
+$3009F9D2 0040
+Y-Fix 1
+$8009A974 0000
+Hypermodus
+$3009F674 0002
+Stoppuhr eingefroren
+$8007613E 3C00
+Unendlich Setup-Zeit
+$300BD308 003C
+Immer gute Traktion & Haftung
+$30023CBA 0080

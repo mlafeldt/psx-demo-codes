@@ -1,0 +1,34 @@
+***BATMAN OF THE FUTURE (*)
+
+RCJC Pad 1
+70082C9A ????
+RCJC Pad 2
+70082CBC ????
+AnAc Pad 1
+70082C98 ????
+AnAc Pad 2
+70082CBA ????
+
+PAL2NTSC
+$3005619E 0040
+Y-Fix 1
+$8005F428 0000
+Y-Fix 2
+$8005F5D6 2400
+Unendlich Gesundheit
+$800235A2 3C00
+SuddenDeath Gegner
+$3002318E 0020
+Unendlich Dark Knight Diskusse
+$80031C3A 3C00
+*Habe 99 Leben
+(Druecke L3)
+$70082C9A FFFD
+$30082D0C 0063
+*Leben (Note 1)
+Unendlich
+$8002688E 2400
+Nehmen zu
+$8002688C 0001
+
+(*) Codes von Hardy@XploderFreax.de

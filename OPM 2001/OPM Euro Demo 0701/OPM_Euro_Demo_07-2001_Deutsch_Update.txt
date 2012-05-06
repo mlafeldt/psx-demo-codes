@@ -1,0 +1,250 @@
+
+//=========
+
+OPM Euro Demo 07/2001 Deutsch
+
+SCED03470
+### Codes
+Jokers, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+#1GRAND THEFT AUTO
+
+RCJC Pad 1
+$7004D292 ????
+RCJC Pad 2
+$7004D392 ????
+
+PAL2NTSC
+$70118D00 0008
+$30118CFE 0040
+Y-Fix
+$7011F2BC 0010
+$8011F2BC 0000
+Unendlich Demozeit
+$700C5610 0001
+$800C5612 2400
+Max Punkte
+$80032280 C9FF
+$80032282 3B9A
+Habe Freischlüssel für Gefängnis
+$701211EC FFFF
+$800323EA 1000
+#3Leben (Note 1)
+Unendlich
+$7007EF7C FFFF
+$8007EF7E 2400
+Nehmen zu
+$7007EF7C FFFF
+$8007EF7C 0001
+#3Habe Waffe mit unendlich Munition
+Pistole
+$701211EC FFFF
+$300323E1 00FF
+Maschinengewehr
+$701211EC FFFF
+$300323E2 00FF
+Raketenwerfer
+$701211EC FFFF
+$300323E3 00FF
+Flammenwerfer
+$701211EC FFFF
+$300323E4 00FF
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$7004D392 FBFF
+$801211B8 0000
+$7004D392 FBFF
+$80118034 0005
+Hyper
+(Drücke R1 Pad 2)
+$7004D392 F7FF
+$801211B8 FFFF
+$7004D392 F7FF
+$80118034 0000
+Normal
+(Drücke R2 Pad 2)
+$7004D392 FDFF
+$801211B8 FFFF
+$7004D392 FDFF
+$80118034 0005
+
+#1LEGO INSEL 2
+
+RCJC Pad 1
+$70103CC6 ????
+RCJC Pad 2
+$70103CF2 ????
+
+PAL2NTSC
+$70036380 0008
+$3003637E 0040
+Y-Fix
+$70027E28 0010
+$80027E28 0000
+#2Brick Dive
+Unendlich Sauerstoff
+$700A779C 0006
+$800A77A6 3C00
+Habe Papierseite
+$300AA878 0001
+Habe alle Lego-Steine
+(Drücke L1 & R1)
+$70103CC6 F3FF
+$300AA874 0005
+#2Matching Mummies
+Unendlich Zeit
+$700A2024 0001
+$800A202E 3C00
+Unendlich Gesundheit
+$700A71E4 0007
+$800A71E2 3C00
+
+#1METAL GEAR SOLID-SPECIAL MISSIONS
+
+RCJC Pad 1
+700C9CB2 ????
+RCJC Pad 2
+700C9CD6 ????
+
+PAL2NTSC
+$700A113C 0008
+$300A113A 0040
+Y-Fix
+$700985B4 0010
+$800985B4 0000
+Sprache : Deutsch
+$300BD296 0001
+Unendlich Gesundheit
+$800BE9FE 0400
+Radar nicht gestört wenn entdeckt
+$800B3F00 0000
+Unendlich Zeit (Weapon Mode)
+$700D197C 0034
+$800D197E 3C00
+#3Kein Nachladen :
+Socom (Pistole)
+$7006E080 3EEC
+$8006E082 3C00
+Fa-Mas (Sturmgewehr)
+$7006E63C 3EEC
+$8006E63E 3C00
+PSG1 (Scharfschützengewehr)
+$700706F0 3EEC
+$800706F2 3C00
+#3Besitze :
+Socom (Pistole)
+$800BD2B2 03E7
+$800BD2C6 03E7
+Fa-Mas (Sturmgewehr)
+$800BD2B4 03E7
+$800BD2C8 03E7
+Grenades (Splittergranate)
+$800BD2B6 03E7
+$800BD2CA 03E7
+Nikita (Lenkrakete)
+$800BD2B8 03E7
+$800BD2CC 03E7
+Stinger (Stinger-Rakete)
+$800BD2BA 03E7
+$800BD2CE 03E7
+Claymore (Minen)
+$800BD2BC 03E7
+$800BD2D0 03E7
+C4 (Plastiksprengstoff)
+$800BD2BE 03E7
+$800BD2D2 03E7
+Stun Grenades (Blendgranate)
+$800BD2C0 03E7
+$800BD2D4 03E7
+Chaff Grenades (Düppel)
+$800BD2C2 03E7
+$800BD2D6 03E7
+PSG1 (Scharfschützengewehr)
+$800BD2C4 03E7
+$800BD2D8 03E7
+Alle Waffen
+$B0140002 0000
+$100BD2B2 03E7
+Cigs (Zigaretten)
+$800BD2DA 0001
+Scope (Fernglas)
+$800BD2DC 0001
+C. Box A (Karton A)
+$800BD2DE 0001
+C. Box B (Karton B)
+$800BD2E0 0001
+C. Box C (Karton C)
+$800BD2E2 0001
+N.V.G. (Nachtsichtgerät)
+$800BD2E4 0001
+Therm. G. (Infrarotsichtgerät)
+$800BD2E6 0001
+Gas Mask (Gasmaske)
+$800BD2E8 0001
+Body Armor (Schutzweste)
+$800BD2EA 0001
+Ketchup
+$800BD2EC 0001
+Stealth
+$800BD2EE 0001
+Bandana
+$800BD2F0 0001
+Camera
+$800BD2F2 0001
+Rationen
+$800BD2F4 03E7
+$800BD30A 03E7
+Medizin
+$800BD2F6 03E7
+$800BD30C 03E7
+Diazepam
+$800BD2F8 03E7
+$800BD30E 03E7
+PAL Key (PAL-Schlüssel)
+$800BD2FA 0001
+ID-Karte (Level 100)
+$800BD2FC 0064
+Minendetektor
+$800BD300 0001
+MO Disc
+$800BD302 0001
+Rope (Seil)
+$800BD304 0001
+Scarf (Taschentuch)
+$800BD306 0001
+Suppressor (Schalldämpfer)
+$800BD308 0000
+Fast alle Gegenstände
+$B00D0002 0000
+$100BD2DA 0001
+$B0030002 0000
+$100BD2F4 03E7
+$B0030002 0000
+$100BD30A 03E7
+$B0040002 0000
+$100BD300 0001
+#3Spielgeschwindigkeit
+Slow Motion
+(Drücke L1 Pad 2)
+$700C9CD6 FBFF
+$8009A04C 0000
+$700C9CD6 FBFF
+$800A0DDC 0001
+Hyper
+(Drücke R1 Pad 2)
+$700C9CD6 F7FF
+$8009A04C FFFF
+$700C9CD6 F7FF
+$800A0DDC 0002
+Normal
+(Drücke R2 Pad 2)
+$700C9CD6 FDFF
+$8009A04C FFFF
+$700C9CD6 FDFF
+$800A0DDC 0001
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

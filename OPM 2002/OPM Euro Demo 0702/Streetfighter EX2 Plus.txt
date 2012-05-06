@@ -1,0 +1,64 @@
+***STREETFIGHTER EX2 PLUS
+
+RCJC Pad 1
+701EC272 ????
+RCJC Pad 2
+701EC294 ????
+AnAc Pad 1
+701EC270 ????
+AnAc Pad 2
+701EC292 ????
+
+PAL2NTSC
+$301C7F9A 0040
+Y-Fix 1
+$801C00CC 0000
+Unendlich Menuezeit
+$701194FC FFFF
+$001194FC 0000
+Unendlich Kampfzeit
+$70101E50 FFFF
+$00101E50 0000
+**P1 Codes
+Unendlich Energie
+$301E6EB4 00C8
+Sudden Death
+$301E6EB4 0000
+Unendlich SuperCombo-Energie
+$301E6EB5 0096
+Keine SuperCombo-Energie
+$301E6EB5 0000
+Max Punkte
+$801E6CCC 967F
+$801E6CCE 0098
+**Immer Excel (Note)
+*An
+(Druecke Start & L2)
+$701EC272 FEF7
+$801E6EEE FFFF
+*Aus
+(Druecke Start & L1)
+$701EC272 FBF7
+$801E6EEE 0000
+**P2 Codes
+Unendlich Energie
+$301E8730 00C8
+Sudden Death
+$301E8730 0000
+Unendlich SuperCombo-Energie
+$301E8731 0096
+Keine SuperCombo-Energie
+$301E8731 0000
+**Immer Excel (Note)
+*An
+(Druecke Start & L2 Pad 2)
+$701EC294 FEF7
+$801E876A FFFF
+*Aus
+(Druecke Start & L1 Pad 2)
+$701EC294 FBF7
+$801E876A 0000
+
+Note: In normaler Welt aktivieren, um Excel-Fähigkeiten auch dort anwenden zu können.
+In Excel-Phase aktivieren, um unendlich Excel-Zeit zu erlangen.
+

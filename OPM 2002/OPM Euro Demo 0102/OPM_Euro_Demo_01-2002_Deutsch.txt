@@ -1,0 +1,251 @@
+
+//=========
+
+OPM Euro Demo 01/2002 Deutsch
+
+SCED03476
+### Codes
+Jokers, AnAcs, Codes von <A HREF="MAILTO:misfire@xploderfreax.de">misfire</A>
+erstellt mit XPClassic V2.0081
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+#1CROC - LEGEND OF THE GOBBOS
+
+RCJC Pad 1
+$70083F52 ????
+RCJC Pad 2
+$7008407A ????
+AnAc Pad 1
+$70083F50 ????
+AnAc Pad 2
+$70084078 ????
+
+PAL2NTSC
+$30062222 0040
+Y-Fix 1
+$8005F3A8 0000
+Max Diamanten
+$8007C980 03E7
+Max Gobbos
+$3007C988 0009
+Alle Kristalle gefunden
+$3007CAE4 00FF
+MoonJump
+(Drücke L3 & X)
+$70083F52 BFFD
+$80034F8C 0200
+$70083F52 FFFF
+$80034F8C 0002
+#3Leben (Note 1)
+Unendlich
+$800346AA 2402
+Nehmen zu
+$800346A8 0001
+#3Hyper Modus
+An
+(Drücke L3 & R1)
+$70083F52 F7FD
+$3001AF04 0002
+Aus
+(Drücke L3 & L1)
+$70083F52 FBFD
+$3001AF04 0001
+
+#1DAVID BECKHAM SOCCER
+
+RCJC Pad 1
+$700BDA2E ????
+RCJC Pad 2
+$700BDA52 ????
+AnAc Pad 1
+$700BDA2C ????
+AnAc Pad 2
+$700BDA50 ????
+
+PAL2NTSC
+$300AF8DE 0040
+Y-Fix 1
+$800AD7C8 0000
+Y-Fix 2
+$800AD976 2400
+Unendlich Spielzeit
+$80086BDE AC40
+Jedes Tor zählt ??-fach
+$30096E88 00??
+#3Deutschland
+20 Tore
+$300C1C28 0014
+0 Tore
+$300C1C28 0000
+#3England
+20 Tore
+$300C1C2C 0014
+0 Tore
+$300C1C2C 0000
+#3Slow Motion 
+An
+(Drücke L3)
+$700BDA2E FFFD
+$800AF10C 0000
+Aus
+(Drücke R3)
+$700BDA2E FFFB
+$800AF10C FFFF
+
+#1FUSSBALL LIVE! 2
+
+RCJC Pad 1
+$7007E886 ????
+RCJC Pad 2
+$7007E8A8 ????
+AnAc Pad 1
+$7007E884 ????
+AnAc Pad 2
+$7007E8A6 ????
+
+PAL2NTSC
+$3002CA0A 0040
+Y-Fix 1
+$80023EC0 0000
+Unendlich Spielzeit
+$800B75A6 AE40
+Jedes Tor zählt ??-fach
+$300B636C 00??
+#3Deutschland
+20 Tore
+$30112358 0014
+0 Tore
+$30112358 0000
+#3Niederlande
+20 Tore
+$3011235A 0014
+0 Tore
+$3011235A 0000
+#3Slow Motion 
+An
+(Drücke L3)
+$7007E886 FFFD
+$30026A9C 0000
+Aus
+(Drücke R3)
+$7007E886 FFFB
+$30026A9C 0001
+
+#1GRAND THEFT AUTO 2
+
+RCJC Pad 1
+$70038DF2 ????
+RCJC Pad 2
+$70038E14 ????
+
+PAL2NTSC
+$300217A2 0040
+Y-Fix 1
+$8001EB88 0000
+Max Punkte
+$80123BB8 C9FF
+$80123BBA 3B9A
+Habe alle Waffen mit unendlich Munition
+$B00B0028 0000
+$10168C18 FFFF
+#3Leben (Note 1)
+Unendlich
+$8005300A 2400
+Nehmen zu
+$80053008 1023
+#3Slow Motion 
+An
+(Drücke L1 Pad 2)
+$70038E14 FBFF
+$80020580 0000
+Aus
+(Drücke L2 Pad 2)
+$70038E14 FEFF
+$80020580 FFFF
+
+#1TONY HAWK'S SKATEBOARDING
+
+RCJC Pad 1
+$70007572 ????
+RCJC Pad 2
+$7000759A ????
+AnAc Pad 1
+$70007570 ????
+AnAc Pad 2
+$70007598 ????
+
+PAL2NTSC
+$3006E5A2 0040
+Y-Fix 1
+$80064354 0000
+Y-Fix 2
+$80064502 2400
+Unendlich Zeit
+$7009DE0A 0001
+$8009DE0A 0000
+Max Punkte
+$8004D240 FFFF
+$8004D242 2402
+$8004E300 FFFF
+$8004E302 2402
+#3Slow Motion 
+An
+(Analog-Modus ein)
+$70007570 7300
+$80023B2E 2400
+Aus
+(Analog-Modus aus)
+$70007570 4100
+$80023B2E 1440
+
+#1WORMS WORLD PARTY
+
+RCJC Pad 1
+$701E5D1A ????
+RCJC Pad 2
+$701E5D3C ????
+AnAc Pad 1
+$701E5D18 ????
+AnAc Pad 2
+$701E5D3A ????
+
+PAL2NTSC
+$30037EC6 0040
+Y-Fix 1
+$80038FA0 0000
+Y-Fix 2
+$8003914E 2400
+SuddenDeath alle Würmer
+$70076C40 0084
+$80076C42 AC80
+Sofortiger Sieg für Team 1
+(Drücke L2 & R2)
+$701E5D1A FCFF
+$30153DA4 0001
+Zeit nimmt zu
+(Halte R3)
+$70086B18 00A0
+$80086B18 FFEC
+$701E5D1A FFFB
+$80086B18 00A0
+Setze Zeit auf 0
+(Drücke L3)
+$70086B1E 2400
+$80086B1E 1C40
+$701E5D1A FFFD
+$80086B1E 2400
+#3Unendlich alle Waffen/Gegenstände
+Team 1
+$70153DAC FFFF
+$B0400004 0000
+$10153DB0 FFFF
+Team 2
+$70153FC4 FFFF
+$B0400004 0000
+$10153FC8 FFFF
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

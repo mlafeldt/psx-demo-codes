@@ -1,0 +1,132 @@
+**TOMB RAIDER II (SLED-01098)
+
+RCJC Pad 1
+7008CC8A ????
+RCJC Pad 2
+7008CCB2 ????
+AnAc Pad 1
+7008CC88 ????
+AnAc Pad 2
+7008CCB0 ????
+
+Auto Activation Code 
+$F008A518 0000
+PAL2NTSC
+$300809DA 0040
+Y-Fix (Note 1)
+$800791B8 0000
+*Bild nach oben/unten schieben (Note 1)
+(Druecke Select & Oben/Unten Pad 2)
+$900078023C0A 
+$500078000050 
+$08000A3CB2CC 
+$4A3500000000
+$07000B3CB891
+$6B3500000000
+$00004895EEFF
+$0C3404000C15
+$000069850000
+$0000FFFF2921
+$000069A50000
+$4895BEFF0C34
+$03000C150000
+$698501002921
+$000069A50800
+$E003DEADC0DE
+$500791B00004
+$001E000CBEEF
+$0007917C0000
+$000791A80000
+Kein Demoende durch Nichts Druecken
+$800882AC 0000
+Kein Todessturz
+$0003E114 0000
+Fackel brennt ewig
+$8008CD00 003C
+Spider Lara
+$3008CCEE 0001
+Habe alle Items
+$30089358 0009
+Alle Geheimnisse gefunden
+$300DEE7A 000F
+Benoetigte Zeit 00:00:00
+$8003193E AC40
+*Lara fliegt
+(Halte Viereck)
+$7008CC8A 7FFF
+$80193CC0 FFC0
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$7008CC8A 7FEF
+$80193CBE 00B6
+*Randvolles Inventar (Note 2)
+(Druecke Select)
+$7008CC8AFFFE
+$300892C4000B
+$7008CC8AFFFE
+$500893000028
+$44880800EC88
+$080098880800
+$848D0800308D
+$080040890800
+$948908003C8A
+$0800908A0800
+$E8890800C0DE
+$7008CC8AFFFE
+$B00600040000
+$1008CDA41770
+$7008CC8AFFFE
+$B00300020000
+$100892D20032
+*Unendlich :
+Luft
+$8008CCF6 0708
+Gesundheit
+$80193CC2 0400
+Magnesiumfackeln
+$800892D2 0032
+Grosse Medipacks 
+$800892D4 0032
+Kleine Medipacks 
+$800892D6 0032
+Alle Gegenstaende
+$B0030002 0000
+$100892D2 0032
+*Unendlich Munition :
+Automatik
+$8008CDA4 1770
+Uzis
+$8008CDA8 1770
+Schrotflinte
+$8008CDAC 1770
+Harpune
+$8008CDB0 1770
+Granatwerfer
+$8008CDB4 1770
+M16
+$8008CDB8 1770
+Alle Waffen 
+$B0060004 0000
+$1008CDA4 1770
+**Hypermodus
+*Normal
+(Druecke L1 Pad 2)
+$7008CCB2 FBFF
+$30074668 0001
+*Schneller
+(Druecke L2 Pad 2)
+$7008CCB2 FEFF
+$30074668 0002
+*Noch schneller
+(Druecke R1 Pad 2)
+$7008CCB2 F7FF
+$30074668 0005
+*Viel schneller
+(Druecke R2 Pad 2)
+$7008CCB2 FDFF
+$30074668 0009
+
+Note 2: Dieser Code bewirkt dasselbe wie der Tastencheat
+in der Vollversion von Tomb Raider 2, d.h. es stehen einem
+alle Waffen mit einer ordentlichen Portion Munition, 50 Fackeln,
+sowie 50 zusätzliche große und kleine Medipacks zur Verfügung.

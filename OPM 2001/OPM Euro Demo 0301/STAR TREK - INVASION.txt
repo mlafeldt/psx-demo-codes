@@ -1,0 +1,50 @@
+***STAR TREK - INVASION
+
+RCJC Pad 1
+7006D13A ????
+RCJC Pad 2
+7006D162 ????
+AnAc Pad 1
+7006D138 ????
+AnAc Pad 2
+7006D160 ????
+
+PAL2NTSC
+$3004F7C2 0040
+Y-Fix 1
+$80019DB4 0000
+Unendlich Energie (**)
+$8006618C 03E8
+Unendlich Hilfsenergie (**)
+$70062264 0000
+$30062265 00FF
+Alle Optionen freigeschaltet (**)
+$3007A37C 0041
+$3007A3FC 0041
+$3007A404 0041
+$3007A42C 0041
+*Energie-Torpedos (Note 1)
+Unendlich
+$7007EF74 FFFF
+$8007EF74 0000
+Nehmen zu
+$7007EF74 FFFF
+$8007EF74 0001
+*Zeit (Note 1)
+Unendlich
+$7008F194 FFFF
+$8008F194 0000
+Nimmt zu (**)
+$7008F194 FFFF
+$8008F194 0001
+**Slow Motion
+*An
+(Druecke L3)
+$7006D13A FFFD
+$8001BCB0 0000
+*Aus
+(Druecke R3)
+$7006D13A FFFB
+$8001BCB0 FFFF
+
+(**) Codes von Nachbrenner@XploderFreax.de

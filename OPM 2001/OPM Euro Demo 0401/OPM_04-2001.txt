@@ -1,0 +1,286 @@
+
+//=========
+
+"OPM Euro Demo 04/2001 Deutsch SCED02669"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***COLIN MCRAE RALLY 2.0
+
+RCJC Pad 1
+70062356 ????
+RCJC Pad 2
+70062378 ????
+AnAc Pad 1
+70062354 ????
+AnAc Pad 2
+70062376 ????
+
+PAL2NTSC
+$300432F6 0040
+Y-Fix 1
+$80031274 0000
+Y-Fix 2
+$80031422 2400
+Keine Rennzeit
+$8007DCD6 2400
+$8007DCDA 2400
+Stoppuhr 00:00
+$000E8CC0 0000
+Immer gute Traktion & Haftung
+$300AD12E 0060
+**Slow Motion
+*An
+(Druecke L3)
+$70062356 FFFD
+$80032CAC 0000
+*Aus
+(Druecke R3)
+$70062356 FFFB
+$80032CAC FFFF
+
+***DEAD OR ALIVE
+
+RCJC Pad 1
+70091552 ????
+RCJC Pad 2
+70091574 ????
+AnAc Pad 1
+70091550 ????
+AnAc Pad 2
+70091572 ????
+
+PAL2NTSC
+$3002FC7A 0040
+Y-Fix 1
+$8002128C 0000
+Unendlich Kampfzeit
+$800B31A2 2400
+Keine Stage-Zeit
+$800B32B2 2400
+Beide Kaempfer unverwundbar
+$800DB05C 0021
+$800DB320 0021
+*P1
+Unendlich Energie
+$80096DE8 00A0
+Keine Energie
+$80096DE8 0000
+Sudden Death
+$80096DE8 0001
+*P2/CPU
+Unendlich Energie
+$80096E40 00A0
+Keine Energie
+$80096E40 0000
+Sudden Death
+$80096E40 0001
+
+***LIBEROGRANDE INTERNATIONAL
+
+RCJC Pad 1
+700C1C72 ????
+RCJC Pad 2
+700C1C94 ????
+AnAc Pad 1
+700C1C70 ????
+AnAc Pad 2
+700C1C92 ????
+
+PAL2NTSC
+$30056A12 0040
+Y-Fix 1
+$80059CEC 0000
+Unendlich Spielzeit
+$700DCB7C FFFF
+$800DCB7E 2400
+*Heimmannschaft
+20 Tore
+$300B8FA0 0014
+0 Tore
+$300B8FA0 0000
+*Gastmannschaft
+20 Tore
+$300B8FE8 0014
+0 Tore
+$300B8FE8 0000
+
+***MTV SPORTS SNOWBOARDING
+
+RCJC Pad 1
+70088C56 ????
+RCJC Pad 2
+70088C78 ????
+AnAc Pad 1
+70088C54 ????
+AnAc Pad 2
+70088C76 ????
+
+PAL2NTSC
+$3006AA06 0040
+Y-Fix 1
+$80061BDC 0000
+Y-Fix 2
+$80061D8A 2400
+Jeder Trick bringt 1.000 Punkte
+$800A8620 03E8
+$800A8622 2484
+*Starte mit Highscore
+Anna 
+$70086350 0000
+$80086350 2710
+Mitch 
+$70086384 0000
+$80086384 2710
+
+***TEKKEN 3
+
+RCJC Pad 1
+700AED8C ????
+RCJC Pad 2
+700AEDB6 ????
+AnAc Pad 1
+700AED8A ????
+AnAc Pad 2
+700AEDB4 ????
+
+PAL2NTSC
+$3008C4AE 0040
+Y-Fix 1
+$80082A60 0000
+Unendlich Menuezeit
+$70115F64 FFFF
+$80115F66 2400
+Unendlich Kampfzeit
+$800446EE 2400
+Keine Stage-Zeit (Arcade)
+$800446FE 2400
+*Optionen anwaehlbar
+(Druecke Select im Hauptmenue)
+$700AED8C FFFE
+$3009DC5C 0007
+*Stage-Modifizierer (Note 1)
+Paul's Stage
+$700B38DA 800E
+$300B38DC 0000
+Xiaoyu's Stage
+$700B38DA 800E
+$300B38DC 0003
+Lei's Stage
+$700B38DA 800E
+$300B38DC 0005
+Eddy's Stage
+$700B38DA 800E
+$300B38DC 000A
+**P1 Codes
+Unendlich Energie
+$300AF276 00C8
+Keine Energie
+$300AF276 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B4 0000
+Lei
+$300B39B4 0002
+Xiaoyu
+$300B39B4 0007
+Eddy
+$300B39B4 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F0 0000
+Outfit 2
+$300B39F0 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A61E8 0000
+$300AEE96 0000
+Lei
+$300A61E8 0002
+$300AEE96 0002
+Xiaoyu
+$300A61E8 0007
+$300AEE96 0007
+Eddy
+$300A61E8 0008
+$300AEE96 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300AEE9C 0000
+Paul 2
+$300AEE9C 0001
+Lei 1
+$300AEE9C 0004
+Lei 2
+$300AEE9C 0005
+Xiaoyu 1
+$300AEE9C 000E
+Xiaoyu 2
+$300AEE9C 000F
+Eddy 1
+$300AEE9C 0010
+Eddy 2
+$300AEE9C 0011
+**P2/CPU Codes
+Unendlich Energie
+$300B0B02 00C8
+Keine Energie
+$300B0B02 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B6 0000
+Lei
+$300B39B6 0002
+Xiaoyu
+$300B39B6 0007
+Eddy
+$300B39B6 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F2 0000
+Outfit 2
+$300B39F2 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A6586 0000
+$300B0722 0000
+Lei
+$300A6586 0002
+$300B0722 0002
+Xiaoyu
+$300A6586 0007
+$300B0722 0007
+Eddy
+$300A6586 0008
+$300B0722 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300B0728 0000
+Paul 2
+$300B0728 0001
+Lei 1
+$300B0728 0004
+Lei 2
+$300B0728 0005
+Xiaoyu 1
+$300B0728 000E
+Xiaoyu 2
+$300B0728 000F
+Eddy 1
+$300B0728 0010
+Eddy 2
+$300B0728 0011
+**Kontrolliere P2-Modifizierer
+*Spieler
+(Druecke L1 & L2 Pad 2)
+$700AEDB6 FAFF
+$300B07D1 0000
+*CPU
+(Druecke R1 & R2 Pad 2)
+$700AEDB6 F5FF
+$300B07D1 0001
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

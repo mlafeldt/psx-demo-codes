@@ -1,0 +1,52 @@
+***BOMBERMAN WORLD
+
+RCJC Pad 1
+70073D22 ????
+RCJC Pad 2
+70073D44 ????
+
+PAL2NTSC
+$30044A5A 0040
+Y-Fix
+$8004DA44 0000
+Alle Spieler unverwundbar
+$8002A81E 3C00
+Unendlich Bomben (alle Spieler)
+$8002D79E 3C00
+*Zeit (Note 1)
+Unendlich
+$800DD052 2400
+Nimmt zu
+$800DD050 0001
+**Pause-Modus
+*An
+(Druecke Select)
+$70073D22 FFFE
+$8004425A 2400
+*Aus
+(Druecke Start)
+$70073D22 FFF7
+$8004425A 1440
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1)
+$70073D22 FBFF
+$30043E88 0002
+*Hyper
+(Druecke R1)
+$70073D22 F7FF
+$30043E88 0000
+*Normal
+(Druecke R2)
+$70073D22 FDFF
+$30043E88 0001
+**P1
+Unverwundbar
+$800C76B2 2000
+Unendlich Bomben
+$300C76D4 0009
+**P2
+Unverwundbar
+$800C778E 2000
+Unendlich Bomben
+$300C77B0 0009

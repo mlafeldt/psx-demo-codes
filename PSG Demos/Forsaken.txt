@@ -1,0 +1,127 @@
+**FORSAKEN (SLED-01263)
+
+RCJC Pad 1
+700890CA ????
+RCJC Pad 2
+700890EE ????
+AnAc Pad 1
+700890C8 ????
+AnAc Pad 2
+700890EC ????
+
+PAL2NTSC
+$3006A10E 0040
+$3011115E 0040
+Y-Fix
+$8006B770 0000
+$801132F0 0000
+Kein Demoende durch Nichts Druecken
+$800CA74C FFFF
+Unendlich Schild
+$8008775C 1000
+Unendlich Panzerung
+$8008775E 1000
+Unendlich Nitro
+$8008776C 0800
+Max Goldbarren
+$300DFEA3 00FF
+Max Powerpacks
+$30087788 0003
+Goldene Powerpacks
+$80087790 7FF0
+*Bikes (Note 1)
+Unendlich
+$8003ADB2 2400
+Nehmen zu
+$8003ADB0 0001
+*Waffen Modifizierer
+Primärwaffe
+$3008777D 00??
+Sekundärwaffe
+$3008777E 00??
+*Waffen Codes :
+Mug
+$300877AF 0063
+Solaris
+$300877B0 0063
+Scatter
+$300877B2 0063
+Titan
+$300877B3 0063
+Gravgon
+$300877B4 0063
+MFRL
+$300877B5 0063
+Purge
+$300877B6 0063
+Pine
+$300877B8 0063
+Quantum
+$300877B9 0063
+Pulsar
+$80087764 8000
+$300877A8 0001
+Tranpulse
+$80087764 8000
+$300877A9 0001
+Pyrolite
+$80087766 8000
+$300877AA 0001
+Trojax
+$80087764 8000
+$300877AB 0001
+Beamlaser
+$80087764 8000
+$8008776A 0000
+$300877AC 0001
+Suss-Gun
+$80087768 8000
+$300877AD 0001
+**Hypermodus
+*Normal
+(Druecke L1 Pad 2)
+$700890EE FBFF
+$30035460 0001
+*Schneller
+(Druecke L2 Pad 2)
+$700890EE FEFF
+$30035460 0002
+*Noch schneller
+(Druecke R1 Pad 2)
+$700890EE F7FF
+$30035460 0005
+*Viel schneller
+(Druecke R2 Pad 2)
+$700890EE FDFF
+$30035460 000A
+**Slow Motion 
+*An
+(Analog-Modus ein Pad 2)
+$700890EC 7300
+$8006D378 0000
+*Aus
+(Analog-Modus aus Pad 2)
+$700890EC 4100
+$8006D378 FFFF
+
+Index für Waffen Modifizierer Primärwaffe
+
+00 - Pulsar
+01 - Tranpulse
+02 - Pyrolite
+03 - Trojax
+04 - Beamlaser
+05 - Suss-Gun
+06 - Lightning
+
+Index für Waffen Modifizierer Sekundärwaffe
+
+00 - Mug
+01 - Solaris
+03 - Scatter
+04 - Titan
+05 - Gravgon
+06 - MFRL
+07 - Purge
+09 - Pine
+0A - Quantum

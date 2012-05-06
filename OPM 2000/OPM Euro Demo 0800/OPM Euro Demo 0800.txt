@@ -1,0 +1,268 @@
+
+
+//========
+
+"OPM Euro Demo 08/00 Deutsch"
+
+SCED02661
+erstellt mit XPClassic V2.0081
+
+
+**Colin McRae Rally 2.0 Codes
+RJC
+70061F88 ????
+PAL2NTSC
+$700547A80001
+$800547A80000
+Y-Fix
+$800312740000
+Stoppuhr eingefroren / Immer erster 
+$900E8CC00000
+$800E8CC00000
+
+**Destruction Derby Raw Codes
+RCJC - Einspieler-Modus
+700F21AE ????
+RCJC - Mehrspieler-Modus P1
+700F0C7A ????
+RCJC - Mehrspieler-Modus P2
+700E31AC ????
+PAL2NTSC (Note 1)
+$700370B80001
+$800370B80000
+$700A56A00001
+$800A56A00000
+$700A748C0001
+$800A748C0000
+$700BCD100001
+$800BCD100000
+Max Beschleunigung
+$300C582D0064
+$300C582E0064
+Max Drehzahl
+$300C582F0064
+$300C58300064
+Max Bodenhaftung
+$300C58310064
+$300C58320064
+Max Bremsen
+$300C58330064
+$300C58340064
+Max Widerstandsfaehigkeit
+$300C58350064
+$300C58360064
+Alle Eigenschaften auf Maximum
+$B00600020000
+$100C582C6464
+*Einspieler-Modus
+Unzerstoerbar
+$700AE83A0096
+$800AE8380000
+$700AE83A0096
+$B00300020000
+$100E3B400000
+Habe 5000 Punkte
+(Druecke L2 & R2)
+$700F21AEFCFF 
+$800C29041388
+Max Punkte
+$800C2904270F
+Immer Erster
+$300C29A40001 
+*Mehrspieler-Modus
+*P1
+Unzerstoerbar
+$700ACA2E0096
+$800ACA2C0000
+$700ACA2E0096
+$B00300020000
+$100E26000000
+Habe 5000 Punkte
+(Druecke Select)
+$700F0C7AFFFE
+$800C13681388
+Max Punkte
+$800C1368270F
+*P2
+Unzerstoerbar
+$700AD3E60096
+$800AD3E40000
+$700AD3E60096
+$B00300020000
+$100E26300000
+Habe 5000 Punkte
+(Druecke Select)
+$700E31ACFFFE
+$800C144C1388
+Max Punkte
+$800C144C270F
+
+**Frontschweine Codes
+RCJC
+70062F8A ????
+PAL2NTSC
+$7002EAB80001
+$8002EAB80000
+Y-Fix
+$800230A00000
+Mehr Zeit fuer Aktion
+(Druecke L1 & R1)
+$70062F8AF3FF
+$8002D7300F00
+Weniger Zeit fuer Aktion (Note 2)
+(Druecke L2 & R2)
+$70062F8AFCFF
+$8002D730FF00
+UE MU & Gegenstaende
+$800A9E680000
+$800A9E6A0000
+*Einspieler-Modus
+*P1 (Note 3)
+UE Energie Schwein 1
+$8010C2009600
+UE Energie Schwein 2
+$8010B0B89600
+UE Energie Schwein 3
+$80109F709600
+UE Energie alle Schweine
+$B00311480000
+$10109F709600
+*CPU
+SuddenDeath Schwein 1 
+(Druecke R2 & Oben)
+$70062F8AFDEF
+$80108A580000
+SuddenDeath Schwein 2
+(Druecke R2 & Rechts)
+$70062F8AFDDF
+$801079100000
+SuddenDeath Schwein 3 
+(Druecke R2 & Unten)
+$70062F8AFDBF
+$801067C80000
+SuddenDeath Schwein 4 
+(Druecke R2 & Links)
+$70062F8AFD7F
+$80103A280000
+SuddenDeath alle Schweine
+(Druecke R1 & R2)
+$70062F8AF5FF
+$80103A280000
+$70062F8AF5FF
+$B00311480000
+$101067C80000
+*Mehrspieler-Modus
+*P1
+UE Energie Schwein 1 (Note 3)
+$801090609600
+UE Energie Schwein 2 (Note 3)
+$80107F189600
+UE Energie Schwein 3 (Note 3)
+$80106DD09600
+UE Energie Schwein 4 (Note 3)
+$80105C889600
+UE Energie alle Schweine (Note 3)
+$B00411480000
+$10105C889600
+SuddenDeath Schwein 1 
+(Druecke L2 & Oben)
+$70062F8AFEEF
+$801090600000
+SuddenDeath Schwein 2
+(Druecke L2 & Rechts)
+$70062F8AFEDF
+$80107F180000
+SuddenDeath Schwein 3 
+(Druecke L2 & Unten)
+$70062F8AFEBF
+$80106DD00000
+SuddenDeath Schwein 4 
+(Druecke L2 & Links)
+$70062F8AFE7F
+$80105C880000
+SuddenDeath alle Schweine
+(Druecke L1 & L2)
+$70062F8AFAFF
+$B00411480000
+$10105C880000
+*P2
+UE Energie Schwein 1 (Note 3)
+$80104B409600
+UE Energie Schwein 2 (Note 3)
+$801039F89600
+UE Energie Schwein 3 (Note 3)
+$801028B09600
+UE Energie Schwein 4 (Note 3)
+$801017689600
+UE Energie alle Schweine (Note 3)
+$B00411480000
+$101017689600
+SuddenDeath Schwein 1 
+(Druecke R2 & Oben)
+$70062F8AFDEF
+$80104B400000
+SuddenDeath Schwein 2
+(Druecke R2 & Rechts)
+$70062F8AFDDF
+$801039F80000
+SuddenDeath Schwein 3 
+(Druecke R2 & Unten)
+$70062F8AFDBF
+$801028B00000
+SuddenDeath Schwein 4 
+(Druecke R2 & Links)
+$70062F8AFD7F
+$801017680000
+SuddenDeath alle Schweine
+(Druecke R1 & R2)
+$70062F8AF5FF
+$B00411480000
+$101017680000
+
+**Silent Bomber Codes 
+JC
+700C07B0 ????
+PAL2NTSC
+$700BF5AC0001
+$800BF5AC0000
+Y-Fix
+$8008C4500000
+UE Vitalitaet
+$800E1B944000
+$800E1B960006
+Habe Napalm-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26020063
+Habe Paralyse-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26030063
+Habe Schwerkraft-Partikel
+(Druecke L2 & R2)
+$700C07B00003
+$300E26040063
+Max E-Chips bei Aufnahme
+$300E260500FF
+Schild-Level 6
+$300E260800FF
+Alle Ziele zerstoert (Level 2)
+$300E2626000B
+UE Zeit
+$800E26580000
+Max Punkte (Level 2)
+$800E265CE0FF
+$800E265E05F5
+
+
+Note: Sicherheitshalber die Codes im 
+Demo-Auswahlbildschirm ausgeschaltet lassen und 
+erst waehrend der eigentlichen Demo aktivieren. 
+Note 1: Um die Bildschirmposition zu korrigieren, 
+die eingebaute Option des Spiels verwenden. 
+Note 2: Damit ist sofort die andere Mannschaft am Zug. 
+Note 3: Diese Codes duerfen erst waehrend der 
+eigentlichen Mission eingeschaltet werden!
+
+
+//========

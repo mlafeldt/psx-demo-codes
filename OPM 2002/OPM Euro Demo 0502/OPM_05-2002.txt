@@ -1,0 +1,369 @@
+
+//=========
+
+"OPM Euro Demo 05/2002 Deutsch SCED03887"
+
+AutoActivation (alle Demos)
+$F000DF12 0201
+
+***ACE COMBAT 3 - ELECTROSPHERE
+
+RCJC Pad 1
+700C6042 ????
+RCJC Pad 2
+700C6064 ????
+AnAc Pad 1
+700C6040 ????
+AnAc Pad 2
+700C6062 ????
+
+PAL2NTSC
+$300A912A 0040
+Y-Fix 1
+$800AF024 0000
+Unendlich Zeit
+$8005AC72 2400
+$8005AC8A 2400
+Unendlich Energie
+$3013E5D2 0064
+Schnellfeuer
+$8007818A 3C00
+Keine Anzeigen
+$3013E1C8 0001
+Unsichtbarer Jet
+$0013E344 0000
+*Raketen (Note 1)
+Unendlich
+$80078272 2400
+Nehmen zu
+$80078270 0001
+**Pause-Modus
+*An
+(Druecke Select Pad 2)
+$700C6064 FFFE
+$800A892A 2400
+*Aus
+(Druecke Start Pad 2)
+$700C6064 FFF7
+$800A892A 1440
+**Spielgeschwindigkeit
+*Slow Motion
+(Druecke L1 Pad 2)
+$700C6064 FBFF
+$800A84D8 0005
+$700C6064 FBFF
+$800A8DCC 0000
+*Hyper
+(Druecke R1 Pad 2)
+$700C6064 F7FF
+$800A84D8 0000
+$700C6064 F7FF
+$800A8DCC 0001
+*Normal
+(Druecke R2 Pad 2)
+$700C6064 FDFF
+$800A84D8 0005
+$700C6064 FDFF
+$800A8DCC 0001
+
+***COLIN MCRAE RALLY
+
+RCJC Pad 1
+700C5006 ????
+RCJC Pad 2
+700C5028 ????
+AnAc Pad 1
+700C5004 ????
+AnAc Pad 2
+700C5026 ????
+
+PAL2NTSC
+$3009F9D2 0040
+Y-Fix 1
+$8009A974 0000
+Hypermodus
+$3009F674 0002
+Stoppuhr eingefroren
+$8007613E 3C00
+Unendlich Setup-Zeit
+$300BD308 003C
+Immer gute Traktion & Haftung
+$30023CBA 0080
+
+***PETER PAN
+
+RCJC Pad 1
+700ED3DA ????
+RCJC Pad 2
+700ED3FC ????
+AnAc Pad 1
+700ED3D8 ????
+AnAc Pad 2
+700ED3FA ????
+
+PAL2NTSC
+$300D1AB6 0040
+Y-Fix 1
+$800CA270 0000
+Y-Fix 2
+$800CA41E 2400
+Kein Demoende durch Nichts Druecken
+$8006A6EE 3C00
+*Unverwundbar
+(Analog-Modus ein)
+$700ED3D8 7300
+$8010D3E6 0100
+Unendlich Herzen
+$300EE94A 000A
+Max Herzanzahl
+$300EE950 000A
+Max Federn
+$800EE94E 03E7
+
+***PORSCHE CHALLENGE
+
+RCJC Pad 1
+700DD3B0 ????
+RCJC Pad 2
+700DD3B2 ????
+
+PAL2NTSC
+$3004B38A 0040
+Y-Fix 1
+$8004D854 0000
+Immer erster
+$300E19DA 0001
+Keine Rennzeit
+$80099666 3C00
+Immer gute Traktion & Haftung
+$80097222 3C00
+*Checkpoint-Zeit (Note 1)
+Unendlich
+$80099696 3C00
+Nimmt zu
+$80099690 0001
+**Slow Motion 
+*An
+(Druecke L1 Pad 2)
+$700DD3B2 FBFF
+$8004F5BC 0000
+*Aus
+(Druecke L2 Pad 2)
+$700DD3B2 FEFF
+$8004F5BC FFFF
+
+***TEKKEN 3
+
+RCJC Pad 1
+700AED8C ????
+RCJC Pad 2
+700AEDB6 ????
+AnAc Pad 1
+700AED8A ????
+AnAc Pad 2
+700AEDB4 ????
+
+PAL2NTSC
+$3008C4AE 0040
+Y-Fix 1
+$80082A60 0000
+Unendlich Menuezeit
+$70115F64 FFFF
+$80115F66 2400
+Unendlich Kampfzeit
+$800446EE 2400
+Keine Stage-Zeit (Arcade)
+$800446FE 2400
+*Optionen anwaehlbar
+(Druecke Select im Hauptmenue)
+$700AED8C FFFE
+$3009DC5C 0007
+*Stage-Modifizierer (Note 1)
+Paul's Stage
+$700B38DA 800E
+$300B38DC 0000
+Xiaoyu's Stage
+$700B38DA 800E
+$300B38DC 0003
+Lei's Stage
+$700B38DA 800E
+$300B38DC 0005
+Eddy's Stage
+$700B38DA 800E
+$300B38DC 000A
+**P1 Codes
+Unendlich Energie
+$300AF276 00C8
+Keine Energie
+$300AF276 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B4 0000
+Lei
+$300B39B4 0002
+Xiaoyu
+$300B39B4 0007
+Eddy
+$300B39B4 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F0 0000
+Outfit 2
+$300B39F0 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A61E8 0000
+$300AEE96 0000
+Lei
+$300A61E8 0002
+$300AEE96 0002
+Xiaoyu
+$300A61E8 0007
+$300AEE96 0007
+Eddy
+$300A61E8 0008
+$300AEE96 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300AEE9C 0000
+Paul 2
+$300AEE9C 0001
+Lei 1
+$300AEE9C 0004
+Lei 2
+$300AEE9C 0005
+Xiaoyu 1
+$300AEE9C 000E
+Xiaoyu 2
+$300AEE9C 000F
+Eddy 1
+$300AEE9C 0010
+Eddy 2
+$300AEE9C 0011
+**P2/CPU Codes
+Unendlich Energie
+$300B0B02 00C8
+Keine Energie
+$300B0B02 0000
+*Charakter-Modifizierer (Note 1)
+Paul
+$300B39B6 0000
+Lei
+$300B39B6 0002
+Xiaoyu
+$300B39B6 0007
+Eddy
+$300B39B6 0008
+*Outfit-Modifizierer (Note 1)
+Outfit 1
+$300B39F2 0000
+Outfit 2
+$300B39F2 0001
+*Motion Capture Modifizierer (Note 1)
+Paul
+$300A6586 0000
+$300B0722 0000
+Lei
+$300A6586 0002
+$300B0722 0002
+Xiaoyu
+$300A6586 0007
+$300B0722 0007
+Eddy
+$300A6586 0008
+$300B0722 0008
+*Wire Frame Modifizierer (Note 1)
+Paul 1
+$300B0728 0000
+Paul 2
+$300B0728 0001
+Lei 1
+$300B0728 0004
+Lei 2
+$300B0728 0005
+Xiaoyu 1
+$300B0728 000E
+Xiaoyu 2
+$300B0728 000F
+Eddy 1
+$300B0728 0010
+Eddy 2
+$300B0728 0011
+**Kontrolliere P2-Modifizierer
+*Spieler
+(Druecke L1 & L2 Pad 2)
+$700AEDB6 FAFF
+$300B07D1 0000
+*CPU
+(Druecke R1 & R2 Pad 2)
+$700AEDB6 F5FF
+$300B07D1 0001
+
+***TONY HAWK'S SKATEBOARDING
+
+RCJC Pad 1
+70007572 ????
+RCJC Pad 2
+7000759A ????
+AnAc Pad 1
+70007570 ????
+AnAc Pad 2
+70007598 ????
+
+PAL2NTSC
+$3006E5A2 0040
+Y-Fix 1
+$80064354 0000
+Y-Fix 2
+$80064502 2400
+Unendlich Zeit
+$7009DE0A 0001
+$8009DE0A 0000
+Max Punkte
+$8004D240 FFFF
+$8004D242 2402
+$8004E300 FFFF
+$8004E302 2402
+**Slow Motion 
+*An
+(Analog-Modus ein)
+$70007570 7300
+$80023B2E 2400
+*Aus
+(Analog-Modus aus)
+$70007570 4100
+$80023B2E 1440
+
+***YAROZE GAMES
+
+RCJC Pad 1
+7004EAEE ????
+RCJC Pad 2
+7004EB12 ????
+
+PAL2NTSC
+$3003D74A 0040
+Y-Fix 1
+$80028A70 0000
+**Robot Ron
+Unendlich Leben
+$70140580 FFFF
+$80140582 2400
+Starte mit vielen Punkten
+$7014D198 0000
+$8014D198 FFFF
+**Yarozians
+Starte mit vielen Punkten
+$700BB0C0 0000
+$800BB0C0 FFFF
+*Leben (Note 1)
+Unendlich
+$700B059C FFFF
+$800B059C 0000
+Nehmen zu
+$700B059C FFFF
+$800B059C 0001
+
+Note 1: Nur einen der Codes benutzen.
+
+//=========

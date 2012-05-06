@@ -1,0 +1,75 @@
+**TOMB RAIDER III
+
+RCJC Pad 1
+700A891A ????
+RCJC Pad 2
+700A893E ????
+Analog Activator Pad 1
+701F926C 000?
+Analog Activator Pad 2
+701F935C 000?
+
+PAL2NTSC
+$70089418 0008
+$30089416 0040
+Y-Fix
+$70087860 0010
+$80087860 0000
+Habe alle Waffen
+$300A507C 000C
+Habe alle Items
+$300A5110 0009
+Fackel brennt bis fallengelassen
+$700A67E2 0009
+$800A6802 000F
+Spider Lara
+$300A67EA 0001
+*Lara fliegt
+(Halte Viereck)
+$700A891A 7FFF
+$801DC410 FFC0
+*Weiter Sprung
+(Druecke Viereck & Oben)
+$700A891A 7FEF
+$801DC40E 00B6
+*Unendlich :
+Sprinten
+$300A68CC 0078
+Gesundheit
+$801DC412 0400
+*Gegenstaende (Note 1)
+Unendlich
+$7004AD5E A462
+$8004AD58 7FFF
+$7004AD5E A462
+$8004AD5A 2402
+Nehmen zu
+$7004AD58 FFFF
+$8004AD58 0001
+*Unendlich Munition :
+Desert Eagle
+$800A68AC 1770
+Uzis
+$800A68B0 1770
+Shotgun
+$800A68B4 1770
+Harpoon Gun
+$800A68B8 1770
+Rocket Launcher
+$800A68BC 1770
+Grenade Launcher
+$800A68C0 1770
+M16
+$800A68C4 1770
+Alle Waffen
+$B0070004 0000
+$100A68AC 1770
+**Hyper Modus
+*An
+(Aktiviere Analog LED Pad 2)
+$701F935C 0001
+$30086A1C 0000
+*Aus
+(Deaktiviere Analog LED Pad 2)
+$701F935C 0000
+$30086A1C 0005

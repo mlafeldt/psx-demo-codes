@@ -1,0 +1,104 @@
+**SYPHON FILTER
+
+RCJC Pad 1
+7012A3B2 ????
+RCJC Pad 2
+7012A3D4 ????
+
+PAL2NTSC
+$700ED170 0008
+$300ED16E 0040
+Y-Fix
+$700EDFA8 0010
+$800EDFA8 0000
+Unendlich Panzerung
+$701AA6E0 0096
+$801AA6DE 0258
+$701AA780 0096
+$801AA77E 0258
+Unendlich Munition/Waffen (nach Aufnahme)
+$7004ED34 FFFF
+$8004ED3A 3C00
+**Habe alle Waffen/Gegenstaende
+*Teil 1
+(Druecke L3)
+$70007610 C0DE
+$8011DCE4 FFFF
+$70007610 C0DE
+$8011DCE6 0000
+$7012A3B2 FFFD
+$80007610 C0DE
+*Teil 2
+(Druecke R3)
+$70007610 DEAD
+$8011DCE4 6002
+$70007610 DEAD
+$8011DCE6 FFFF
+$7012A3B2 FFFB
+$80007610 DEAD
+*Unendlich Munition/Waffen
+9mm-Pistole
+$30136D8E 00FF
+45er Magnum
+$30136D9A 00FF
+G-18 Maschinenpistole
+$30136D9E 00FF
+Kampfgewehr
+$30136DA2 00FF
+Schrotflinte
+$30136DA6 00FF
+PK-102 Sturmgewehr
+$30136DAA 00FF
+M-16 Sturmgewehr
+$30136DAE 00FF
+BIZ-2 Maschinenpistole
+$30136DB2 00FF
+HK-5 Maschinenpistole
+$30136DB6 00FF
+Nachtsichtgewehr
+$30136DBA 00FF
+Scharfschuetzengewehr
+$30136DBE 00FF
+M-79 Granatwerfer
+$30136DCA 00FF
+K3G4 Sturmgewehr
+$30136DCE 00FF
+Granaten
+$30136DD6 00FF
+Gasgranaten
+$30136DDA 00FF
+C4 Sprengstoff
+$30136DEA 00FF
+*Max Munition/Waffen
+9mm-Pistole
+$30136D8C 00FF
+45er Magnum
+$30136D98 00FF
+G-18 Maschinenpistole
+$30136D9C 00FF
+Kampfgewehr
+$30136DA0 00FF
+Schrotflinte
+$30136DA4 00FF
+PK-102 Sturmgewehr
+$30136DA8 00FF
+M-16 Sturmgewehr
+$30136DAC 00FF
+BIZ-2 Maschinenpistole
+$30136DB0 00FF
+HK-5 Maschinenpistole
+$30136DB4 00FF
+Nachtsichtgewehr
+$30136DB8 00FF
+Scharfschuetzengewehr
+$30136DBC 00FF
+M-79 Granatwerfer
+$30136DC8 00FF
+K3G4 Sturmgewehr
+$30136DCC 00FF
+Granaten
+$30136DD4 00FF
+Gasgranaten
+$30136DD8 00FF
+C4 Sprengstoff
+$30136DE8 00FF
